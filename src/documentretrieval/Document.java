@@ -10,8 +10,17 @@ package documentretrieval;
  * @author puspaingtyas
  */
 public class Document {
-    private String content;
+    private int id;
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+    private String content;
+    
     public Document() {
     }
 
@@ -32,5 +41,7 @@ public class Document {
     public void setContent(String content) {
         this.content = content;
     }
-    
+    public String[] getListTerm(){
+        return null;
+    }
 }

@@ -5,10 +5,24 @@
  */
 package documentretrieval;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author admin
  */
 public class InvertedIndex {
-    
+    private ArrayList <Term> termList;
+
+    public InvertedIndex(ArrayList<Term> termList) {
+        this.termList = termList;
+    }
+
+    public ArrayList<Term> getTermList() {
+        return termList;
+    }
+
+    public void setTermList(ArrayList<Term> termList) {
+        this.termList = termList;
+    }
 }
