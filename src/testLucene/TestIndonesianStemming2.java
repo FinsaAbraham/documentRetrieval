@@ -11,18 +11,16 @@ import model.Document;
  *
  * @author lenovo
  */
-public class TestDocumentStemmingIndonesia {
+public class TestIndonesianStemming2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       Document doc = new Document (1,"aku berburu makanan , lalu membaca buku");
-       
-       doc.IndonesiaStemming();
-        System.out.println("Real Content : "+doc.getRealContent());
-        System.out.println("Content Stemming : "+doc.getContent());
-              
+           Document doc = new Document(1,"Dia sedang pergi berbelanja di pusat perbelanjaan. "
+                + "Namun, ibunya melarangnya pergi kesana karena tempat itu sangat berbahaya. ");
+        doc.IndonesiaStemming();
+        System.out.println(doc);
     }
     
 }

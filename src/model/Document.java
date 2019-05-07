@@ -287,27 +287,78 @@ public class Document implements Comparable<Document> {
 
     }
 
-    public void IndonesianStemming() {
-        String text = content;
-        Version matchVersion = Version.LUCENE_7_7_0;
+//    public void IndonesiaStemming() {
+//        String text = content;
+//        Version matchVersion = Version.LUCENE_7_7_0;
+//        Analyzer analyzer = new IndonesianAnalyzer();
+//        analyzer.setVersion(matchVersion);
+//
+//        TokenStream tokenStream = analyzer.tokenStream("myField", new StringReader(text));
+//
+//        tokenStream = new IndonesianStemFilter(tokenStream);
+//        StringBuilder sb = new StringBuilder();
+//        CharTermAttribute charTermAttribute = tokenStream.addAttribute(CharTermAttribute.class);
+//        try {
+//            tokenStream.reset();
+//            while (tokenStream.incrementToken()) {
+//                String term = charTermAttribute.toString();
+//                sb.append(term + " ");
+//            }
+//        } catch (IOException ex) {
+//            System.out.println("Exception : " + ex);
+//        }
+//        content = sb.toString();
+//    }
+        
+    public void IndonesiaStemming(){
+
+        Version matchVersion = Version.LUCENE_7_7_0; // Substitute desired Lucene version for XY
+
         Analyzer analyzer = new IndonesianAnalyzer();
+
         analyzer.setVersion(matchVersion);
 
-        TokenStream tokenStream = analyzer.tokenStream("myField", new StringReader(text));
+        // ambil stopwords
 
-        tokenStream = new IndonesianStemFilter(tokenStream);
+        CharArraySet stopWords = IndonesianAnalyzer.getDefaultStopSet();
+
+        // buat token
+
+        TokenStream tokenStream = analyzer.tokenStream(
+
+                "myField",
+
+                new StringReader(realContent.trim()));
+
+        // buang stop word
+
+        tokenStream = new StopFilter(tokenStream, stopWords);
+
+        // buat string baru tanpa stopword
+
         StringBuilder sb = new StringBuilder();
-        CharTermAttribute charTermAttribute = tokenStream.addAttribute(CharTermAttribute.class);
-        try {
-            tokenStream.reset();
-            while (tokenStream.incrementToken()) {
-                String term = charTermAttribute.toString();
-                sb.append(term + " ");
-            }
-        } catch (IOException ex) {
-            System.out.println("Exception : " + ex);
-        }
-        content = sb.toString();
-    }
 
+        CharTermAttribute charTermAttribute = tokenStream.addAttribute(CharTermAttribute.class);
+
+        try {
+
+            tokenStream.reset();
+
+            while (tokenStream.incrementToken()) {
+
+                String term = charTermAttribute.toString();
+
+                sb.append(term + " ");
+
+            }
+
+        } catch (Exception ex) {
+
+            System.out.println("Exception: " + ex);
+
+        }
+
+        content = sb.toString();
+
+    }
 }
