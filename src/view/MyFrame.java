@@ -220,7 +220,7 @@ public class MyFrame extends javax.swing.JFrame {
         jTextArea_showDetail.setRows(5);
         jScrollPane4.setViewportView(jTextArea_showDetail);
 
-        jLabel1.setText("Judul Document");
+        jLabel1.setText("Judul Doc");
 
         jLabel8.setText("Content");
 
