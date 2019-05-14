@@ -64,9 +64,8 @@ public class MyFrame extends javax.swing.JFrame {
         DetailDialog = new javax.swing.JDialog();
         jScrollPane4 = new javax.swing.JScrollPane();
         jTextArea_showDetail = new javax.swing.JTextArea();
-        jTextField_detail_judul = new javax.swing.JTextField();
-        jLabel1 = new javax.swing.JLabel();
         jLabel8 = new javax.swing.JLabel();
+        detailjudul = new javax.swing.JLabel();
         jPanel1 = new javax.swing.JPanel();
         search_fieldtext = new javax.swing.JTextField();
         search_btn = new javax.swing.JButton();
@@ -220,8 +219,6 @@ public class MyFrame extends javax.swing.JFrame {
         jTextArea_showDetail.setRows(5);
         jScrollPane4.setViewportView(jTextArea_showDetail);
 
-        jLabel1.setText("Judul Doc");
-
         jLabel8.setText("Content");
 
         javax.swing.GroupLayout DetailDialogLayout = new javax.swing.GroupLayout(DetailDialog.getContentPane());
@@ -230,20 +227,17 @@ public class MyFrame extends javax.swing.JFrame {
             DetailDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(DetailDialogLayout.createSequentialGroup()
                 .addGap(19, 19, 19)
-                .addGroup(DetailDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel1)
+                .addGroup(DetailDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                     .addComponent(jLabel8)
-                    .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 481, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField_detail_judul, javax.swing.GroupLayout.PREFERRED_SIZE, 161, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(20, Short.MAX_VALUE))
+                    .addComponent(jScrollPane4, javax.swing.GroupLayout.DEFAULT_SIZE, 431, Short.MAX_VALUE)
+                    .addComponent(detailjudul, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(49, Short.MAX_VALUE))
         );
         DetailDialogLayout.setVerticalGroup(
             DetailDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, DetailDialogLayout.createSequentialGroup()
-                .addContainerGap(31, Short.MAX_VALUE)
-                .addComponent(jLabel1)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jTextField_detail_judul, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap()
+                .addComponent(detailjudul, javax.swing.GroupLayout.DEFAULT_SIZE, 63, Short.MAX_VALUE)
                 .addGap(18, 18, 18)
                 .addComponent(jLabel8)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -424,7 +418,7 @@ public class MyFrame extends javax.swing.JFrame {
 
         DetailDialog.setVisible(true);
         jTextArea_showDetail.setText(model.getValueAt(index, 1).toString());
-        jTextField_detail_judul.setText(model.getValueAt(index, 3).toString());
+        detailjudul.setText(model.getValueAt(index, 3).toString());
     }//GEN-LAST:event_jTable1MouseClicked
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
@@ -509,13 +503,13 @@ public class MyFrame extends javax.swing.JFrame {
     private javax.swing.JDialog OpenDir;
     private javax.swing.JTextArea content_textArea;
     private javax.swing.JTextArea content_textArea1;
+    private javax.swing.JLabel detailjudul;
     private javax.swing.JFileChooser fileChooser;
     private javax.swing.JTextField idDoc_textField;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
     private javax.swing.JButton jButton4;
-    private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel7;
@@ -531,7 +525,6 @@ public class MyFrame extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane4;
     private javax.swing.JTable jTable1;
     private javax.swing.JTextArea jTextArea_showDetail;
-    private javax.swing.JTextField jTextField_detail_judul;
     private javax.swing.JButton saveNewDoc_btn;
     private javax.swing.JButton search_btn;
     private javax.swing.JTextField search_fieldtext;
