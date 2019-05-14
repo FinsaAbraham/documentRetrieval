@@ -502,7 +502,6 @@ public class MyFrame extends javax.swing.JFrame {
         FileNameExtensionFilter filter = new FileNameExtensionFilter("TEXT FILES", "txt", "text");
         fileChooser.setFileFilter(filter);
 
-
         if (fileChooser.showOpenDialog(this) == JFileChooser.APPROVE_OPTION) {
             file = fileChooser.getSelectedFile();
             index.readFileTXT(file);
