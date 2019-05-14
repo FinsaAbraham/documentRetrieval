@@ -210,17 +210,12 @@ public class Document implements Comparable<Document> {
         try {
 
             tokenStream.reset();
-
             while (tokenStream.incrementToken()) {
-
                 String term = charTermAttribute.toString();
-
                 sb.append(term + " ");
-
             }
 
         } catch (Exception ex) {
-
             System.out.println("Exception: " + ex);
 
         }
@@ -235,47 +230,30 @@ public class Document implements Comparable<Document> {
      *
      */
     public void stemming() {
-
         String text = content;
-
 //        System.out.println("Text = "+text);
         Version matchVersion = Version.LUCENE_7_7_0; // Substitute desired Lucene version for XY
-
         Analyzer analyzer = new StandardAnalyzer();
-
         analyzer.setVersion(matchVersion);
-
         // buat token
         TokenStream tokenStream = analyzer.tokenStream(
                 "myField",
                 new StringReader(text.trim()));
-
         // stemming
         tokenStream = new PorterStemFilter(tokenStream);
-
         // buat string baru tanpa stopword
         StringBuilder sb = new StringBuilder();
-
         CharTermAttribute charTermAttribute = tokenStream.addAttribute(CharTermAttribute.class);
-
         try {
-
             tokenStream.reset();
-
             while (tokenStream.incrementToken()) {
-
                 String term = charTermAttribute.toString();
-
                 sb.append(term + " ");
-
             }
 
         } catch (Exception ex) {
-
             System.out.println("Exception: " + ex);
-
         }
-
         content = sb.toString();
 
     }
@@ -305,53 +283,30 @@ public class Document implements Comparable<Document> {
 
         
     public void IndonesiaStemming(){
-
         Version matchVersion = Version.LUCENE_7_7_0; // Substitute desired Lucene version for XY
-
         Analyzer analyzer = new IndonesianAnalyzer();
-
         analyzer.setVersion(matchVersion);
-
         // ambil stopwords
-
         CharArraySet stopWords = IndonesianAnalyzer.getDefaultStopSet();
-
         // buat token
-
         TokenStream tokenStream = analyzer.tokenStream(
-
                 "myField",
-
                 new StringReader(realContent.trim()));
-
         // buang stop word
-
         tokenStream = new StopFilter(tokenStream, stopWords);
-
         // buat string baru tanpa stopword
-
         StringBuilder sb = new StringBuilder();
-
         CharTermAttribute charTermAttribute = tokenStream.addAttribute(CharTermAttribute.class);
-
         try {
-
             tokenStream.reset();
-
             while (tokenStream.incrementToken()) {
-
                 String term = charTermAttribute.toString();
-
                 sb.append(term + " ");
-
             }
-
         } catch (Exception ex) {
 
             System.out.println("Exception: " + ex);
-
         }
-
         content = sb.toString();
 
     }

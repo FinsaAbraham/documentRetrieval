@@ -414,8 +414,9 @@ public class InvertedIndex {
 
     /**
      * Fungsi perkalian inner product dari PostingList Atribut yang dikalikan
-     * adalah atribut weight TFIDF dari posting
-     * Ini dikenal dengan istilah penghitungan jarak Euclidean
+     * adalah atribut weight TFIDF dari posting Ini dikenal dengan istilah
+     * penghitungan jarak Euclidean
+     *
      * @param p1
      * @param p2
      * @return
@@ -474,37 +475,39 @@ public class InvertedIndex {
         Collections.sort(result);
         return result;
     }
-    
+
     /**
-     * Fungsi untuk menghitung panjang dari sebuah posting
-     * Asumsi posting memiliki komponen bobot/weight
+     * Fungsi untuk menghitung panjang dari sebuah posting Asumsi posting
+     * memiliki komponen bobot/weight
+     *
      * @param posting
-     * @return 
+     * @return
      */
-    public double getLengthOfPosting(ArrayList<Posting> posting){
-        double result=0.0;
+    public double getLengthOfPosting(ArrayList<Posting> posting) {
+        double result = 0.0;
         for (int i = 0; i < posting.size(); i++) {
             // ambil obyek posting
             Posting post = posting.get(i);
             // ambil bobot/weight
             double weight = post.getWeight();
             // kuadrat bobot
-            weight = weight*weight;
+            weight = weight * weight;
             // jumlahkan ke result
             result = result + weight;
         }
         // keluarkan akar kuadrat
         return Math.sqrt(result);
     }
-    
+
     /**
      * Fungsi untuk menghitung cosine similarity
+     *
      * @param posting
      * @param posting1
-     * @return 
+     * @return
      */
     public double getCosineSimilarity(ArrayList<Posting> posting,
-            ArrayList<Posting> posting1){
+            ArrayList<Posting> posting1) {
         // cari jarak antara posting dan posting 1
         double hasilDotProduct = getInnerProduct(posting, posting1);
         // cari panjang posting
@@ -512,19 +515,20 @@ public class InvertedIndex {
         // cari panjang posting1
         double panjang_posting1 = getLengthOfPosting(posting1);
         // hitung cosine similarity
-        double result = 
-                hasilDotProduct / Math.sqrt(panjang_posting*panjang_posting1);
+        double result
+                = hasilDotProduct / Math.sqrt(panjang_posting * panjang_posting1);
         return result;
     }
-    
+
     /**
      * Fungsi untuk mencari berdasar nilai TFIDF
+     *
      * @param query
-     * @return 
+     * @return
      */
-    public ArrayList<SearchingResult> searchTFIDF(String query){
+    public ArrayList<SearchingResult> searchTFIDF(String query) {
         // buat list search document
-        ArrayList<SearchingResult> result = new ArrayList<SearchingResult>(); 
+        ArrayList<SearchingResult> result = new ArrayList<SearchingResult>();
         // ubah query menjadi array list posting
         ArrayList<Posting> queryPostingList = getQueryPosting(query);
         // buat posting list untuk seluruh dokumen
@@ -535,9 +539,9 @@ public class InvertedIndex {
             // buat posting list untuk dokumen
             ArrayList<Posting> tempDocWeight = makeTFIDF(idDoc);
             // hitung jarak antar posting list dokumen dengan posting list query
-            double hasilDotProduct = getInnerProduct(tempDocWeight,queryPostingList);
+            double hasilDotProduct = getInnerProduct(tempDocWeight, queryPostingList);
             // isi result list
-            if (hasilDotProduct > 0){
+            if (hasilDotProduct > 0) {
                 // buat obyek document hasil cari
                 SearchingResult resultDoc = new SearchingResult(hasilDotProduct, doc);
                 // tambahkan ke list hasil cari
@@ -548,15 +552,16 @@ public class InvertedIndex {
         Collections.sort(result);
         return result;
     }
-    
+
     /**
      * Fungsi untuk mencari dokumen berdasarkan cosine similarity
+     *
      * @param query
-     * @return 
+     * @return
      */
-    public ArrayList<SearchingResult> searchCosineSimilarity(String query){
+    public ArrayList<SearchingResult> searchCosineSimilarity(String query) {
         // buat list search document
-        ArrayList<SearchingResult> result = new ArrayList<SearchingResult>(); 
+        ArrayList<SearchingResult> result = new ArrayList<SearchingResult>();
         // ubah query menjadi array list posting
         ArrayList<Posting> queryPostingList = getQueryPosting(query);
         // buat posting list untuk seluruh dokumen
@@ -567,9 +572,9 @@ public class InvertedIndex {
             // buat posting list untuk dokumen
             ArrayList<Posting> tempDocWeight = makeTFIDF(idDoc);
             // hitung cosin similarity antar posting list dokumen dengan posting list query
-            double cosineSimilarity = getCosineSimilarity(tempDocWeight,queryPostingList);
+            double cosineSimilarity = getCosineSimilarity(tempDocWeight, queryPostingList);
             // isi result list
-            if (cosineSimilarity > 0){
+            if (cosineSimilarity > 0) {
                 // buat obyek document hasil cari
                 SearchingResult resultDoc = new SearchingResult(cosineSimilarity, doc);
                 // tambahkan ke list hasil cari
@@ -580,13 +585,13 @@ public class InvertedIndex {
         Collections.sort(result);
         return result;
     }
-    
+
     /**
-     * Fungsi untuk membuat list dokumen dari sebuah directory
-     * asumsikan isi file cukup disimpan dalam sebuah obyek String
-     * @param directory 
+     * Fungsi untuk membuat list dokumen dari sebuah directory asumsikan isi
+     * file cukup disimpan dalam sebuah obyek String
+     *
+     * @param directory
      */
-  
     public void readDirectory(File directory) {
         File[] fileNames = directory.listFiles();
         int i = 1;

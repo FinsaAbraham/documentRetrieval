@@ -302,6 +302,7 @@ public class MyFrame extends javax.swing.JFrame {
         search_fieldtext.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         search_fieldtext.setBorder(null);
 
+        search_btn.setFont(new java.awt.Font("Tahoma", 1, 13)); // NOI18N
         search_btn.setText("Search");
         search_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -332,6 +333,7 @@ public class MyFrame extends javax.swing.JFrame {
         }
 
         jLabel9.setFont(new java.awt.Font("Calibri", 1, 36)); // NOI18N
+        jLabel9.setForeground(new java.awt.Color(150, 212, 219));
         jLabel9.setText("Gugel Search");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
@@ -455,7 +457,6 @@ public class MyFrame extends javax.swing.JFrame {
             model.addRow(rowData);
         }
     }
-
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         fileChooser.setDialogTitle("Pilih hanya Directory");
         fileChooser.setCurrentDirectory(new java.io.File("."));
