@@ -61,7 +61,7 @@ public class MyFrame extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
         jButton2 = new javax.swing.JButton();
         fileChooser = new javax.swing.JFileChooser();
-        jDialog_showDetail = new javax.swing.JDialog();
+        DetailDialog = new javax.swing.JDialog();
         jScrollPane4 = new javax.swing.JScrollPane();
         jTextArea_showDetail = new javax.swing.JTextArea();
         jTextField_detail_judul = new javax.swing.JTextField();
@@ -214,32 +214,32 @@ public class MyFrame extends javax.swing.JFrame {
             .addComponent(jPanel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
 
-        jDialog_showDetail.setMinimumSize(new java.awt.Dimension(540, 585));
+        DetailDialog.setMinimumSize(new java.awt.Dimension(540, 585));
 
         jTextArea_showDetail.setColumns(20);
         jTextArea_showDetail.setRows(5);
         jScrollPane4.setViewportView(jTextArea_showDetail);
 
-        jLabel1.setText("Judul");
+        jLabel1.setText("Judul Document");
 
         jLabel8.setText("Content");
 
-        javax.swing.GroupLayout jDialog_showDetailLayout = new javax.swing.GroupLayout(jDialog_showDetail.getContentPane());
-        jDialog_showDetail.getContentPane().setLayout(jDialog_showDetailLayout);
-        jDialog_showDetailLayout.setHorizontalGroup(
-            jDialog_showDetailLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jDialog_showDetailLayout.createSequentialGroup()
+        javax.swing.GroupLayout DetailDialogLayout = new javax.swing.GroupLayout(DetailDialog.getContentPane());
+        DetailDialog.getContentPane().setLayout(DetailDialogLayout);
+        DetailDialogLayout.setHorizontalGroup(
+            DetailDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(DetailDialogLayout.createSequentialGroup()
                 .addGap(19, 19, 19)
-                .addGroup(jDialog_showDetailLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(DetailDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel1)
                     .addComponent(jLabel8)
                     .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 481, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jTextField_detail_judul, javax.swing.GroupLayout.PREFERRED_SIZE, 161, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addContainerGap(20, Short.MAX_VALUE))
         );
-        jDialog_showDetailLayout.setVerticalGroup(
-            jDialog_showDetailLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jDialog_showDetailLayout.createSequentialGroup()
+        DetailDialogLayout.setVerticalGroup(
+            DetailDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, DetailDialogLayout.createSequentialGroup()
                 .addContainerGap(31, Short.MAX_VALUE)
                 .addComponent(jLabel1)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -422,7 +422,7 @@ public class MyFrame extends javax.swing.JFrame {
         int index = jTable1.getSelectedRow();
         TableModel model = jTable1.getModel();
 
-        jDialog_showDetail.setVisible(true);
+        DetailDialog.setVisible(true);
         jTextArea_showDetail.setText(model.getValueAt(index, 1).toString());
         jTextField_detail_judul.setText(model.getValueAt(index, 3).toString());
     }//GEN-LAST:event_jTable1MouseClicked
@@ -504,6 +504,7 @@ public class MyFrame extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JDialog DetailDialog;
     private javax.swing.JDialog NewDoc;
     private javax.swing.JDialog OpenDir;
     private javax.swing.JTextArea content_textArea;
@@ -514,7 +515,6 @@ public class MyFrame extends javax.swing.JFrame {
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
     private javax.swing.JButton jButton4;
-    private javax.swing.JDialog jDialog_showDetail;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
