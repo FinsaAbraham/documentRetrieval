@@ -45,7 +45,7 @@ public class MyFrame extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        DialogApp = new javax.swing.JDialog();
+        NewDoc = new javax.swing.JDialog();
         jPanel2 = new javax.swing.JPanel();
         jPanel3 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
@@ -83,7 +83,7 @@ public class MyFrame extends javax.swing.JFrame {
         jMenuItem3 = new javax.swing.JMenuItem();
         jMenuItem2 = new javax.swing.JMenuItem();
 
-        DialogApp.setMinimumSize(new java.awt.Dimension(480, 440));
+        NewDoc.setMinimumSize(new java.awt.Dimension(480, 440));
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 255));
 
@@ -163,14 +163,14 @@ public class MyFrame extends javax.swing.JFrame {
                 .addGap(63, 63, 63))
         );
 
-        javax.swing.GroupLayout DialogAppLayout = new javax.swing.GroupLayout(DialogApp.getContentPane());
-        DialogApp.getContentPane().setLayout(DialogAppLayout);
-        DialogAppLayout.setHorizontalGroup(
-            DialogAppLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout NewDocLayout = new javax.swing.GroupLayout(NewDoc.getContentPane());
+        NewDoc.getContentPane().setLayout(NewDocLayout);
+        NewDocLayout.setHorizontalGroup(
+            NewDocLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
-        DialogAppLayout.setVerticalGroup(
-            DialogAppLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        NewDocLayout.setVerticalGroup(
+            NewDocLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
 
@@ -422,7 +422,7 @@ public class MyFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenuItem2ActionPerformed
 
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
-        DialogApp.setVisible(true);
+        NewDoc.setVisible(true);
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void saveNewDoc_btnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_saveNewDoc_btnActionPerformed
@@ -568,7 +568,7 @@ public class MyFrame extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JDialog DialogApp;
+    private javax.swing.JDialog NewDoc;
     private javax.swing.JDialog OpenDir;
     private javax.swing.JTextArea content_textArea;
     private javax.swing.JTextArea content_textArea1;
