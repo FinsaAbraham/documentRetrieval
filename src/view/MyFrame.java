@@ -478,7 +478,7 @@ public class MyFrame extends javax.swing.JFrame {
             }
             content_textArea1.setText(result);
         } else {
-            System.out.println("No Selection");
+            System.out.println("Exit");
         }
     }//GEN-LAST:event_jButton1ActionPerformed
 
@@ -517,7 +517,7 @@ public class MyFrame extends javax.swing.JFrame {
             }
             content_textArea1.setText(result);
         } else {
-            System.out.println("No Selection");
+            System.out.println("Exit");
         }
     }//GEN-LAST:event_jButton2ActionPerformed
 
