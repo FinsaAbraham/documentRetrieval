@@ -1,0 +1,578 @@
+SISTEM TEKNOLOGI ROBOTIKA UNTUK MENDETEKSI DAN MENGHITUNG DEBIT SAMPAH-SAMPAH YANG ADA DI SUNGAI SERTA MEMBERIKAN SINYAL PERINGATAN KE DINAS KOTA
+
+MEDAN
+Robert Andio Haloho
+
+BAB I. PENDAHULUAN
+1.1 Latar Belakang Penulisan
+Sampah merupakan barang yang
+dianggap sudah tidak terpakai dan
+dibuang oleh pemilik/pemakai
+sebelumnya, tetapi masih bisa dipakai
+atau dikelola dengan prosedur yang
+benar, ucap basriyanta. Apa itu sampah
+menurut saya adalah segala objek baik
+itu padat, cair, gas maupun yang masih
+bisa didaur ulang maupun tidak yang
+sifatnya dapat merusak
+kehidupan/lingkungan. Menurut Prof.
+Ilmi sumber sampah domestik Pemko
+Medan adalah dari sisa rumah tangga
+yang terdiri dari 21 Kecamatan dan 151
+Kelurahan dengan total produksi 1.400
+ton per hari dan 5 % nya dibuang di
+sungai atau sekitar 70 ton, Fantastik
+bukan!.
+Sungai yang mengalirkan air
+merupakan kebutuhan pokok yang
+diperlukan oleh masyarakat. Kenyataan
+nya masih ada sungai di medan yang
+tercemar oleh sampah.
+Tidak ada bukti real time sampah
+mengalir di sungai merupakan alasan
+mengapa kuantitas sampah di sungai
+tidak bias diprediksi dan Dinas terkait
+yang menaungi masalah sampah di
+sungai kota medan dapat memperoleh
+Metoda atau Konsep yang jelas untuk
+
+mengurangi sampah yang ada di
+sungai-sungai kota medan agar
+terciptanya Medan Berhias (Bersih,
+Hijau, Asri dan Sehat).
+Mengutip Buku Pintar Kompas
+mengatakan meluapnya tiga sungai
+besar yakni Sungai , Sungai Belawan,
+dan Sungai Babura, membuat ribuan
+rumah di Kota Medan terendam (6
+januari 2011). Itulah dampak buruk
+apabila kita tidak menjaga Sungai
+dengan baik.
+Peringatan yang telah dilakukan
+oleh Dinas terkait untuk tidak
+membuang sampah di Sungai tidak
+digubris oleh masyarakat.
+Selain sebagai saran untuk
+menuangkan ide dan gagasan,
+penulisan karya ilmiah ini juga
+dimaksudkan untuk mengikuti
+perlombaan yang diadakan oleh
+Balitbang (Badan Penelitian dan
+Pengembangan Kota Medan) Pemko
+Medan.
+1.2 Rumusan Masalah Penulisan
+Bagaimana caranya
+mengidentifikasi sampah yang
+mengapung di atas air sungai dan
+memberikan peringatan ke kantor
+Dinas Kebersihan dan Tata Kota
+medan menggunakan Konsep Robotika
+
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2014
+Tema “Inovasi Medan Berhias
+(Bersih, Hijau, Asri dan Sehat”)
+
+10
+(Sub Ilmu dari Artificial Intelligence)
+agar terciptanya kota Medan yang
+Bersih, Hijau, Asri dan Sehat?
+1.3 Maksud dan Tujuan Penulisan
+Maksud dan tujuan penulisan karya
+ilmiah ini adalah untuk mendeteksi
+objek dalam hal ini sampah dan
+membuat perkiraan seberapa banyak
+debit sampah di sungai serta
+memberikan sinyal peringatan
+(warning alarm) ke dinas terkait kota
+medan.
+1.4 Kerangka Teori Penulisan
+1.4.1 Pengertian Sampah
+Menurut Basriyanta, sampah
+merupakan barang yang dianggap
+sudah tidak terpakai dan dibuang
+oleh pemilik/pemakai sebelumnya,
+tetapi masih bisa dipakai atau
+dikelola dengan prosedur yang
+benar. Ecolink (1996)
+mendefenisikan sampah sebagai
+suatu bahan yang terbuang atau
+dibuang dari sumber hasil aktivitas
+manusia maupun proses alam yang
+belum memiliki nilai ekonomis.
+Maka dapat ditarik kesimpulan
+bahwa sampah adalah segala objek
+baik itu padat, cair, gas maupun
+yang masih bisa didaur ulang
+maupun tidak yang sifatnya dapat
+merusak kehidupan/lingkungan.
+1.4.2 Pengertian Pencemaran
+Lingkungan
+Menurut Tchobanoglous &
+Elliassen (1979) pencemaran
+adalah gabungan cairan atau limbah
+
+yang terbawa arus air dari tempat
+tinggal (rumah), kantor, bangunan
+perdagangan, industri, serta air
+tanah, air permukaan dan air hujan.
+Maka dapat ditarik kesimpulan
+bahwa pencemaran lingkungan
+adalah segala sesuatu yang sifatnya
+mengakibatkan rusaknya
+lingkungan dan tidak disukai oleh
+makhluk hidup.
+1.4.3 Pengertian Berhias (Bersih,
+Hijau, Asri dan Sehat)
+Berhias merupakan sebuah kata
+yang sangat populer di kota medan.
+Berhias yang merupakan singkatan
+dari Bersih, Hijau, Asri dan Sehat
+dipimpin oleh walikota medan saat
+ini Dzulmi Eldin. Dewi selaku
+perwakilan dari anggota medan
+berhias mengatakan tujuan dari
+Medan Berhias adalah agar setiap
+lapisan masyarakat peduli terhadap
+lingkungan.
+1.4.4 Pengertian Artificial
+Intelligence
+Artificial Intelligence (AI)
+apabila diterjemahkan kedalam
+Bahasa Indonesia adalah
+Kecerdasan Buatan. Artificial
+Intelligence ini merupakan induk
+dari hasil pembelajaran ilmu
+komputer secara mendalam, yang
+terdiri dari sistem matematika,
+navigasi, permainan, analis,
+robotika dan sensor. Hasil dari
+Artificial Intelligence ini dapat
+berupa Hardware (perangkat keras)
+
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2014
+Tema “Inovasi Medan Berhias
+(Bersih, Hijau, Asri dan Sehat”)
+
+11
+maupun Software (perangkat lunak)
+maupun penggabungan keduanya.
+1.4.5 Pengertian Sistem
+Teknologi Robotika
+Sistem Teknologi Robotika
+adalah sistem teknologi yang terdiri
+dari Hardware dan Software.
+Hardware berupa rangkaian
+Motherboard Elektronika dan
+Software berupa Program Tampilan
+dari computer ke user.
+1.5 Metode Penulisan Penelitian
+Metode penulisan karya ilmiah
+penulis gunakan sebagai rujukan dalam
+karya tulis ilmiah dengan 2 (dua) cara,
+meliputi Pembuatan Alat dan
+Metode Diskriptik Analitik.
+
+1.5.1 Jenis Penelitian
+Jenis penelitian ini adalah
+penelitian eksperimen berdasarkan
+pengamatan langsung dari Sistem
+Artificial yang telah dibuat oleh
+penulis. Penelitian Eksperimen ini
+dapat langsung diaplikasikan ke
+dunia nyata dengan meletakkan
+sistem Robotika ini dibawah
+jembatan tepatnya diatas sungai.
+Seluruh data Penelitian diambil dari
+Eksperimen alat yang dirancang
+penulis.
+1.5.2 Jadwal Penelitian
+Jadwal pelaksanaan penelitian
+ini dilakukan dalam jangka
+waktu 19 (sembilan belas) hari
+yang dapat dilihat pada table
+berikut.
+
+Tabel 1.1 Jadwal Penelitian
+
+BAB II. PEMBAHASAN
+2.1 Identifikasi Masalah
+Tidak adanya alat yang mampu
+memberikan identifikasi pendeteksi
+sampah secara real time yang dibuat
+dengan oleh sistem kecerdasan buatan
+dan belum terciptanya sistem warning
+alarm yang ada di Sungai-Sungai Kota
+Medan oleh Dinas terkait merupakan
+
+masalah yang telah teridentifikasi oleh
+penulis.
+2.2 Analisis Masalah
+Bagaimana sebuah gelombang
+mampu mengenali sebuah objek
+merupakan analisa paling dasar dari
+karya tulis ilmiah ini. Konsep dasar
+dari pengenalan objek adalah
+gelombang ultrasonik. Contoh
+
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2014
+Tema “Inovasi Medan Berhias
+(Bersih, Hijau, Asri dan Sehat”)
+
+12
+penerapan gelombang ultrasonik terjadi
+pada kelelawar. Prinsip utamanya
+kelelawar mampu mendeteksi seberapa
+dekat dia dengan objek di depan
+maupun disamping nya sehingga tidak
+terjadi tabrakan. Intinya kelelawar
+mempunyai fungsi transmit dan
+received atau fungsi mengirim sinyal
+dan menerima sinyal. Seberapa lama
+waktu penerimaan sinyal di identifikasi
+sama dengan seberapa jauh kelelawar
+dengan objek di depannya, contonya
+batu, pohon.
+Analisa kedua adalah praktis
+membuang sampah ke sungai, artinya
+tidak adanya proses yang harus
+dilakukan untuk membuang sampah
+tersebut, contohnya sampah tidak perlu
+lagi dibakar oleh pengguna.
+Untuk mendeskipsikan gelombang
+ultrasonik yang dijelaskan diatas
+diperlukan sebuah alat yang mampu
+memberikan sinyal ultrasonik,
+mendeteksi dan mengirimkan sinyal
+umpan balik ke bagian pengolah atau
+otak dari sistem menggunakan devais
+yang disebut dengan Sensor. Karena
+sensor ultrasonik tersebut selalu
+mengirimkan gelombang secara terus
+menerus maka untuk mensolusikannya
+pengaturan akan dilakukan pada koding
+(software). Pengolahan yang terpusat
+harus dilakukan agar setiap bagian
+dapat melakukan fungsinya sesuai
+dengan apa yang diinginkan maka
+diperlukan sebuah mikrokontroller
+yang mampu mengolah data analog
+dari sensor dan mengubahnya menjadi
+sinyal digital. Sebuah kernel harus
+dibentuk untuk mengenali apa yang
+
+dikirimkan mikrokontroller ke
+computer. Kernel tersebut dinamakan
+data serial. Fungsi sistem akan lebih
+baik apabila sistem program mudah
+digunakan, kuat dalam performance
+dan sesuai dengan apa yang diingkan
+maka diperlukan VB.Net2010 dan
+Sublime sebagai editornya.
+BAB III. PERANCANGAN
+3.1 Flowchart
+Flowchart merupakan fondasi
+awal untuk merancang Alat yang akan
+dibuat baik dari segi perancangan
+hardware (perangkat keras) dan
+Software (perangkat lunak).
+3.2 Hardware
+Perancangan hardware
+merupakan yang paling penting, karena
+apabila tidak ada perangkat keras maka
+ilmu dari Artificial Intelligence akan
+kurang tampak pada nilai essensial
+perancangan sistem Robotika.
+
+Gbr 3.2 Motherboard Rangkaian Jadi
+
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2014
+Tema “Inovasi Medan Berhias
+(Bersih, Hijau, Asri dan Sehat”)
+
+13
+
+3.2.1 Motherboard
+Motherboard atau rangkaian induk (utama) terdiri dari bagian, yaitu Port
+Power, Port Kontroller, Port Sensor dan Port Komunikasi.
+
+Gbr 3.3 Perancangan Skematik Pada Motherboard Rangkaian
+
+Gbr 3.4 Perancangan Board Pada Motherboard Rangkaian
+
+3.2.1.1 Port Power
+Sumber energi yang
+digunakan untuk memberikan power
+
+ke setiap komponen rangkaian
+elektronika. power yang digunakan
+adalah adaptor 12 VDC dan di cut-
+
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2014
+Tema “Inovasi Medan Berhias
+(Bersih, Hijau, Asri dan Sehat”)
+
+14
+off menjadi 5 VDC untuk memenuhi
+kebutuhan ke Mikrokontroller dan
+Sensor.
+3.2.1.2 Port Kontroller
+Kontroller merupakan otak
+dari rangkaian motherboard.
+Kontroller yang digunakan adalah
+Microcontroller AVR ATMega8
+yang mempunyai 28 pin).
+Mikrokontroller adalah sebuah
+komponen elektronika yang sudah
+terintegrasi dan bisa dikatakan
+
+sebagai mini komputer, karena fitur-
+fitur yang dimiliki sudah mumpuni,
+
+seperti fitur ADC (Analog Digital
+Computer) yang fungsinya untuk
+mengubah sinyal analog yang
+diberikan oleh sensor menjadi sinyal
+digital tanpa harus menambah
+rangkaian elektronika lagi.
+3.2.1.3 Port Sensor
+Sensor SEN136B5B
+merupakan modul sensor ultrasonik
+yang biasanya digunakan untuk
+mengukur jarak suatu benda. Pada
+karya ilmiah ini fungsi dari sensor
+srf adalah untuk memberikan sinyal
+1 (ada) 0 (tidak ada) sebagai sinyal
+peringatan. Sensor ini terbagi atas 2
+bagian besar, pertama bagian
+transmit dan yang kedua received,
+fungsi dari bagian transmit adalah
+memberikan sinyal kepada objek
+(sampah) yang dituju, lalu
+gelombang tersebut akan dikirimkan
+lagi ke bagian received, yang
+berguna untuk menangkap
+gelombang pantulan tersebut.
+
+Default dari sensor ini memberikan
+sinyal yang sangat cepat, namun
+penulis merekayasa sistem sensor
+tersebut agar lebih berfungsi sesuai
+yang diinginkan, dengan melakukan
+pengaturan delay time supaya sensor
+tidak memberikan sinyal secara
+terus menerus. Sensor merupakan
+pendeteksi yang mempunyai 3 pin,
+yaitu SIG, VCC, GND. SIG
+merupakan singkatan dari SIGNAL
+yang berfungsi menggubah
+gelombang 40 KHz menjadi sinyal
+elektronik 4-20mA dan
+mengirimkan sinyal tersebut ke
+bagian Mikrokontroller (otak). VCC
+merupakan sinyal voltage atau
+tegangan sensor. Tegangan yang
+diperlukan oleh sensor adalah 5 Volt
+DC. GND merupakan singkatan dari
+Ground yaitu pin yang bergungsi
+sebagai pentanahan dalam bahasa
+tekniknya disebut dengan
+grounding.
+3.2.1.4 Port Komunikasi
+Port ini berfungsi sebagai
+jembatan untuk tukar-menukar data
+dari sensor ke komputer
+menggunakan data serial RS232.
+Pada port RS232 terdapat 9 pin,
+yang digunakan penulis pada karya
+ilmiah ini adalah pin 2,3 dan 5. Pin
+2 berfugsi untuk menerima sinyal
+deteksi dari sensor. Pin 3 digunakan
+untuk mengirimkan sinyal deteksi
+ke computer sedangkan pin 5
+digunakan untuk ground (GND).
+
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2014
+Tema “Inovasi Medan Berhias
+(Bersih, Hijau, Asri dan Sehat”)
+
+15
+
+3.3 Software
+Bagian editing sebuah koding
+dilakukan pada pemilihan software.
+AVR Studio, VB.Net 2010, Sublime
+merupakan editor Software yang
+
+digunakan untuk mendukung seluruh
+pembuatan software dan Eagle untuk
+menggambar skematik rangkaian dan
+board rangkaian.
+
+3.3.1 AVR Studio
+Merupakan software yang digunakan untuk memasukkan compiler
+heksa ke Mikrokontroller. Software ini menggunakan editing bahasa C/C++.
+
+Gbr 3.5 Tampilan Software AVR Studio
+
+3.3.2 VB.Net 2010
+Merupakan editor software
+bersifat OOP (Object Oriented
+Programming). Software ini
+digunakan sebagai jembatan antara
+sensor dengan user sebagai
+pembentuk kernel dan memberikan
+informasi ke Web. Pembuatan GUI
+untuk aplikasi desktop.
+
+Gbr 3.6 Tampilan Software VB.Net 2010
+3.3.3 Eagle
+Merupakan editor software
+untuk menggambar design
+skematik dan board rangkaian.
+
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2014
+Tema “Inovasi Medan Berhias
+(Bersih, Hijau, Asri dan Sehat”)
+
+16
+Gbr 3.7 Tampilan Software Eagle Skematik
+
+Gbr 3.8 Tampilan Software Eagle Board
+3.3.4 Notepad
+Merupakan editor untuk web
+Programming. Editor ini untuk
+membuat aplikasi berbasis Web.
+Editor inilah yang memberikan
+Informasi Deteksi, Debit Sampah,
+Warning Alarm dan Report
+(Laporan) agar bisa di lihat dimana
+saja terutama di ruang Server Dinas
+Pemko Medan.
+
+Gbr 3.9 Tampilan Software Notepad
+
+PENUTUP
+4.1 Kesimpulan
+Dari hasil pembuatan alat
+robotika, data yang telah diambil dan
+analisa yang telah dilakukan dapat
+disimpulkan bahwa Teknologi
+Robotika telah berhasil membantu
+mendeteksi dan menghitung debit
+sampah serta memberikan peringatan
+(Warning Alarm) terhadap kuantitas
+sampah diatas pemukaan air sungai
+sekaligus membantu Dinas Pemko
+terkait dalam membuat Metode dan
+Konsep yang jelas dan terarah sehingga
+membuat sampah di sungai-sungai
+medan dapat diberantas demi
+terciptanya Medan Berhias (Bersih,
+Hijau, Asri dan Sehat).
+DAFTAR PUSTAKA
+LITBANG KOMPAS (2011): Buku
+Pintar Kompas, PT Kompas Media
+Nusantara, Jakarta
+Kurniawan, 2003, PEMROGRAMAN
+COM, DCOM, DAN COM+ dengan
+VISUAL BASIC 6, Elex Media, Jakarta
+Kurniawan, 2003, PEMROGRAMAN
+COM, DCOM, DAN COM+ dengan
+VISUAL BASIC 6, Elex Media, Jakarta
+Rizky, Soetam, 2011, KONSEP
+DASAR REKAYASA PERANGKAT
+LUNAK, Prestasi Pustakaraya, Jakarta
+biosbarti. (2013), “Masalah Sampah.”
+
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2014
+Tema “Inovasi Medan Berhias
+(Bersih, Hijau, Asri dan Sehat”)
+
+17
+Http://biosbarti.wordpress.com/2013/0
+3/24/masalah-sampah/ (diakses tanggal
+27 oktober 2014)
+menlh. "Peresmian Bank Sampah Kota
+Medan."
+
+Http://www.menlh.go.id/peresmian-
+bank-sampah-kota-medan/ (diakses
+
+tanggal 26 Oktober 2014)
+Prasetyo. (2014), "Permasalahan
+Lingkungan Di Kota Padat Penduduk."
+
+Http://www.b-
+duu.com/2014/05/permasalahan-
+lingkungan-di-kota-padat.html/
+
+(diakses tanggal 25 Oktober 2014)
+nanang. (2013), "Analis
+Permasalahan."
+
+Http://nanangnugrah4.blogspot.com/20
+13/01/analisis-permasalahan.html/
+(diakses tanggal 29 Oktober 2014)
+atmel. (2014), "Proven, Innovative
+Microcontroller Technologies with
+Low Power and High Performance."
+Https://www.atmel.com/products/micro
+controllers/default.aspx/ (diakses
+tanggal 20 Oktober 2014)
+seedsstudio. "Bazaar Sensor
+Proximity."
+Https://www.seeedstudio.com/depot/Ul
+
+tra-Sonic-range-measurement-module-
+p-626.html (diakses tanggal 20 Oktober
+
+2014)
+Khazama. (2014). "Khazama AVR
+Programmer."
+
+Https:khazama.com/project/programme
+r/ (diakses tanggal 19 Oktober 2014)
+Microsoft. (2014). "Visual Studio
+
+2010." Http://msdn.microsoft.com/en-
+us/library/dd831853(v=vs.100).aspx
+
+(diakses tanggal 29 Oktober 2014)
+Cadsoftusa. (2014). "Eagle."
+
+Http://www.cadsoftusa.com/download-
+eagle/?language=en (diakses tanggal 12
+
+Oktober 2014)
+Sumut Pos. (2013). “Berita.”
+Http://sumutpos.co/2012/04/31399/keti
+ka-sampah-masih-dianggap-masalah
+(diakses tanggal 20 Oktober 2014)
+
+Tpasukawinatan. (2014). “ Pengertian
+Defenisi Sampah Menurut Para Ahli.”
+Http://tpasukawinatan.wordpress.com/2
+
+012/04/26/pengertian-definisi-sampah-
+menurut-para-ahli (diakses tanggal 20
+
+Oktober 2014)
+Analisadaily. (2014). “Berita.”
+Http://analisadaily.com/news/read/dzul
+
+mi-eldin-dukung-dan-bantu-gerakan-
+medan-berhias/20820/2014/04/10
+
+(diakses tanggal 15 Oktober 2014)
+Wikipedia. (2014). “Wiki.” Http
+
+://id.wikipedia.org/wiki/Sampah#Jenis-
+jenis (diakses tanggal 20 Oktober 2014
