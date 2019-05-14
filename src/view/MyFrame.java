@@ -19,7 +19,7 @@ import model.SearchingResult;
 
 /**
  *
- * @author admin
+ * @author lenovo
  */
 public class MyFrame extends javax.swing.JFrame {
 
