@@ -36,6 +36,19 @@ public class Document implements Comparable<Document> {
     private int id;
     private String content; // atribut content yang dianalisis
     private String realContent; // atribut content asli
+    private String juduldoc ;
+
+     public Document(int id, String content) {
+        this.id = id;
+        this.content = content;
+        this.realContent = content;
+    }
+    
+    public Document(int id, String content, String juduldoc) {
+        this.id = id;
+        this.content = content;
+        this.juduldoc = juduldoc;
+    }
 
     public Document() {
     }
@@ -49,12 +62,6 @@ public class Document implements Comparable<Document> {
         this.realContent = content;
     }
 
-    public Document(int id, String content) {
-        this.id = id;
-        this.content = content;
-        this.realContent = content;
-
-    }
 
     /**
      *
@@ -90,6 +97,14 @@ public class Document implements Comparable<Document> {
      */
     public void setId(int id) {
         this.id = id;
+    }
+
+    public String getJuduldoc() {
+        return juduldoc;
+    }
+
+    public void setJuduldoc(String juduldoc) {
+        this.juduldoc = juduldoc;
     }
 
     public String[] getListofTerm() {
@@ -287,28 +302,7 @@ public class Document implements Comparable<Document> {
 
     }
 
-//    public void IndonesiaStemming() {
-//        String text = content;
-//        Version matchVersion = Version.LUCENE_7_7_0;
-//        Analyzer analyzer = new IndonesianAnalyzer();
-//        analyzer.setVersion(matchVersion);
-//
-//        TokenStream tokenStream = analyzer.tokenStream("myField", new StringReader(text));
-//
-//        tokenStream = new IndonesianStemFilter(tokenStream);
-//        StringBuilder sb = new StringBuilder();
-//        CharTermAttribute charTermAttribute = tokenStream.addAttribute(CharTermAttribute.class);
-//        try {
-//            tokenStream.reset();
-//            while (tokenStream.incrementToken()) {
-//                String term = charTermAttribute.toString();
-//                sb.append(term + " ");
-//            }
-//        } catch (IOException ex) {
-//            System.out.println("Exception : " + ex);
-//        }
-//        content = sb.toString();
-//    }
+
         
     public void IndonesiaStemming(){
 

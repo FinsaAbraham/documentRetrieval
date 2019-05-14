@@ -5,7 +5,10 @@
  */
 package model;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
@@ -583,8 +586,52 @@ public class InvertedIndex {
      * asumsikan isi file cukup disimpan dalam sebuah obyek String
      * @param directory 
      */
-    public void readDirectory(File directory){
-        
+  
+    public void readDirectory(File directory) {
+        File[] fileNames = directory.listFiles();
+        int i = 1;
+        for (File file : fileNames) {
+            // if directory call the same method again
+            if (file.isDirectory()) {
+                readDirectory(file);
+            } else {
+                try {
+                    try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+                        String strLine;
+                        String AllContent = "";
+                        // Read lines from the file, returns null when end of stream 
+                        // is reached                    
+                        while ((strLine = br.readLine()) != null) {
+                            AllContent += strLine + " \n";
+                        }
+                        Document doc = new Document(i, AllContent, file.getName().replace(".txt", ""));
+                        listOfDocument.add(doc);
+                    }
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+            i++;
+        }
+        makeDictionaryWithTermNumber();
     }
-    
+
+    public void readFileTXT(File file) {
+        try (FileReader reader = new FileReader(file);
+                BufferedReader br = new BufferedReader(reader)) {
+
+            // read line by line
+            String line;
+            String AllContent = "";
+            while ((line = br.readLine()) != null) {
+                AllContent += line + " \n";
+            }
+            Document doc = new Document(listOfDocument.size() + 1, AllContent, file.getName().replace(".txt", ""));
+            listOfDocument.add(doc);
+            makeDictionaryWithTermNumber();
+
+        } catch (IOException e) {
+            System.err.format("IOException: %s%n", e);
+        }
+    }
 }
