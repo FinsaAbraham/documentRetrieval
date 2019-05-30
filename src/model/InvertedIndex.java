@@ -117,7 +117,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk menggabungkan 2 buah posting 
+     * Method untuk menggabungkan 2 buah posting 
      *
      * @param p1
      * @param p2
@@ -300,7 +300,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi mencari frequensi sebuah term dalam sebuah index
+     * Method mencari frequensi sebuah term dalam sebuah index
      *
      * @param term
      * @return
@@ -323,7 +323,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk mencari inverse term dari sebuah index
+     * Method untuk mencari inverse term dari sebuah index
      *
      * @param term
      * @return
@@ -349,7 +349,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk mencari term frequency
+     * Method untuk mencari term frequency
      *
      * @param term
      * @param idDocument
@@ -374,7 +374,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk menghitung TF-IDF dari sebuah dokumen
+     * Method untuk menghitung TF-IDF dari sebuah dokumen
      *
      * @param idDocument
      */
@@ -413,7 +413,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi perkalian inner product dari PostingList Atribut yang dikalikan
+     * Method perkalian inner product dari PostingList Atribut yang dikalikan
      * adalah atribut weight TFIDF dari posting Ini dikenal dengan istilah
      * penghitungan jarak Euclidean
      *
@@ -448,7 +448,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk membentuk posting list dari sebuah query
+     * Method untuk membentuk posting list dari sebuah query
      *
      * @param query
      * @return
@@ -477,8 +477,8 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk menghitung panjang dari sebuah posting Asumsi posting
-     * memiliki komponen bobot/weight
+     * Method untuk menghitung panjang dari sebuah posting 
+     * Asumsi posting memiliki komponen bobot/weight
      *
      * @param posting
      * @return
@@ -521,7 +521,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk mencari berdasar nilai TFIDF
+     * Method untuk mencari berdasar nilai TFIDF
      *
      * @param query
      * @return
@@ -554,7 +554,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk mencari dokumen berdasarkan cosine similarity
+     * Method untuk mencari dokumen berdasarkan cosine similarity
      *
      * @param query
      * @return
@@ -587,8 +587,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk membuat list dokumen dari sebuah directory asumsikan isi
-     * file cukup disimpan dalam sebuah obyek String
+     * Method untuk membuat list dokumen dari sebuah directory .Asumsikan isi file cukup disimpan dalam sebuah obyek String
      *
      * @param directory
      */

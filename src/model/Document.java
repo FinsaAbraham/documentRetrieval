@@ -36,14 +36,14 @@ public class Document implements Comparable<Document> {
     private int id;
     private String content; // atribut content yang dianalisis
     private String realContent; // atribut content asli
-    private String juduldoc ;
+    private String juduldoc;
 
-     public Document(int id, String content) {
+    public Document(int id, String content) {
         this.id = id;
         this.content = content;
         this.realContent = content;
     }
-    
+
     public Document(int id, String content, String juduldoc) {
         this.id = id;
         this.content = content;
@@ -61,7 +61,6 @@ public class Document implements Comparable<Document> {
         this.content = content;
         this.realContent = content;
     }
-
 
     /**
      *
@@ -169,7 +168,7 @@ public class Document implements Comparable<Document> {
 
     /**
      *
-     * Fungsi untuk membaca sebuah file *.txt dan * hasil baca dimasukkan ke
+     * Method untuk membaca sebuah file *.txt dan * hasil baca dimasukkan ke
      * atribut content
      *
      */
@@ -187,7 +186,7 @@ public class Document implements Comparable<Document> {
 
     /**
      *
-     * Fungsi untuk menghilangkan kata stop word
+     * Method untuk menghilangkan kata stop word
      *
      */
     public void removeStopWords() {
@@ -226,7 +225,7 @@ public class Document implements Comparable<Document> {
 
     /**
      *
-     * Fungsi untuk menghilangkan stop word dan stemming
+     * Method untuk menghilangkan stop word dan stemming
      *
      */
     public void stemming() {
@@ -280,9 +279,12 @@ public class Document implements Comparable<Document> {
 
     }
 
-
-        
-    public void IndonesiaStemming(){
+    /**
+     *
+     * Method untuk menghilangkan stop word dan stemming berdasarkan kalimat indonesia
+     *
+     */
+    public void IndonesiaStemming() {
         Version matchVersion = Version.LUCENE_7_7_0; // Substitute desired Lucene version for XY
         Analyzer analyzer = new IndonesianAnalyzer();
         analyzer.setVersion(matchVersion);
