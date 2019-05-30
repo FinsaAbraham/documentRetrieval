@@ -1,0 +1,965 @@
+OPTIMALISASI PERAN PEMERINTAH KOTA MEDAN MELALUI INOVASI TEKNOLOGI “MEDAN COMMAND CENTER” SEBAGAI UPAYA STRATEGIS MEWUJUDKAN MEDAN SMART CITY
+Oleh : Hasnatul Dina
+I. PENDAHULUAN
+1.1. Latar Belakang
+Kota Medan merupakan kota
+terbesar keempat di Indonesia dari segi
+jumlah penduduk. Dari segi ekonomi,
+total nilai PRDB atas dasar harga
+berlaku pada tahun 2012 sebesar
+351.136.156 (dalam rupiah), sedangkan
+atas dasar harga konstan sebesar
+38.576.234,25 (dalam rupiah) dengan
+kontribusi terbesar datang dari sektor
+industri (22.07%) disusul pertanian
+sebesar 21.58%. Struktur
+perekonomian Kota Medan tahun 2012
+secara lengkap dapat dilihat melalui
+tabel berikut:
+Nilai dan Kontribusi Sektor dalam PDRB 2008 - 2012
+Atas Dasar Harga Berlaku
+Sumber: BPS Provinsi Sumatera Utara, 2012 (data diolah)
+Keterangan: *) angka sementara, **) angka sangat sementara
+Pertumbuhan perekonomian Kota
+Medan ke depan akan semakin baik
+bila diimbangi dengan peningkatan
+performa kinerja Pemerintah Kota
+Medan dalam hal pelayanan pada
+masyarakat. Peningkatan layanan
+umum yang dilakukan Pemerintah Kota
+Medan haruslah mencakup dimensi
+smart economy (ekonomi pintar), smart
+mobility (mobilitas pintar), smart
+environment (lingkungan pintar), smart
+people (masyarakat pintar), smart life
+(kehidupan cerdas), dan smart
+governance (pemerintahan pintar).
+Keenam dimensi ini merupakan unsur
+dari smart city.
+Smart city adalah sebuah konsep
+kota cerdas untuk membantu
+masyarakat yang berada didalamnya
+dengan mengelola sumber daya yang
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+92
+ada secara efisien dan memberikan
+informasi yang tepat kepada
+masyarakat atau lembaga dalam
+melakukan kegiatannya atau pun
+mengantisipasi kejadian yang tak
+terduga sebelumnya. Smart city
+cenderung mengintegrasikan informasi
+di dalam kehidupan masyarakat kota.
+Definisi lain dari smart city adalah kota
+yang mampu menggunakan SDM,
+modal sosial, dan infrastruktur
+telekomunikasi modern untuk
+mewujudkan pertumbuhan ekonomi
+berkelanjutan dan kualitas kehidupan
+yang tinggi, dengan manajemen
+sumber daya yang bijaksana melalui
+pemerintahan berbasis partisipasi
+masyarakat (Caragliu, A., dkk. dalam
+Schaffers, 2010:3).
+Kourtit & Nijkamp (2012)
+mengungkapkan bahwa smart city telah
+menjadi landmark dalam perencanaan
+kota. Smart city merupakan hasil dari
+pengembangan pengetahuan yang
+intensif dan strategi kreatif dalam
+peningkatan kualitas sosial-ekonomi,
+ekologi, dan daya kompetitif kota.
+Kemunculan smart city merupakan
+hasil dari gabungan modal sumber daya
+manusia (contohnya angkatan kerja
+terdidik), modal infrastruktur
+(contohnya fasilitas komunikasi yang
+berteknologi tinggi), modal sosial
+(contohnya jaringan komunitas yang
+terbuka) dan modal entrepreuneurial
+(contohnya aktifitas bisnis kreatif).
+Pemerintahan yang kuat dan dapat
+dipercaya disertai dengan orang-orang
+yang kreatif dan berpikiran terbuka
+akan meningkatkan produktifitas lokal
+dan mempercepat pertumbuhan
+ekonomi suatu kota. Berdasarkan latar
+belakang pemikiran diatas, penulis
+mendapat gagasan untuk membuat
+karya tulis ilmiah berjudul
+OPTIMALISASI PERAN
+PEMERINTAH KOTA MEDAN
+MELALUI INOVASI TEKNOLOGI
+“MEDAN COMMAND CENTER”
+SEBAGAI UPAYA STRATEGIS
+MEWUJUDKAN MEDAN SMART
+CITY.
+1.2. Rumusan Masalah
+Berangkat dari latar belakang
+diatas dapat dirumuskan masalah yang
+akan menjadi kajian utama dalam karya
+tulis ilmiah ini adalah: bagaimana
+implementasi teknologi Medan
+Command Center dalam upaya
+mengoptimalkan peran Pemerintah
+Kota Medan guna mewujudkan Kota
+Medan sebagai smart city?
+1.3. Maksud dan Tujuan
+Karya tulis ilmiah ini diharapkan
+mampu menjadi sumbangan pemikiran
+bagi pemerintah daerah dalam rangka
+mewujudkan Kota Medan sebagai
+smart city.
+1.4. Kerangka Teori
+1.4.1. Pengertian Smart City
+Smart city merupakan sebuah
+konsep kota cerdas yang dapat
+membantu masyarakat mengelola
+sumber daya yang ada dengan efisien
+dan memberikan informasi yang tepat
+kepada masyarakat atau lembaga dalam
+melakukan kegiatannya atau pun
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+93
+mengantisipasi kejadian yang tak
+terduga sebelumnya.
+Smart city merupakan sebuah
+impian dari hampir semua negara di
+dunia. Dengan smart city, berbagai
+macam data dan informasi yang berada
+di setiap sudut kota dapat dikumpulkan
+melalui sensor yang terpasang di setiap
+sudut kota, dianalisis dengan aplikasi
+cerdas, selanjutnya disajikan sesuai
+dengan kebutuhan pengguna melalui
+aplikasi yang dapat diakses oleh
+berbagai jenis gadget. Melalui
+gadgetnya, secara interaktif pengguna
+juga dapat menjadi sumber data dengan
+mengirim informasi ke pusat data
+untuk dikonsumsi oleh pengguna yang
+lain.
+1.4.2. Konsep Smart City
+a) Sebuah kota berkinerja baik
+dengan berpandangan pada sektor
+ekonomi, penduduk, pemerintahan,
+mobilitas, dan lingkungan hidup;
+b) Sebuah kota yang mengontrol dan
+mengintegrasi semua infrastruktur
+termasuk jalan, jembatan,
+terowongan, rel, kereta bawah
+tanah, bandara, pelabuhan,
+komunikasi, air, listrik, dan
+pengelolaan gedung. Dengan
+begitu dapat mengoptimalkan
+sumber daya yang dimilikinya
+serta merencanakan
+pencegahannya. Kegiatan
+pemeliharaan dan keamanan
+dipercayakan kepada
+penduduknya;
+c) Smart city dapat menghubungkan
+infrastuktur fisik, infrastruktur IT,
+infrastruktur sosial, dan
+infrastruktur bisnis untuk
+meningkatkan kecerdasan kota;
+d) Smart city membuat kota lebih
+efisien dan layak huni;
+e) Penggunaan smart computing
+untuk membuat smart city dan
+fasilitasnya meliputi pendidikan,
+kesehatan, keselamatan umum,
+transportasi yang lebih cerdas,
+saling berhubungan, dan efisien.
+1.4.3. Dimensi Smart City
+a) Smart Economy, smart economy
+atau ekonomi cerdas mencakup
+inovasi dan persaingan. Semakin
+banyak inovasi-inovasi baru yang
+dikembangkan maka akan
+menambah peluang usaha baru dan
+meningkatkan persaingan pasar
+usaha dan modal. Meningkatnya
+jumlah pelaku usaha
+mengakibatkan persaingan pasar
+menjadi semakin ketat. Sehingga
+inovasi-inovasi baru perlu
+diciptakan untuk mempertahankan
+eksistensi bisnis pelaku usaha
+tersebut;
+b) Smart Mobility, smart mobility
+termasuk pada transportasi dan
+pembangunan infrastruktur.
+Pembangunan infrastruktur
+diwujudkan melalui penguatan
+sistem perencanaan infrastruktur
+kota, pengembangan aliran sungai,
+peningkatan kualitas dan kuantitas
+air bersih, pengembangan sistem
+transportasi, pengembangan
+perumahan dan pemukiman, dan
+peningkatan konsistensi
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+94
+pengendalian pembangunan
+infrastruktur. Dengan ketersediaan
+sarana/prasarana transportasi dan
+infrastruktur yang memadai akan
+meningkatkan kualitas hidup
+masyarakat dan meningkatkan
+pertumbuhan ekonomi dan
+kesejahteraan masyarakat;
+c) Smart Environment, lingkungan
+pintar berarti lingkungan yang bisa
+memberikan kenyamanan,
+keberlanjutan sumber daya,
+keindahan fisik maupun non fisik,
+visual maupun tidak, bagi
+masyarakat. Undang-undang
+tentang penataan ruang
+mensyaratkan 30% lahan
+perkotaan harus difungsikan untuk
+ruang terbuka hijau baik privat
+maupun public. Lingkungan yang
+bersih tertata merupakan contoh
+dari penerapan lingkungan yang
+pintar;
+d) Smart People, pembangunan
+senantiasa membutuhkan modal,
+baik modal ekonomi (economic
+capital), modal manusia (human
+capital) maupun modal sosial
+(social capital). Modal sosial
+termasuk seperti kepercayaan,
+gotong royong, toleransi,
+penghargaan, saling memberi dan
+saling menerima serta kolaborasi
+sosial memiliki pengaruh yang
+besar terhadap pertumbuhan
+ekonomi melalui berbagai
+mekanisme seperti meningkatnya
+rasa tanggung jawab terhadap
+kepentingan publik, meluasnya
+partisipasi dalam proses
+demokrasi, menguatnya keserasian
+masyarakat dan menurunnya
+tingkat kejahatan. Tata nilai ini
+perlu dipertahankan dalam
+kehidupan sosial masyarakat smart
+city;
+e) Smart Living, berbudaya berarti
+bahwa manusia memiliki kualitas
+hidup yang terukur (budaya).
+Kualitas hidup tersebut bersifat
+dinamis, dalam artian selalu
+berusaha memperbaiki dirinya
+sendiri. Pencapaian budaya pada
+manusia, secara langsung maupun
+tidak langsung merupakan hasil
+dari pendidikan. Maka kualitas
+pendidikan yang baik adalah
+jaminan atas kualitas budaya,
+dan/atau budaya yang berkualitas
+merupakan hasil dari pendidikan
+yang berkualitas;
+f) Smart Governance, kunci utama
+keberhasilan penyelengaraan
+pemerintahan adalah good
+governance. Yaitu paradigma,
+sistem dan proses penyelenggaraan
+pemerintahan dan pembangunan
+yang mengindahkan prinsipprinsip
+supremasi hukum,
+kemanusiaan, keadilan, demokrasi,
+partisipasi, transparansi,
+profesionalitas, dan akuntabilitas
+ditambah dengan komitmen
+terhadap tegaknya nilai dan prinsip
+desentralisasi, daya guna, hasil
+guna, pemerintahan yang bersih,
+bertanggungjawab, dan berdaya
+saing. Keberpihakan pemerintah
+daerah perlu ditingkatkan untuk
+mengembangkan wilayah-wilayah
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+95
+tertinggal sehingga wilayahwilayah
+tersebut dapat tumbuh dan
+berkembang secara lebih cepat dan
+dapat mengejar ketinggalan
+pembangunan. Hal yang dapat
+dilakukan adalah membangun
+wilayah-wilayah tertinggal melalui
+peningkatan produktivitas dan
+pemberdayaan masyarakat,
+meningkatkan keterkaitan antara
+wilayah tertinggal dengan wilayahwilayah
+pusat kota serta mengelola
+dan mengendalikan pemanfaatan
+sumber daya yang ada.
+1.4.4. Faktor-faktor yang
+Mempengaruhi Terwujudnya Smart
+City
+Banyak faktor yang membuat
+konsep smart city ini sukses di
+beberapa negara berkembang. Selain
+inisiatif yang membuat smart city ini
+berhasil, faktor lain yang
+mempengaruhi yaitu :
+a) Manajemen dan Organisasi, suatu
+organisasi harus memiliki
+manajemen yang terstruktur agar
+organisasi tersebut berjalan baik,
+seimbang, dan lancar. Dalam hal
+ini faktor organisasi dan
+manajemen merupakan faktor yang
+menentukan kemajuan terciptanya
+smart city, karena manusia yang
+membuat tujuan dan manusia pula
+yang melakukan proses untuk
+mencapai tujuan;
+b) Teknologi, sebuah smart city
+sangat bergantung pada smart
+computing. Smart computing
+mengacu pada generasi baru
+hardware, software, dan jaringan
+teknologi yang menyediakan
+sistem IT yang real-time. Analisis
+yang baik dan mendalam dapat
+membantu penduduk membuat
+keputusan lebih pintar yang
+diiringi dengan tindakan yang
+dapat mengoptimalkan proses
+bisnis. Teknologi informasi
+merupakan sebuah pendorong
+utama bagi inisiatif smart city.
+Proyek pembangunan smart city
+dengan mengacu pada teknologi
+informasi dapat mengubah
+sejumlah peluang yang potensial,
+mereka dapat meningkatkan
+manajemen dan fungsi kota.
+Namun, meskipun banyak manfaat
+dari teknologi tersebut dampaknya
+masih belum terlihat jelas, karena
+terdapat kesenjangan sosial bagi
+penduduk yang tinggal di pedesaan
+yang belum mendapatkan fasilitas
+tersebut. Maka dari itu pemerintah
+kota harus banyak
+mempertimbangkan faktor-faktor
+tertentu ketika
+mengimplementasikan teknologi
+informasi yang berkaitan dengan
+sumber daya, kapasitas, dan halhal
+yang berkaitan dengan
+kesenjangan sosial nantinya;
+c) Pemerintahan, beberapa kota di
+negara berkembang sudah
+memulai proyek pembangunan
+smart city yang inisiatif. Proyek ini
+disebut inisiatif smart city untuk
+melayani warga dan untuk
+meningkatkan kualitas hidup
+mereka. Dengan demikian,
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+96
+beberapa kota telah merasakan
+peningkatan kebutuhan
+pemerintahan untuk mengelola
+proyek. Dukungan dari pemerintah
+juga merupakan salah satu faktor
+yang penting untuk kemajuan
+smart city. Karena tanpa dukungan
+pemerintah impian untuk
+mewujudkan smart city akan sulit
+untuk diwujudkan;
+d) Kebijakan, perpindahan dari
+sebuah kota biasa menjadi smart
+city memerlukan interaksi
+komponen teknologi dengan
+politik dan kelembagaan.
+Komponen politik mewakili
+berbagai elemen dan tekanan
+eksternal, seperti kebijakan politik
+yang mungkin mempengaruhi ide
+dari pembuatan smart city.
+Konteks kebijakan sangat penting
+bagi pemahaman dari penggunaan
+sistem informasi. Pemerintah yang
+inovatif yang ikut serta dalam
+membangun smart city
+menekankan perubahan dalam
+suatu kebijakan;
+e) Masyarakat, masyarakat dituntut
+untuk berpartisipasi dalam
+pengelolaan dan penyelenggaraan
+kota serta menjadi pengguna kota
+yang aktif. Masyarakat adalah
+faktor yang paling menentukan
+keberhasilan atau kegagalan
+terciptanya smart city;
+f) Ekonomi, faktor ekonomi
+merupakan pendorong utama
+terwujudnya smart city. Sebuah
+kota dengan daya saing ekonomi
+yang tinggi dianggap memiliki
+salah satu sifat smart city. Faktor
+ekonomi termasuk salah satu daya
+saing inovasi, kewirausahaan, dan
+produktivitas dari kota tersebut;
+g) Infrastruktur, infrastruktur
+memegang peranan penting dalam
+membuat smart city. Karena smart
+city dibangun berdasarkan
+infrastruktur ICT seperti wi-fi dan
+hot-spot. Pembangunan
+infrastuktur ICT merupakan hal
+yang mendasar dalam melakukan
+pembangunan smart city.
+Pembangunan infrastruktur
+tergantung pada beberapa faktor
+yang terkait untuk kinerja dan
+ketersediannya;
+h) Lingkungan, faktor lingkungan
+dianggap sebagai faktor yang
+mempengaruhi kemajuan smart
+city karena nantinya lingkungan
+sebuah kota menggunakan
+teknologi dalam menjalani
+kelangsungan hidup
+masyarakatnya.
+1.4.5. Contoh Fasilitas Kota
+Berkonsep Smart City
+Teknologi modern serta
+perencanaan kota yang ramah
+lingkungan telah menghasilkan
+sejumlah inovasi baru. Banyak kota
+besar di dunia berusaha meningkatkan
+keseimbangan secara berkelanjutan,
+yang akan menjadi daya tarik kota itu
+sendiri. Berbagai macam inovasi
+berkembang ke berbagai unsur layanan
+kota pintar. Berikut adalah contoh dari
+fasilitas kota dengan konsep smart city:
+a) Perumahan dan Gedung
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+97
+Perkantoran, untuk mengurangi
+dampak negatif terhadap
+lingkungan dalam pengoperasian
+bangunan dan konstruksi, di
+beberapa kota telah dilakukan
+perbaikan pada infrastruktur serta
+sertifikasi bangunan untuk
+mengurangi penggunaan listrik dan
+air. Penggunaan teknologi smart
+metering dan smart building
+membantu maksimalisasi kontrol
+penggunaan. Pengaturan kode etik
+dalam proses pembangunan,
+standardisasi dan sertifikasi adalah
+salah satu cara penting untuk
+menciptakan bangunan yang
+ramah lingkungan. Banyak kota
+telah menjalankan program
+pengawasan kode etik dan standar
+dalam proses pembangunan dan
+renovasi gedung.
+b) Pengelolaan Sumber Daya Alam,
+dalam hal pasokan dasar sumber
+daya alam, banyak kota yang
+bekerja keras untuk mengurangi
+intensitas karbon dari energi yang
+digunakan masyarakat serta
+meningkatkan efektifitas, efisiensi
+pasokan, dan jaringan distribusi.
+Berbagai sumber energi terbarukan
+seperti energi tenaga air, angin,
+sampah, ombak, matahari, dan
+panas bumi akan menjadi sumber
+energi penting. Pada tahun 2010,
+lebih dari 100 negara telah
+menetapkan target untuk energi
+terbarukan, naik dari hanya 55
+negara pada tahun 2005. Sampai
+tahun 2020 penggunaan energi
+terbarukan ditargetkan sekitar 15%
+hingga 25%, tetapi ada beberapa
+negara sudah melampaui target ini.
+c) Kesehatan dan Keselamatan,
+teknologi informasi dan
+telekomunikasi secara inovatif
+telah mengubah kemampuan kota
+untuk menyediakan pelayanan
+kesehatan jarak jauh kepada
+masyarakat, terutama masyarakat
+yang tinggal di panti jompo dan
+daerah terpencil. Penerapan
+teknologi modern merupakan
+bagian terpenting dari proyek ini.
+Beberapa pasien dilengkapi
+dengan perangkat yang dapat
+mengukur tekanan darah dan
+glukosa darah secara otomatis,
+menggunakan sebuah televisi settop
+box yang berfungsi sebagai
+komputer yang mampu mengupload
+hasil tes ke Service Center
+Telecare. Para perawat kemudian
+menganalisa hasil diagnosa
+tersebut dan merekomendasikan
+perawatan yang diperlukan. Salah
+satu manfaat dari program ini
+adalah bahwa pasien tidak harus
+meninggalkan tempat tinggalnya
+untuk mendapatkan pelayanan
+kesehatan dasar.
+d) Pendidikan dan Budaya, model
+pelayanan pendidikan pada kota
+pintar baik negeri maupun swasta
+diterapkan terutama menggunakan
+teknologi modern. Termasuk
+penyediaan fasilitas untuk kegiatan
+rekreasi dan kebudayaan seperti
+musik, teater, olahraga dan
+kegiatan rekreasi lainnya. Tidak
+kalah pentingnya, pendidikan
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+98
+dalam konteks kota pintar adalah
+kebutuhan untuk melibatkan
+masyarakat dalam proses
+pendidikan, dimana akan terjadi
+perubahan perilaku untuk menjadi
+lebih baik sehingga dapat
+meningkatkan keseluruhan aspek
+keberlanjutan dan kesehatan
+lingkungan kota.
+1.5. Metode Penulisan
+1.5.1. Jenis Penulisan
+Karya tulis ilmiah ini
+menggunakan jenis penulisan
+deskriptif-kualitatif. Dengan jenis
+penulisan ini, karya tulis ilmiah yang
+dihasilkan akan dapat memberi
+gambaran menyeluruh tentang masalah
+yang diangkat serta gagasan kreatif
+yang akan dijadikan sebagai solusi
+inovatif melalui kebijakan yang efektif.
+1.5.2. Sumber Data
+Data-data yang diperlukan dalam
+penulisan karya tulis ilmiah ini adalah
+hal-hal yang berkaitan dengan
+pemikiran tentang konsep smart city
+dan masalah-masalah yang dialami
+Pemerintah Kota Medan dalam
+mengelola daerah. Penulis
+menggunakan metode library research
+(studi pustaka) untuk mengumpulkan
+data-data tersebut. Pengumpulan data
+melalui metode ini dilakukan dengan
+membaca dan menelaah literaturliteratur
+yang berhubungan dengan
+masalah yang diangkat. Data-data
+tersebut dijadikan sebagai bahan untuk
+melengkapi karya tulis ilmiah agar
+mampu memberi kajian yang lebih
+dalam dan objektif.
+1.5.3. Analisis Data
+Pada tahap ini data yang telah
+dikumpulkan akan diolah dengan
+teknik deskriptif-kualitatif. Teknik ini
+digunakan untuk membuat gambaran
+secara sistematis mengenai masalah
+yang diangkat berdasarkan sumbersumber
+data yang relevan. Analisis data
+dengan teknik ini terbagi menjadi tiga
+tahapan, yaitu:
+a) Reduksi Data, pada tahap ini
+penulis akan melakukan pemilihan
+pemusatan perhatian dengan
+melakukan penyederhanaan,
+pengabstrakan, dan
+pentransformasian data kasar yang
+muncul dari catatan-catatan tertulis
+di lapangan;
+b) Penyajian Data, pada tahap ini
+informasi yang telah terkumpul
+akan disusun untuk membantu
+dalam melakukan penarikan
+kesimpulan dan pengambilan
+tindakan;
+c) Penarikan Kesimpulan, dalam
+tahap ini kategori-kategori data
+yang telah direduksi akan disajikan
+untuk menuju pada kesimpulan
+akhir yang mampu menjawab
+permasalahan penelitian.
+(Sugiyono, 2012:247).
+1.5.4. Sistematika Penulisan
+Karya tulis ini terdiri dari tiga
+bab dan setiap bab memiliki sub
+pembahasan dengan sistematika
+sebagai berikut:
+a) BAB I (PENDAHULUAN), dalam
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+99
+bab ini akan diuraikan latar
+belakang masalah, rumusan
+masalah, maksud dan tujuan
+penulisan, kerangka teori yang
+digunakan, serta metode penulisan
+yang dipakai dalam penulisan
+karya ilmiah.
+b) BAB II (PEMBAHASAN), bab ini
+menguraikan hasil kajian dari
+masalah yang dibahas. Dalam bab
+ini akan dikemukakan masalah
+yang telah diidentifikasi, analisis
+masalah yang telah dilakukan,
+serta akan ditampilkan pula datadata
+penunjang yang digunakan.
+c) BAB III (PENUTUP), dalam bab
+ini disajikan kesimpulan dari karya
+ilmiah yang ditulis. Bab ini juga
+mengemukakan saran atau
+rekomendasi yang sejalan dengan
+gagasan atau kebijakan yang
+diusulkan.
+II. PEMBAHASAN
+2.1. Menuju Medan Smart City
+Melalui Inovasi Teknologi Command
+Center
+Kompleksitas permasalahan
+pembangunan yang dihadapi Kota
+Medan saat ini menuntut kehadiran
+sistem perkotaan yang lebih mumpuni.
+Apalagi di zaman serba digital saat ini.
+Kemampuan pengawasan dari pihak
+Pemerintah Kota Medan perlu di upgrade.
+Salah satunya dengan adanya
+pengawasan kota secara real-time dan
+mampu memecahkan masalah secara
+efektif dan efisien.
+Konsep tersebut dapat
+diwujudkan melalui inovasi teknologi
+command center. Command center
+adalah bagian dari upaya menuju
+Medan Smart City. Medan sebagai kota
+cerdas tentunya menuntut pengawasan
+yang tidak melulu harus dilakukan
+secara manual. Apalagi di zaman serba
+canggih saat ini, penggunaan mesin
+komputer beserta alat-alat
+pendukungnya bisa diberdayakan untuk
+fungsi monitoring di Kota Medan.
+Terdapat dua fungsi utama
+command center ini, yaitu
+menyempurnakan pelayanan publik
+keluar, dan mempermudah pelayanan
+ke dalam yakni manajemen
+pengambilan keputusan cepat. Untuk
+pelayanan publik, seluruh pelayanan
+publik di Kota Medan dapat diakses
+dengan mudah melalui teknologi yang
+canggih. Dengan teknologi ini
+pelayanan publik Kota Medan dapat
+dilakukan secara on-line. Manfaat dari
+adanya command center ini, dari
+mengurus KTP, mengecek perizinan,
+hingga memonitor kemacetan atau
+banjir bisa dilakukan pengawasan dan
+penyebaran informasi secara real-time.
+Command center akan menjadi pusat
+data informasi dari seluruh instansi di
+lingkungan Pemerintah Kota Medan.
+Untuk memperoleh gambaran
+konkrit dari command center dapat
+dengan membayangkan adegan di filmfilm
+Hollywood dimana pengawasan
+kota cukup hanya dengan menatap
+layar komputer dan pengoperasiannya
+dilakukan oleh ahli-ahli teknologi
+komputer. Sementara untuk mengakses
+info kota, user atau masyarakat cukup
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+100
+menggunakan komputer atau gadget
+yang terintegrasi ke internet.
+Dalam command center tersebut
+terdapat banyak aplikasi yang bisa
+memonitor keadaan Kota Medan.
+Didalamnya ada data cuaca, peta, video
+feed, special vehicles location, video
+analysis, dan sebagainya. Contoh
+spesifiknya adalah penggunaan closed
+circuit television (CCTV) di jalan-jalan
+yang ada di Kota Medan, lewat
+pengawasan kamera tersebut bisa
+diketahui pelanggaran lalu lintas yang
+terjadi dan terekam oleh CCTV. Satuan
+polisi lalu lintas yang mengawasi
+situasi lalu lintas di sejumlah titik di
+Kota Medan yang rawan pelanggaran
+lalu lintas, kriminalitas, dan bencana
+melalui layar yang terpasang di ruang
+pusat kendali (command center) dapat
+langsung memberi teguran melalui
+pengeras suara yang dipasang di sekitar
+lokasi tersebut.
+Dibutuhkan sejumlah CCTV
+analitik untuk membangun command
+center tersebut. Selain CCTV,
+digunakan pula sejumlah global
+positioning system (GPS) yang akan
+dipasang di mobil pemadam kebakaran,
+ambulans, bus sekolah, dan mobil
+pengangkut sampah.
+Selain memantau kondisi di
+lapangan melalui layar monitor,
+Walikota Medan juga bisa mengakses
+data di Medan Command Center yang
+juga difungsikan sebagai bank data
+Satuan Kerja Perangkat Daerah
+(SKPD) Kota Medan.
+Walikota, Wakil Walikota, dan
+Sekretaris Daerah Kota Medan dapat
+melakukan rapat di ruang command
+center untuk melihat permasalahan dan
+mencari informasi yang dibutuhkan
+secara langsung, kemudian mengambil
+keputusan secara cepat sehingga
+masyarakat Kota Medan bisa terlayani
+dengan baik.
+Pemantauan oleh sejumlah
+CCTV canggih di Medan Command
+Center didukung oleh sistem yang
+disebut Intelligent Operations Center
+(IOC), yang memudahkan operator
+dalam mengawasi kondisi kota.
+IOC adalah sebuah sistem yang
+secara otomatis akan memberi
+notifikasi apabila melihat terjadi
+pelanggaran. Misalnya, ada pedagang
+kaki lima di daerah terlarang, IOC
+dapat memberi notifikasi secara
+otomatis sehingga operator tidak harus
+memelototi terus CCTV. Pada layar
+akan muncul allert berwarna merah
+bertuliskan „ADA PKL?.
+Setelah muncul notifikasi, SKPD
+terkait akan menindaklanjuti untuk
+menyelesaikan masalah yang terjadi.
+Sistem juga akan didukung dengan
+GPS Tracking yang dipasang di mobilmobil
+operasional Pemerintah Kota
+Medan, sehingga dapat dipantau
+apakah mereka sudah bergerak ke
+lokasi, kapan mereka bergerak, dan
+apakah dari laporan itu petugas
+bergerak terlalu lama atau tidak.
+Melalui metode ini juga bisa dilihat
+track record petugas. Software GPS
+Tracking dirancang sedemikian rupa
+sehingga bisa diakses oleh seluruh
+lapisan mayarakat. Command center
+akan dikelola oleh beberapa orang
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+101
+operator. Tugas operator adalah
+memantau situasi dan kondisi Kota
+Medan, tidak hanya melalui CCTV tapi
+juga social media. Di era smartphone
+ini, tentunya masyarakat sudah terbiasa
+melaporkan setiap kejadian yang
+dialami atau ditemui setiap harinya.
+Dengan mention ke akun Twitter
+Medan Command Center, Pemerintah
+Kota Medan dapat mengetahui apa saja
+kejadian dan keluhan yang dialami
+warga. Pemerintah Kota Medan juga
+bisa melihat keluhan apa yang paling
+banyak di setiap kecamatan. Pegawai di
+SKPD terkait juga ikut memantau
+kondisi kota seperti anggota kepolisian,
+petugas pemadam kebakaran, dan dinas
+perhubungan.
+Kedepannya, Pemerintah Kota
+Medan juga dapat membuat fasilitas
+command center di setiap kecamatan.
+Camat-camat bisa memantau di layar
+kemudian mengkoneksikannya ke
+CCTV yang ada di wilayahnya
+sehingga membuat keputusan jadi
+cepat. Inilah konsep desentralisasi
+dalam smart city. Melalui inovasi
+teknologi command center nantinya
+masyarakat bisa mengakses layanan
+publik cukup melalui telepon selular
+tidak perlu datang ke tempat
+pengaduan masyarakat.
+2.2. Analisis SWOT
+Analisis SWOT Medan Command Center
+STRENGTHS
+Pengawasan kota
+dapat dilakukan
+secara real-time.
+Menghemat
+dana blusukan
+Mempermudah
+masyarakat
+mengakses layanan
+publik
+Dapat menjadi
+pusat data
+informasi bagi
+SKPD Kota
+Medan
+WEAKNESS
+Diperlukan dana yang besar untuk membangun jaringan sebuah command
+center
+OPPORTUNITIES
+Kota Medan merupakan daerah yang
+memiliki angka PDRB tertinggi di
+Sumatera Utara
+Jumlah pengguna seluler, pc, internet,
+dan pelanggan broadband internet di
+Kota Medan cukup tinggi
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+102
+III. PENUTUP
+3.1. Kesimpulan dan Saran
+Teknologi memegang peranan
+penting dalam mewujudkan kota
+cerdas. Penulis percaya bahwa
+teknologi dapat membantu kita semua
+untuk membangun pemerintahan yang
+lebih baik. Teknologi dapat membantu
+pemerintah untuk berinteraksi dengan
+masyarakatnya tanpa batas. Teknologi
+juga dapat membantu pemerintah
+mengontrol jalannya birokrasi.
+Negara-negara berkembang
+melakukan investasi besar-besaran
+pada bidang research and development
+sehingga Kota Medan harus mulai
+melakukan investasi serius pada bidang
+pengembangan teknologi. Dengan terus
+meningkatkan kualitas pelayanan
+publik, salah satunya melalui
+pemanfaatan teknologi Medan
+Command Center, Kota Medan siap
+menjadi smart city.
+DAFTAR PUSTAKA
+A. Mohammad BS. 2012. Cara
+Jembrana menjadi Digital City.
+Diunggah di
+http://chinmi.wordpress.com/2010/
+07/13/cara-jembrana-menjadidigital-
+city tanggal 5 Juli 2010.
+Badan Pusat Statistik Sumatera Utara.
+Nilai dan Kontribusi Sektor dalam
+PDRB
+2008 - 2012 Atas Dasar Harga
+Berlaku. Diakses pada 10 Agustus
+2015 pukul 14:00WIB
+Cahiya. 2013. Empat Kota Pintar di
+Dunia. Diunggah di
+http://cahiya.com/empat-kotapintar-
+di-dunia-bagian-1/
+tanggal 14 Pebruari 2013.
+Deakin M (2007). "From City of Bits to
+E-topia: Taking the Thesis on
+Digitally-Inclusive Regeneration
+Full Circle". Journal of Urban
+Technology 14 (3): 131–143
+Florida R.L.(2009). "Class and Well-
+Being". Retrieved 17 March
+2009,7:38am
+EDT.
+Hollands, R. G (2008). "Will The Real
+Smart City Please Stand Up?". City 12
+(3):
+303–320.
+Miles, M. B. dan Huberman, M. 1992.
+Analisis Data Kualitatif. Terjemahan
+oleh
+Tjetjep Rohendi Rohidi. Jakarta:
+UI Press.
+Moleong, Lexy J. 2000. Metodologi
+Penelitian Kualitatif. Bandung: PT
+Remaja
+Rosda karya.
+Nijkamp. P (2008). "E pluribus unum".
+THREAT
+Pembangunan command center dapat dilakukan bertahap
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+103
+Research Memorandum, Faculty of
+Economics (Amsterdam: VU
+University Amsterdam).
+Paskaleva, K (25 January 2009).
+"Enabling the Smart City: The
+Progress of E-city
+Governance in Europe".
+International Journal of
+Innovation and Regional
+Development.
+Rachmatunisa. 2012. Smart City di
+Indonesia? Bukan mengawang-awang.
+Detikinet.
+Diunggah tanggal 20 Nopember
+2012.
+Sugiyono. 2012. Metode Penelitian
+Kuantitatif Kualitatif dan R&D.
+Bandung:
+ALFABETA.

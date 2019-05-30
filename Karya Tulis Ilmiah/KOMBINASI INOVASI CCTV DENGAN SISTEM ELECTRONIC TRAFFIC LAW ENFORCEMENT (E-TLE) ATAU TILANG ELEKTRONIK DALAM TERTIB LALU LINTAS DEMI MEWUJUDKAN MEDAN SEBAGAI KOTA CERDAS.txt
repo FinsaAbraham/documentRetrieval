@@ -1,0 +1,975 @@
+KOMBINASI INOVASI CCTV DENGAN SISTEM ELECTRONIC TRAFFIC LAW ENFORCEMENT (E-TLE) ATAU TILANG ELEKTRONIK DALAM TERTIB LALU LINTAS DEMI MEWUJUDKAN MEDAN SEBAGAI KOTA CERDAS
+Oleh : Hantono, SE, S.Pd, M.Si
+(Dosen UNPRI dan Guru di SMP Methodist 3 Medan)
+PENDAHULUAN
+I.1 Latar Belakang
+Lalu lintas di dalam Undangundang
+No 22 tahun 2009 didefinisikan
+sebagai gerak Kendaraan dan orang di
+Ruang Lalu Lintas Jalan, sedang yang
+dimaksud dengan Ruang Lalu Lintas
+Jalan adalah prasarana yang
+diperuntukkan bagi gerak pindah
+Kendaraan, orang, dan/atau barang
+yang berupa Jalan dan fasilitas
+pendukung.
+Pemerintah mempunyai tujuan
+untuk mewujudkan lalu lintas dan
+angkutan jalan yang selamat, aman,
+cepat, lancar, tertib dan teratur, nyaman
+dan efisien melalui manajemen lalu
+lintas dan rekayasa lalu lintas.
+Kegiatan perencanaan lalu lintas
+meliputi inventarisasi dan evaluasi
+tingkat pelayanan. Maksud
+inventarisasi antara lain untuk
+mengetahui tingkat pelayanan pada
+setiap ruas jalan dan persimpangan.
+Maksud tingkat pelayanan dalam
+ketentuan ini adalah merupakan
+kemampuan ruas jalan dan
+persimpangan untuk menampung lalu
+lintas dengan tetap memperhatikan
+faktor kecepatan dan keselamatan
+penetapan tingkat pelayanan yang
+diinginkan. Dalam menentukan tingkat
+pelayanan yang diinginkan dilakukan
+antara lain dengan memperhatikan :
+rencana umum jaringan transportasi
+jalan; peranan, kapasitas, dan
+karakteristik jalan, kelas jalan,
+karakteristik lalu lintas, aspek
+lingkungan, aspek sosial dan
+ekonomi.penetapan pemecahan
+permasalahan lalu lintas, penyusunan
+rencana dan program pelaksanaan
+perwujudannya. Maksud rencana dan
+program perwujudan dalam ketentuan
+ini antara lain meliputi: penentuan
+tingkat pelayanan yang diinginkan pada
+setiap ruas jalan dan persimpangan,
+usulan aturan-aturan lalu lintas yang
+akan ditetapkan pada setiap ruas jalan
+dan persimpangan, usulan pengadaan
+dan pemasangan serta pemeliharaan
+rambu rambu lalu lintas marka jalan,
+alat pemberi isyarat lalu lintas, dan alat
+pengendali dan pengaman pemakai
+jalan; usulan kegiatan atau tindakan
+baik untuk keperluan penyusunan
+usulan maupun penyuluhan kepada
+masyarakat.
+Untuk mengatasi masalah
+tersebut, pengadaan CCTV dengan
+sistem e-tilang adalah solusi yang tepat
+untuk melakukan penindakan dalam
+menegakkan tertib lalu lintas. Dari
+permasalahan yang ada, menurut
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+64
+penulis yang paling dibutuhkan
+sekarang adalah meningkatkan
+kesadaran tertib lalu lintas masyarakat
+khusus pengendara kenderaan bermotor
+di Kota Medan untuk mewujudkan
+Medan Sebagai Kota Cerdas.
+Metode ini yang penulis ingin
+aplikasikan kepada pengendara
+kenderaan bermotor sehingga nantinya
+dapat meningkatkan kesadaran
+pengendara bermotor dalam tertib lalu
+lintas.
+I.2. Rumusan Masalah
+1. Bagaimanakah cara untuk mengatasi
+tertib lalu lintas dengan
+menggunakan CCTV dengan
+menggunakan sistem Electronic
+Traffic Law Enforcement (E-TLE)
+atau tilang elektronik ?
+2. Seberapa besar pengaruh CCTV
+dengan menggunakan sistem
+Electronic Traffic Law Enforcement
+(E-TLE) atau tilang elektronik bagi
+pengendera bermotor ?
+3. Manfaat apa yang bisa didapatkan
+dari CCTV dengan menggunakan
+sistem Electronic Traffic Law
+Enforcement (E-TLE) atau tilang
+elektronik ?
+I.3. Tujuan dan Manfaat penulisan
+1.3.1. Tujuan Penulisan
+a. Tujuan Umum
+Tujuan umum karya ilmiah ini
+adalah memberikan gambaran
+mengenai penerapan CCTV dengan
+menggunakan sistem Electronic
+Traffic Law Enforcement (E-TLE)
+atau tilang elektronik pada
+pengguna kenderaan bermotor.
+b. Tujuan Khusus
+Tujuan khusus yang ingin dicapai
+adalah sebagai berikut :
+1. Mengetahui cara kerja CCTV
+dengan menggunakan sistem
+Electronic Traffic Law
+Enforcement (E-TLE) atau
+tilang elektronik.
+2. Mengetahui pemanfaatan CCTV
+dengan menggunakan sistem
+Electronic Traffic Law
+Enforcement (E-TLE) atau
+tilang elektronik bagi
+pengendara kenderaan
+bermotor.
+1.3.2 Manfaat Penulisan
+a. Manfaat Teoritis
+Karya ilmiah ini diharapkan
+memiliki manfaat teoritis bagi
+para pembaca, dengan membaca
+karya ilmiah ini diharapkan para
+pembaca mendapatkan
+pengetahuan tentang CCTV
+dengan menggunakan sistem
+Electronic Traffic Law
+Enforcement (E-TLE) atau tilang
+elektronik dan manfaatnya serta
+sebagai inspirasi bagi pihak
+kepolisian untuk mewujudkan
+tertib lalu lintas.
+b. Manfaat Praktis
+Karya ilmiah ini selain
+diharapkan memiliki manfaat
+teoritis juga diharapkan dapat
+memiliki manfaat praktis dalam
+upaya mengurangi pelanggaran
+berlalu lintas dan mewujudkan
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+65
+keinginan Pemerintah Kota
+Medan untuk menjadikan Kota
+Medan Sebagai Kota Cerdas.
+I.4 Landasan Teori
+Kegiatan berlalu lintas adalah hal
+yang sangat penting dalam menjalani
+kehidupan sosial, dimana pemerintah
+bagaimana seharusnya kehidupan
+tersebut dilakukan. Sebagai negara
+hukum, Indonesia mempunyai Undangundang
+yang mengatur setiap aspek
+kehidupan bernegara.
+Lalu lintas di dalam Undangundang
+No 22 tahun 2009 didefinisikan
+sebagai gerak Kendaraan dan orang di
+Ruang Lalu Lintas Jalan, sedang yang
+dimaksud dengan Ruang Lalu Lintas
+Jalan adalah prasarana yang
+diperuntukkan bagi gerak pindah
+Kendaraan, orang, dan/atau barang
+yang berupa Jalan dan fasilitas
+pendukung.Permasalahan lalu lintas di
+kota besar salah satunya Kota Medan
+cukup memprihatinkan. Pertumbuhan
+jumlah penduduk setiap tahunnya,
+secara tidak langsung membuat
+permintaan akan kebutuhan
+transportasi meningkat.
+I.5 Tinjauan Pustaka
+Diketahui bahwa pelanggaran
+terhadap aturan lalu lintas butuh
+perhatian banyak oleh segenap lapisan
+masyarakat karena dapat merugikan si
+pengendara bermotor dan pejalan kaki.
+Data-data statistik yang ada sungguh
+mengkhawatirkan. Di sini penulis
+mengambil contoh data kecelakaan
+akibat pelanggaran aturan lalu lintas
+berdasarkan data yang dimiliki pihak
+kepolisian, tercatat 1.239 kasus
+kecelakaan lalu lintas yang terjadi di
+Sumut pada Januari hingga Maret
+2015. Jumlah kecelakaan lalu lintas
+tersebut menimbulkan korban sebanyak
+2.265 orang dengan perincian 360
+orang tewas, 516 orang luka berat, dan
+1.389 orang luka ringan.
+Tabel I
+Data Jumlah Kecelakaan Lalu Lintas
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+66
+Data statistik pada tabel 1
+menunjukkan angka kecelakaan lalu
+lintas dari tahun ke tahun cenderung
+meningkat. Peningkatan jumlah
+kecelakaan secara drastis terjadi pada
+periode 2004-2005 dan periode 2010-
+2012. Pada periode 2004-2005
+meningkat tajam dari 17.732 kasus
+pada 2004 menjadi 91.623 kasus pada
+2005 atau meningkat 5 kali lipat,
+sedangkan periode 2010-2012
+meningkat tajam dari 66.488 kasus
+pada 2010 menjadi 109.776 kasus pada
+2011 dan 117.949 kasus pada 2012.
+Namun pada tahun 2013, tingkat
+kecelakaan mengalami penurunan
+menjadi 93.578 kasus atau menurun
+sekitar 21% dibanding tahun
+sebelumnya. Sedangkan berdasarkan
+jumlah korban meninggal dunia terjadi
+peningkatan tajam pada periode 2010-
+2011, yakni meningkat dari 19.873
+jiwa menjadi 31.185 jiwa atau
+meningkat sekitar 36%. Meskipun
+tingkat kecelakaan periode 2012-1013
+mengalami penurunan sekitar 21%,
+namun tingkat kematian akibat
+kecelakaan masih tergolong tinggi,
+yakni sekitar 25% atau sama dengan
+tahun sebelumnya.
+1.6 Metodologi Penulisan
+Metodologi penulisan yang
+digunakan penulis sebagai acuan dalam
+penyusunan pembahasan karya ilmiah
+ini akan langsung menuju mengenai
+teknis tentang penerapan CCTV
+dengan menggunakan sistem
+Electronic Traffic Law Enforcement
+(E-TLE) atau tilang elektronik bagi
+pengendara kenderaan bermotor.
+PEMBAHASAN
+2.1 Pengertian Pelanggaran Lalu
+Lintas
+Pelanggaran lalulintas adalah
+suatu pelanggaran yang dilakukan oleh
+pengemudi kendaraan yang tidak
+mematuhi peraturan lalu lintas. Untuk
+mengatasi pelanggaran lalu lintas,
+maka dibuatlah suatu peraturan lalu
+lintas.
+Pelanggaran lalu lintas tertentu
+atau yang sering disebut dengan tilang
+merupakan kasus dalam ruang lingkup
+hukum pidana yang diatur dalam UU
+Nomor 14 Tahun 1992 (www.
+transparansi. or. id, 2009).
+Pengertian mengenai pelanggran
+lalu lintasdapat disimak dalam brosur
+penyuluhan hukumVIII tentang
+pelaksanaan lalu lintas yang diterbitkan
+oleh Direktorat Jenderal Pembinaan
+Badan Peradilan Umum Departemen
+Kehakiman edisi 1 Tahun 1993
+yangselengkapnya berbunyi: “
+Pelanggaran lalu lintas adalah
+setiap pelanggaran yang dilakukan
+oleh pemakai jalan baik terhadap
+rambu-rambu lalulintas maupun dalam
+cara mengemudi jalan, orang yang
+menggunakan kendaraan bermotor
+maupun pejalan kaki”.
+2.2 Jenis-Jenis Pelanggaran Lalu
+Lintas
+Setiap pengendara kendaraan
+bermotor, baik mobil maupun sepeda
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+67
+motor harus mengikuti peraturan yang
+telah ditetapkan oleh
+pemerintah. Semua pengendara motor
+harus mempelajari dan memahami
+peraturan lalu-lintas, karena polisi akan
+memberikan sanksi kepada orangorang
+yang melanggar peraturan lalulintas
+di jalan raya
+(www.organisasi.org).
+Adapun pelanggaran lalu lintas
+yang sering dilakukan oleh pengendara
+kenderaan bermotor yaitu :
+a. Menerobos Lampu Merah
+Lampu lalu lintas atau traffic light
+merupakan sebuah komponen
+vital pengaturan lalu lintas.
+Namun ironisnya, pelanggaran
+terhadap lampu lintas ini justru
+menempati urutan pertama
+sebagai jenis pelanggaran yang
+paling sering dilakukan pengguna
+kendaraan bermotor. Sedang
+terburu-buru serta tidak melihat
+lampu sudah berganti warna,
+adalah beberapa alasan yang
+sering terlontar dari si pelanggar.
+b. Tidak Menggunakan Helm
+UU No 22 Tahun 2009 tentang
+lalu lintas dan angkutan jalan
+sudah mengatur mengenai
+kewajiban pengendara untuk
+penggunaan helm berstandar
+Nasional Indonesia (SNI).
+Bahkan dalam UU tersebut
+dengan jelas tertera pula sanksi
+jika pengemudi tidak mengenai
+helm, maka ia bisa dipidana
+dengan pidana kurungan paling
+lama satu bulan atau denda paling
+banyak Rp250.000. Namun, pada
+prakteknya, lagi-lagi aturan ini
+sering diabaikan. Rata-rata
+beralasan, mereka enggan
+menggunakan helm karena jarak
+tempuh yang dekat serta merasa
+tidak nyaman.
+c. Tidak Menyalakan Lampu
+Kenderaan
+Pasal 107 Undang-Undang No.
+22 Tahun 2009 tentang Lalu
+Lintas dan Angkutan Jalan
+menyatakan bahwa Pengemudi
+Kendaraan Bermotor wajib
+menyalakan lampu utama
+Kendaraan Bermotor yang
+digunakan di Jalan pada malam
+hari dan pada kondisi tertentu.
+Kemudian pada ayat kedua
+dinyatakan Pengemudi Sepeda
+Motor selain mematuhi ketentuan
+sebagaimana dimaksud pada ayat
+(1) wajib menyalakan lampu
+utama pada siang hari.
+Pelanggaran sering terjadi,
+terutama untuk kewajiban
+menyalakan lampu di siang hari.
+Rendahnya tingkat kedisiplinan
+pengguna jalan atau mungkin
+kurangnya sosialisasi khususnya
+untuk lampu di siang hari bisa
+menjadi penyebab seringnya
+aturan ini dilanggar.
+d. Tidak Membawa Surat
+Kelengkapan Berkendara
+Aksi tilang yang dilakukan pihak
+kepolisian juga sering terjadi
+terhadap pengendara yang tidak
+membawa surat-surat berkendara
+seperti Surat Izin Mengemudi
+(SIM) serta Surat Tanda Nomor
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+68
+Kendaraan (STNK). Berbagai
+operasi yang tengah gencar
+dilakukan aparat acapkali
+mendapati pelanggaran semacam
+itu. Banyak diantara mereka yang
+belum memiliki SIM karena
+belum cukup usia, namun
+memaksakan diri untuk
+mengendarai sepeda motor. Hal
+ini tentunya bisa membahayakan
+keselamatan diri sendiri dan
+orang lain.
+e. Melawan Arus (Contra Flow)
+Di kota-kota besar seperti Jakarta,
+para pengendara sepeda motor
+acapkali bersikap seenaknya di
+jalanan dengan “melawan arus”.
+Mereka seolah tutup mata dengan
+adanya pengendara lain yang
+berjalan berlawanan arah dengan
+mereka. Kasus kecelakaan di
+jalan layang non tol Kampung
+Melayu-Tanah Abang yang
+terjadi 27 Januari 2014, tak
+membuat jera para pengendara
+motor lainnya. Pada saat itu,
+seorang pengendara motor nekad
+untuk melawan arus akibat
+menghindari razia. Akibatnya,
+istrinya tewas karena jatuh
+terpental. Di beberapa titik jalan
+lainnya di Ibukota, aksi nekad ini
+juga seringkali terjadi.
+f. Melanggar Rambu-Rambu Lalu
+Lintas Pelanggaran terhadap
+rambu-rambu lalu lintas acapkali
+terjadi. Parkir di bawah rambu
+dilarang parkir serta berhenti di
+depan tanda larangan stop sudah
+menjadi aktivitas yang sering
+dilakukan. Padahal menurut
+ketentuan pasal 287 ayat (1) UU
+No.22 tahun 2009, jenis
+pelanggaran tersebut bisa
+terancam hukuman pidana
+kurungan paling lama 2 bulan
+atau denda paling banyak
+Rp500.000.
+g. Penggunaan Kendaraan yang
+Tidak Memperhatikan Aspek
+Keselamatan
+Saat ini banyak sekali pengendara
+yang memodifikasikan
+kendaraannya namun tidak sesuai
+dengan standar keamanan.
+Misalnya saja odongodong.
+Kendaraan ini awalnya adalah
+minibus. Namun kendaraan ini
+kemudian dimodifikasi menjadi
+odongodong yang
+penggunaannya juga tidak sesuai
+peruntukan sehingga
+membahayakan keselamatan.
+Mengendarai motor dengan
+muatan lebih juga masuk dalam
+kategori ini. Banyak peristiwa
+kecelakaan karena pengemudi
+memaksakan kendaraannya
+dijejali dengan jumlah
+penumpang yang tidak sesuai
+kapasitas.
+h. Tidak Menggunakan Spion
+Pentingnya kesadaran
+menggunakan kaca spion saat
+berkendara seringkali diabaikan.
+Padahal kaca spion dapat
+membantu pengemudi untuk
+memastikan bahwa kondisi saat
+itu kondusif untuk membelokkan
+kendaraan. Hal ini juga berguna
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+69
+untuk meminimalisir terjadinya
+kecelakaan. Berdasarkan Undang-
+Undang No. 2 tentang Lalu Lintas
+dan Angkutan Jalan, Pasal 285
+ayat 1, pengendara akan ditilang
+atau didenda sebesar Rp250.000
+jika kendaraannya tidak
+dilengkapi dengan kaca spion.
+i. Berkendara Melewati Trotoar
+Seyogyanya trotoar merupakan
+tempat bagi pejalan kaki. Namun
+nyatanya, hak pejalan kaki juga
+diserobot oleh para pengendara
+motor. Dengan tanpa merasa
+bersalah, mereka mengendarai
+kendaraannya diatas trotoar
+sehingga memaksa pejalan kaki
+untuk mengalah dengan alasan
+menghindari kemacetan. Untuk
+mengantispasi hal tersebut, saat
+ini banyak kampanye yang
+menyerukan pengembalian
+trotoar sebagai sarana bagi para
+pejalan kaki.
+2.3 Faktor Pelanggaran Lalu
+Lintas
+Terdapat banyak faktor yang
+mempengaruhi terjadinya pelanggaran
+lalu lintas dijalan setiap tahunnya.
+Faktor tersebut antara lain adanya
+paradigma berpikir masyarakat instan
+di zaman modern, mulai lunturnya
+sensitivitas dalam berkendara, dan
+minimnya etika berkendara untuk
+tertib, saling menghormati, saling
+menghargai, sehingga mengakibatkan
+semakin tergerusnya rasa kepemilikan
+akan sesuatu.
+Faktor utama penyabab
+pelanggaran lalu lintas yaitu :
+a. Faktor Manusia
+Menurut Suwardjoko (2002: 108)
+pencatatan data pelanggaran lalu
+lintas dan kecelakaan di
+Indonesia belum cukup lengkap
+untuk bisa dianalisis guna
+menemukan sebab musabab
+kecelakaan lalu lintas sehingga
+dengan tepat bisa diupayakan
+penanggulangannya. Penyebab
+kecelakaan dapat dikelompokan
+dalam tiga unsur yaitu manusia,
+jalan, dan kendaraan.
+Faktor manusia ini ditentukan
+oleh beberapa indikator yang
+membentuk sikap dan
+perilakunya di jalan raya (Ikhsan,
+2009:02), diantaranya :
+- Mental
+Mental dan perilaku yang
+membudaya dari pengguna
+jalan merupakan salah satu
+faktor utama yang sangat
+berpengaruh terhadap situasi
+lalu lintas. Etika, sopan -
+santun, toleransi antar
+pengguna jalan, kematangan
+dalam pengendalian emosi
+serta kepedulian pengguna
+jalan di jalan raya akan
+menimbulkan sebuah iteraksi
+yang dapat mewarnai situasi
+lalu lintas berupa hasil yang
+positif seperti terciptanya
+keamanan,keselamatan dan
+kelancaran lalu lintas maupun
+dampak negatif yang dapat
+menimbulkan kesemrawutan,
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+70
+kemacetan, pelanggaran dan
+kecelakaan lalu lintas,
+sehingga mentalitas pengguna
+jalan merupakan suatu hal
+yang pondamental dalam
+mewujudkan situasi lalu lintas
+yang baik. Mental dan
+perilaku pengguna jalan
+merupakan suatu cerminan
+budaya berlalulintas, hal ini
+tidak dapat dibentuk secara
+instant oleh suatu lembaga
+tertentu, baik itu lembaga
+pendidikan maupun lembaga
+lainnya, tetapi terbentuk
+secara berkesinambungan
+mulai kehidupan sehari-hari
+dalam keluarga, lingkungan
+dan situasi lalu lintas yang
+kasat mata secara keseharian
+selalu terlihat oleh pengguna
+jalan sehingga membentuk
+kultur mentalitas berlalu lintas
+seseorang.
+- Pengetahuan
+Dalam menciptakan dan
+memelihara Keamanan,
+Keselamatan, Ketertiban serta
+Kelancaran Lalu lintas, telah
+dilakukan pengaturan yang
+disesuaikan dengan
+perkembangan situasi lalu
+lintas yang ada dengan
+mempertimbangkan
+perkembangan teknologi di
+bidang transportasi baik yang
+berhubungan dengan
+kendaraan, sarana dan
+prasarana jalan serta dampak
+lingkungan lainnya dalam
+bentuk suatu aturan yang
+tegas dan jelas serta telah
+melalui proses sosialisasi
+secara bertahap sehingga
+dapat dijadikan pedoman
+dalam berinteraksi di jalan
+raya.
+- Keterampilan
+Kemampuan dalam
+mengendalikan(Mengendarai/
+Mengemudi) Kendaraan baik
+kendaraan bermotor maupun
+kendaraan tidak bermotor di
+jalan raya akan berpengaruh
+besar terhadap situasi lalu
+lintas, keterampilan
+mengendalikan kendaraan
+merupakan suatu keharusan
+yang mutlak demi keamanan,
+keselamatan, ketertiban dan
+kelancaraan lalu lintas baik
+bagi pengemudi/-pengendara
+kendaraan tersebut maupun
+pengguna jalan
+lainnya.Lisensi terhadap
+kemampuan dalam
+mengendalikan kendaraan
+diwujudkan secara formal
+melalui Surat Izin
+Mengemudi yang dikeluarkan
+oleh SATPAS Polri sesuai
+dengan peruntukan kendaraan
+bermotor yang
+dikemudikan/dikendarai oleh
+pengguna jalan sesuai dengan
+Peraturan Pemerintah Nomor
+44 tahun 1993 tentang
+Kendaraan dan Pengemudi
+Bab VII tentang Pengemudi
+b. Faktor Kenderaan
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+71
+Kendaraan merupakan salah satu
+faktor utama yang secara
+langsung terlibat dalam dinamika
+lalu lintas jalan raya dengan
+dikendalikan oleh manusia,
+interaksi antara manusia dan
+kendaraan dalam satu kesatuan
+gerak di jalan raya memerlukan
+penanganan khusus baik terhadap
+mental, pengetahuan dan
+keterampilan pengemudi maupun
+kesiapan (layak jalan) kendaraan
+tersebut untuk dioperasionalkan
+di jalan raya.
+c. Faktor Jalan
+Faktor terakhir adalah faktor
+jalan, hal ini berhubungan dengan
+kecepatan rencana jalan, pagar
+pengaman di daerah pegunungan,
+ada tidaknya media jalan, dan
+jarak pandang serta kondisi
+permukaan jalan. Jalan yang
+rusak atau berlubang sangat
+membahayakan pemakai jalan
+terutama pemakai sepeda motor.
+Hujan juga mempengaruhi kinerja
+kendaraan seperti jarak
+pengereman menjadi lebih jauh
+dan jalan menjadi lebih licin.
+Selain itu, jarak pandang juga
+terganggu dengan adanya asap
+dan kabut, terutama di daerah
+pegunungan. Hal ini
+mengakibatkan jarak pandang
+menjadi lebih pendek. Faktor
+jalan juga dipertegas oleh
+pernyataan (Suwardjoko 2002:
+144) kondisi jalan dapat menjadi
+salah satu sebab terjadinya
+pelanggaran dan kecelakaan lalu
+lintas seperti jalan rusak, tikungan
+jalan yang tajam, tetapi faktor
+jalan dapat dikurangi dengan
+rekayasa jalan dengan sedemikian
+rupa sehingga dapat
+mempengaruhi tingkah laku para
+pengguna jalan dan mengurangi
+atau mencegah tindakan yang
+membahayakan keselamatan
+dalam berlalu lintas.
+2.4 Sanksi Pelanggaran Lalu Lintas
+Berdasarkan Undang-Undang No.
+22 Tahun 2009 tentang Lalu Lintas
+yang disahkan DPR pada 22 Juni 2009,
+terdapat beberapa sanksi yang
+dikenakan bagi pelanggaran lalu lintas,
+sebagai berikut:
+- Setiap pengendara kendaraan
+bermotor yang tidak memiliki
+SIM dipidana dengan pidana
+kurungan paling lama 4 bulan
+atau denda paling banyak Rp 1
+juta (Pasal 281).
+- Setiap pengendara kendaraan
+bermotor yang memiliki SIM
+namun tak dapat
+menunjukkannya saat razia
+dipidana dengan pidana kurungan
+paling lama 1 bulan atau denda
+paling banyak Rp 250 ribu (Pasal
+288 ayat 2).
+- Setiap pengendara kendaraan
+bermotor yang tak dipasangi
+Tanda Nomor Kendaraan
+dipidana dengan pidana kurungan
+paling lama 2 bulan atau denda
+paling banyak Rp 500 ribu (Pasal
+282).
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+72
+- Setiap pengendara sepeda motor
+yang tak dilengkapi kelayakan
+kendaraan seperti spion, lampu
+utama, lampu rem, klakson,
+pengukur kecepatan, dan knalpot
+dipidana dengan pidana kurungan
+paling lama 1 bulan atau denda
+paling banyak Rp 250 ribu (Pasal
+285 ayat 1).
+- Setiap pengendara mobil yang tak
+dilengkapi kelayakan kendaraan
+seperti spion, klakson, lampu
+utama, lampu mundur, lampu
+rem, kaca depan, bumper,
+penghapus kaca dipidana dengan
+pidana kurungan paling lama 2
+bulan atau denda paling banyak
+Rp 500 ribu (Pasal 285 ayat 2).
+- Setiap pengendara mobil yang
+tidak dilengkapi dengan
+perlengkapan berupa ban
+cadangan, segitiga pengaman,
+dongkrak, pembuka roda, dan
+peralatan pertolongan pertama
+pada kecelakaan dipidana dengan
+pidana kurungan paling lama 1
+bulan atau denda paling banyak
+Rp 250 ribu (Pasal 278).
+- Setiap pengendara yang
+melanggar rambu lalu lintas
+dipidana dengan pidana kurungan
+paling lama 2 bulan atau denda
+paling banyak Rp 500 ribu (Pasal
+287 ayat 1).
+- Setiap pengendara yang
+melanggar aturan batas kecepatan
+paling tinggi atau paling rendah
+dipidana dengan pidana kurungan
+paling lama 2 bulan atau denda
+paling banyak Rp 500 ribu (Pasal
+287 ayat 5).
+- Setiap pengendara yang tak
+memiliki Surat Tanda Nomor
+Kendaraan atau STNK dipidana
+dengan pidana kurungan paling
+lama 2 bulan atau denda paling
+banyak Rp 500 ribu (Pasal 288
+ayat 1).
+- Setiap pengemudi atau
+penumpang yang duduk di
+samping pengemudi mobil tak
+mengenakan sabuk keselamatan
+dipidana dengan pidana kurungan
+paling lama 1 bulan atau denda
+paling banyak Rp 250 ribu (Pasal
+289).
+2.5 Mengatasi Tertib Lalu Lintas
+Menggunakan CCTV melalui
+sistem Electronic Traffic Law
+Enforcement (E-TLE) atau
+tilang elektronik
+Tilang elektronik memang hal
+baru bagi Indonesia dan mudahmudahan
+Kota Medan sebagai Kota
+Smart dapat menjadi pelopor dari
+Sistem tilang elektronik. Namun, bagi
+negara-negara maju, seperti Singapura,
+sudah lebih dulu diimplementasikan.
+Nah. Sekarang sudah sulit mungkir lagi
+jika melakukan pelanggaran aturan lalu
+lintas jalan di kawasan yang disebutkan
+di atas. Semoga semakin memperkecil
+perilaku melabrak aturan lalu lintas
+jalan. Maklum, kita semua memahami
+bahwa pelanggaran aturan lalu lintas
+jalan bakal membuka potensi
+kecelakaan lalu lintas jalan.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+73
+Untuk mendeteksinya adanya
+pelanggaran lalu lintas ini maka pihak
+kepolisian Khususnya di Kota Medan
+ini harus membangun sistem IT yang
+lebih baik seperti :
+- Pendataan Kembali untuk pemilik
+kenderaan bermotor yang
+bersumber dari buku pemilikan
+kendaraan bermotor (BPKB) dan
+pembuatan foto si pemilik
+sebagai kepemilikan kenderaan
+yang sudah terdaftar secara
+lengkap di Pusat Data Khusus
+Penanganan Sistem Tilang
+Elektronik agar dapat segera
+dicari datanya apabila si
+pengendara melakukan
+pelanggaran.
+- Dibangunnya sistem data jika
+kendaraan yang dipakai bukan
+milik nama yang tertera di buku
+pemilikan kendaraan bermotor
+(BPKB).
+Hal ini perlu dipikirkan, karena
+bisa saja kenderaan yang
+digunakan si pengendara
+bukanlah kenderaan miliknya dan
+bahkan pinjaman dari pihak
+keluarga,kerabat atau bisa jadi
+kenderaan hasil curian. Jadi pada
+saat si pengendara yang
+menggunakan bukan
+kenderaannya bisa terdeteksi di
+sistem data yang telah dibuat dan
+datanya ini tidak akan diketahui
+oleh si pengendara.
+- Dibangunnya sistem data jika
+kenderaannya dijual dan
+dilanjutkan dengan pengurusan
+balik nama.
+Hal ini harus dilakukan dengan
+sistem yang lebih baik agar saat
+sanksi akan diberikan tidak
+merugikan pemilik kenderaan
+yang telah menjualnya kepada
+yang lain.
+- Dibangunnya sistem pembayaran
+untuk tilang elektronik
+Dalam hal ini kepolisian
+bekerjasama dengan pihak
+perbankan yang ditunjuk sebagai
+media tempat pembayaran bagi
+pengendara yang melakukan
+pelanggaran lalu lintas.
+2.6 Mekanisme CCTV dengan
+sistem Electronic Traffic Law
+Enforcement (E-TLE) atau
+tilang elektronik
+Kamera perekam yang dipasang
+di setiap traffic light yang selalu
+mengalami kemacetan yang akan
+membuat di pengendara mencari
+kesempatan untuk menerobos rambu
+lalu lintas dan Kamera ini akan
+merekam kejadian di sekitar lokasi
+tersebut. Jika terjadi pelanggaran oleh
+pengguna jalan, selanjutnya data nomor
+polisi atau plat nomor kendaraan
+tersebut akan dicocokan di Pusat Data
+Khusus Penanganan Sistem Tilang
+Elektronik. Kamera perekam ini
+dilengkapi dengan resolusi gambar
+yang tinggi agar nomor plat dan
+pengendara terlihat dengan jelas.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+74
+Saat pengendara melakukan
+pelanggaran, kamera perekam akan
+melakukan perekaman dan operator
+bagian monitoring akan segera
+memproses data perekaman sehingga
+dapat mencetak nama plat, atau
+identitas lainnya yang telah terhubung
+dengan sistem data dan pihak
+berwenang segera memproses
+pengiriman foto rekaman data pada
+alamat yang telah ada pada pihak
+berwenang serta memberikan tilang
+elektronik kepada si pelanggar tersebut
+dan nantinya di surat tilang itu,
+pelanggar akan diarahkan apakah
+langsung membayar denda melalui
+bank atau mengikuti sidang di waktu
+dan tempat sidang yang telah
+ditentukan dan juga surat tilang yang
+akan dikirim yakni berupa selembar
+kertas berisi foto kendaraan yang
+melanggar, nama pemilik serta jenis
+pelanggaran.
+Di sana tertera pula dimana lokasi
+kita melanggar, termasuk apa pasal
+yang dikenakan oleh petugas. Apabila
+si pemilik tidak menghiraukan atau
+tidak melakukan pembayaran atas
+peringatan tilang elektronik ini maka
+pihak berwenang akan menindaklanjuti
+STNK akan diblokir.
+Penulis akan memberikan
+gambaran mengenai pelanggaran yang
+terekam oleh CCTV traffic light dan
+pada traffic light terpasang Electronic
+Traffic Law Enforcement (E-TLE).
+Foto yang telah terekam tersebut akan
+dikirimkan pada alamat sesuai dengan
+data yang telah ada pada pihak
+kepolisian.
+Data pelanggaran terkirim
+pada operator electronic
+traffic law enforcement
+ANDA TELAH MELEWATI GARIS PEMBATAS
+Sensor akan memberikan
+peringatan apabila pengendara
+telah melewati garis pembatas
+traffic light
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+75
+PENUTUP
+3.1 Kesimpulan
+Pelanggaran lalulintas di Kota
+Medan masih meningkat.
+Meningkatnya pelanggaran lalulintas di
+Kota Medan diduga karena kurangnya
+kesadaran masyarakat berlalu lintas di
+jalan. Pelanggaran didominasi tidak
+lengkapnya administrasi kendaraan dan
+kelengkapan kendaraan saat
+berlalulintas, serta rendahnya
+kesadaran akan keselamatan
+berlalulintas.
+3.2. Saran
+Mengingat masih tingginya angka
+kecelakaan lalu lintas yang terjadi di
+Kota Medan, maka hendaknya semua
+perlu untuk lebih peduli terhadap
+keselamatan lalu lintas, sebagaimana
+yang telah diinstruksikan Presiden
+melalui Instruksi Presiden Nomor 4
+tahun 2013, tentang Program Dekade
+Aksi Keselamatan Jalan,
+menginstruksikan kepada semua untuk
+mengambil langkah-langkah yang
+diperlukan sesuai dengan tugas, fungsi
+dan kewenangan masing-masing untuk
+melaksanakan program tersebut.
+DAFTAR PUSTAKA
+Peraturan Pemerintah Republik
+Indonesia No44 Tahun 1993
+Tentang Kendaraan Dan
+Pengemudi
+Warpani, Suwardjoko P. Pengelolaan
+Lalu Lintas dan Angkutan
+Jalan. Bandung: ITB,2002.
+Undang-Undang Nomor 22 Tahun
+2009 tentang Lalu Lintas dan
+Angkutan Jalan
+www. transparansi. or. Id
+www.organisasi.org

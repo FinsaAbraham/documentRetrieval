@@ -117,7 +117,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Fungsi untuk menggabungkan 2 buah posting Made by Johan
+     * Fungsi untuk menggabungkan 2 buah posting 
      *
      * @param p1
      * @param p2

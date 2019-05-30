@@ -1,0 +1,505 @@
+“PENGENDALIAN KONTROL PC JARAK JAUH VIA ANDROID DENGAN MEMANFAATKAN MEDIA INTERNET UNTUK MENGOPTIMALKAN PENGAWASAN/ MONITORING KERJA PEGAWAI DI INSTANSI PEMERINTAHAN”
+Oleh : Hermanto
+(Mahasiswa STIP-AP)
+I. PENDAHULUAN
+A. LATAR BELAKANG
+Pada masa sekarang, model
+sistem pengendali jarak jauh tidak
+asing lagi, karena model sistem
+sekarang sudah melakukan proses
+penyempitan ruang. Maksudnya tidak
+ada batas waktu dan jarak lagi antara
+daerah yang satu dengan daerah yang
+lainnya. Dengan konsep inilah sistem
+jarak jauh juga terjadi untuk
+mempermudah kehidupan sehari-hari.
+Konsep pengendalian ini paling
+banyak beredar pada saat ditemukan
+remote control. Model pengendalian ini
+dari awal berbatas pada cakupan ruang
+yang terbatas karena media yang
+dipakai masih menggunakan kabel
+yang sangat panjang, sampai sekarang
+prosesnya sudah jauh berkembang,
+karena tidak lagi berbatas ruang yang
+sempit tapi sudah mencakupi areal
+dunia dengan fasiltas internet.
+Sehingga model pengendali ini sudah
+sangat memudahkan kerja dan kinerja
+manusia dalam proses pengontrolan,
+adapun cakupan yang dibahas dalam
+karya tulis ini adalah pengontrolan PC
+via android. Dimana perkembangan
+android pada masa sekarang sudah
+berkembang pesat. Sudah hampir
+semua handphone dan smart phone
+pada sekarang ini berbasis android.
+Pengendali kontrol jarak jauh
+juga dapat dimanfaatkan untuk
+mengoptimalkan pengawasan kerja
+seorang pimpinan kepada pegawai atau
+bawahannya. Sebagai contoh seorang
+Kepala Satuan Kerja Perangkat Daerah
+(SKPD) dari suatu tempat atau daerah
+ingin melihat pekerjaan pegawainya
+yang menggunakan komputer atau PC,
+cukup tinggal mencek PC atau android
+dari daerah tempat Kepala SKPD
+berada. Dengan hal tersebut pegawai
+yang kurang serius dan tidak
+profesional dalam bekerja, misalnya
+bermain facebook saat bekerja,
+menonton youtube, bermain game dan
+lain sebagainya dapat dimonitoring
+atau dikontrol.
+Berdasarkan uraian diatas dan
+mengingat akan kesesuaian tema pada
+lomba karya tulis ilmiah se-Kota
+Medan dalam rangka peringatan Hari
+Kebangkitan Teknologi Nasional
+(Hakteknas) yang diselenggarakan oleh
+Badan Penelitian dan Pengembangan
+Kota Medan yaitu “Inovasi Ilmu
+Pengetahuan dan Teknologi Dalam
+Mewujudkan Medan Sebagai Kota
+Cerdas (Smart City)” maka penulis
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+105
+tertarik untuk memecahkan
+permasalahan pengawasan atau
+monitoring kerja pegawai dalam bentuk
+Karya Tulis Ilmiah dengan judul
+“Pengendalian Kontrol PC Jarak
+Jauh Via Android Dengan
+Memanfaatkan Media Internet
+Untuk Mengoptimalkan
+Pengawasan/ Monitoring Kerja
+Pegawai di Instansi Pemerintahan”.
+B. RUMUSAN MASALAH
+Adapun yang menjadi rumusan
+masalah dalam tulisan ini, yaitu :
+1. Bagaimana cara mengendalikan
+kontrol PC jarak jauh via android
+dengan menggunakan media internet
+untuk mengoptimalkan
+pengawasan/monitoring kerja
+pegawai di instansi pemerintahan ?
+2. Aplikasi apa yang dipakai untuk
+mengendalikan kontrol PC jarak
+jauh via android dengan
+menggunakan media internet
+internet untuk mengoptimalkan
+pengawasan/monitoring kerja
+pegawai di instansi pemerintahan ?
+3. Apa kelebihan mengendalikan
+kontrol PC jarak jauh via android
+dengan menggunakan media
+internet?
+C. MAKSUD DAN TUJUAN
+Adapun maksud dan tujuan dari
+tulisan ini adalah :
+1. Untuk mengetahui cara
+mengendalikan kontrol PC jarak
+jauh via android dengan
+menggunakan media internet guna
+mengoptimalkan
+pengawasan/monitoring kerja
+pegawai di instansi pemerintahan.
+2. Untuk mengetahui Aplikasi yang
+dipakai untuk mengendalikan
+kontrol PC jarak jauh via android
+dengan menggunakan media internet
+guna mengoptimalkan
+pengawasan/monitoring kerja
+pegawai di instansi pemerintahan.
+3. Untuk mengetahui kelebihan
+mengendalikan kontrol PC jarak
+jauh via android dengan
+menggunakan media internet.
+D. KERANGKA TEORITIS
+1. Kontrol PC (Remote PC)
+Meremote PC (mengendalikan
+PC jarak jauh) sering dianggap
+melakukan tindakan illegal. Karena
+banyak disalah gunakan untuk proses
+pencurian data dan sebagainya yang
+sering disebut dengan istilah cracker.
+Cracker sebenarnya berbeda
+dengan hacker, karena cracker sifatya
+cenderung lebih merusak sistem target
+apabila terdapat kelemahan pada sistem
+tersebut. (Wiharsono Kurniawan,
+2007).
+Gambaran umum dari bentuk
+model hubungan kontrol pc jarak jauh
+seperti bentuk gambar di bawah ini.
+Gambar 1 : Model hubungan kontrol PC jarak
+jauh
+Hal yang lazim digunakan untuk
+remote pc (kontrol pc jarak jauh)
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+106
+adalah sebagai berikut : (Yoga
+Nurjaman, dkk, 2012)
+a. Mengendalikan komputer lain dari
+lokasi yang diremote, misalkan
+untuk mengakses software yang ada
+di divisi atau dibagian lain di
+perusahaan oleh pengguna teknical
+support perusahaan di ruang
+kerjanya.
+b. Mematikan komputer jarak jauh.
+c. Menghidupkan ulang
+komputer/restart dari jarak jauh.
+d. Mengawasi penggunaan komputer
+dari jarak jauh.
+e. Mengawasi penggunaan program
+berjalan / internet dari jarak jauh.
+f. Pemeliharaan (maintenance)
+komputer dari jarak jauh.
+g. Sharing resource dari jarak jauh.
+Ada beberapa jenis software atau
+aplikasi yang sering digunakan untuk
+meremote atau melakukan kontrol jarak
+jauh pada PC, diantaranya adalah :
+? Teamviewer
+? Radmin
+? Anyplace Control
+? Remote Computer Access
+? GoToMyPC
+? LogMeIn
+2. Android
+Android adalah sebuah sistem
+operasi yang berbasis Linux untuk
+telepon seluler seperti telepon pintar
+(smartphone) dan komputer tablet.
+Android menyediakan platform terbuka
+bagi para pengembang untuk
+menciptakan aplikasi mereka sendiri
+untuk digunakan oleh bermacam
+peranti bergerak.
+Perkembangan android dari awal hingga sekarang ini sudah mencapai 19
+kali, yaitu :
+1. Android 1.0 6. Android 2.0.1 Eclair
+2. Android 1.1 7. Android 2.1 Eclair
+3. Android 1.5 Cupcake 8. Android 2.2–2.2.3 Froyo
+4. Android 1.6 Donut 9. Android 2.3–2.3.2 Gingerbread
+5. Android 2.0 Eclair 10. Android 2.3.3–2.3.7 Gingerbread
+11. Android 3.0 Honeycomb 16. Android 4.1 Jelly Bean
+12. Android 3.1 Honeycomb 17. Android 4.2 Jelly Bean
+13. Android 3.2 Honeycomb 18. Android 4.3 Jelly Bean
+14. Android 4.0–4.0.2 Ice Cream
+Sandwich
+19. Android 4.4 KitKat
+15. Android 4.0.3–4.0.4 Ice Cream
+Sandwich
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+107
+Android mempunyai beberapa
+keunggulan diantaranya :
+a. User Friendly
+Kita dengan sangat mudah
+mengoprasikan komputer hanya
+dengan belajar beberapa hari bahkan
+beberapa jam saja, dan ini juga
+melekat pada Android yang berjalan
+pada Smartphone.
+b. Notifications
+Kita dengan sangat mudah
+mendapatkan notifikasi dari
+smartphone android dengan
+mengatur beberapa akun Email,
+SMS , Voice Dial, Update dan lain
+sebagainya.
+c. Tampilan
+Dari segi tampilan, Android tidak
+kalah bagusnya dari iOs milik
+Apple, karena memang dari awal
+android hampir mengusung
+teknologi iOs, hanya saja ini versi
+murahnya.
+d. Aplikasi
+Untuk Aplikasi disajikan jutaan
+pilihan aplikasi yang menarik dari
+yang gratis hingga berbayar, dan
+bisa didownloadnya di Google Play.
+3. Internet
+Penggunan internet sungguh tak
+asing lagi dikalangan masyarakat, baik
+yang menggunakan internet untuk
+proses pencarian informasi, bertukar
+data, main games, sampai proses jual
+beli. Sehingga media internet ini sudah
+sangant mewabah, terutama dikalangan
+remaja.
+Menurut Wiharsono (2007),
+internet adalah gabungan dari berbagai
+LAN dan WAN yang berada di seluruh
+jaringan komputer di dunia, sehingga
+terbentuk jaringan skala yang lebih luas
+dan global. Nia Sutisna (2008),
+mengartikan Internet adalah kumpulan
+luas jaringan komputer yang saling
+terhubung di seluruh dunia. Sehingga
+dapat disimpulkan bahwasanya Internet
+adalah gabungan dari berbagai macam
+model jaringan di seluruh dunia,
+sehingga antara device yang satu
+dengan yang lain bisa saling terhubung.
+Model jaringan ini ada yang bersifat
+LAN, MAN, WAN, dan Intranet, atau
+sering yang disebut dengan topologi
+jaringan.
+4. Proses Instalasi Software
+Remote Access
+Untuk karya tulis ilmiah ini
+penulis menggunaka software atau
+aplikasi Teamviewer untuk melakukan
+pengendalian kontrol jarak jauh.
+Berikut cara installasi aplikasi
+Teamviewer pada PC dan Android :
+a. Cara Install di PC/Komputer
+1. Download aplikasi Teamviewer,
+kemudian lanjutkan dengan
+menginstal unduhan Teamviewer
+tersebut.
+2. Pada How do you want to
+procced ?, pilih Basic
+installation. Pada How do you
+want to use Teamviewer pilih
+Personal/Non-commercial use.
+Kemudian klik Accept – next.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+108
+Gambar 2: Tampilan saat Setup.exe dijalankan
+3. Tunggu sampai proses instalasi
+TeamViewer selesai.
+Gambar 3 : Tampilan proses instalasi
+4. Setelah instalasi selesai maka
+TeamViewer sudah siap untuk
+digunakan, perhatikan YourID
+dan Password.
+Gambar 4 : Tampilan setelah proses instalasi
+selesai
+5. Pada saat komputer anda direstart
+ulang kembali maka Password
+TeamViewer akan berubahubah,
+untuk itu klik Personal
+Password dan buat Password
+agar Password tersebut dapat
+digunakan untuk seterusnya.
+Gambar 5 : Tampilan untuk merubah
+Password agar tidak berubah-ubah
+b. Cara Install di Android
+1. Install aplikasi TeamViewer
+dari Play Store.
+2. Tunggu proses download dan
+install sampai selesai.
+Berbeda dengan versi PC, untuk
+Android tidak ada opsi yang harus
+dipilih saat melakukan proses instalasi
+tetapi saat pertama kali dijalankan akan
+terlihat tampilan seperti dibawah ini.
+Gambar 6 : Tampilan saat instalasi TeamViewer di
+android.
+3. Pilih Next, beberapa kali
+sampai terlihat tombol Done
+lalu pilih dan TeamViewer di
+Android sudah siap
+digunakan.
+c. Cara Penggunaan Aplikasi
+TeamViewer
+Untuk mengontrol PC dari
+Android, kita hanya perlu masukan
+ID TeamViewer PC yang akan
+dikontrol kemudian pilih Remote
+Control, setelah terhubung
+masukan Password TeamViewer
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+109
+PC yang dikontrol untuk bisa
+mengakses PC tersebut. Jika
+sukses maka kita akan melihat
+tampilan seperti dibawah ini.
+Gambar 7: Tampilan saat PC di Remote dengan
+Android
+E. METODE PENULISAN
+Untuk metodologi penulisan,
+penulis mengawali dengan
+mengidentifikasi masalah yang terjadi,
+yakni mengendalikan PC dari jarak
+jauh via android dengan media internet
+sampai pada proses pengujian software,
+dimana dari tulisan ini, penulis
+melakukan pengujian dengan software
+TeamViewer.
+II. ISI DAN PEMBAHASAN
+A. IDENTIFIKASI MASALAH
+Pengawasan merupakan salah
+satu hal yang sangat penting dalam
+mencapai suatu tujuan
+instansi/perusahaan. Tanpa
+pengawasan yang optimal, tujuan
+instansi/perusahaan tidak akan tercapai
+sesuai dengan yang diharapkan karena
+masih banyak pegawai yang bekerja
+kurang serius dan tidak profesional.
+Ketidak seriusan dan kurang
+profesionalnya pegawai dalam
+pekerjaan masih sering terlihat diwaktu
+mereka bermain facebook saat jam
+kerja, bermain game atau melihat
+youtube saat jam kerja. Hal itu tentu
+saja dapat mengganggu kinerja
+pegawai terutama yang bekerja
+menggunakan komputer atau laptop
+sehingga tujuan instansi/perusahaan
+tidak tercapai secara optimal.
+Seiring dengan perkembangan
+teknologi yang semakin pesat dan
+menjamurnya smartphone yang
+berbasis android, penulis ingin
+memanfaatkan hal tersebut untuk
+mengoptimalkan pengawasan kerja
+pegawai di instansi pemerintahan
+khususnya kepada pegawai yang
+bekerja dengan menggunakan
+komputer agar kepala SKPD/pimpinan
+instansi dapat memonitoring pekerjaan
+yang dilakukan pegawainya sehingga
+pegawai yang bekerja kurang serius
+dapat di kontrol dan dapat
+ditindaklanjuti.
+B. ANALISIS MASALAH
+Berdasarkan pemaparan masalah
+di atas, penulis bermaksud memberikan
+saran dan masukan kepada Pemerintah
+Kota Medan untuk memanfaatkan
+media internet dengan cara
+mengendalikan PC dari jarak jauh via
+android agar Kepala SKPD atau Kepala
+Bidang dapat melakukan pengawasan
+atau monitoring pegawai/stafnya secara
+optimal.
+Kelebihan cara mengendalikan
+PC dari jarak jauh dengan media
+internet tidak memerlukan biaya yang
+begitu besar dibanding dengan
+memasang CCTV pada setiap ruangan
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+110
+untuk mengawasi atau memonitoring
+para pegawai. Cara kerja kontrol PC
+dari jarak jauh dengan media internet
+yaitu orang yang mengendalikan PC
+akan dapat melihat tampilan PC
+Pegawai yang di remot atau
+dikendalikan, sehingga apa yang
+dikerjakan para pegawai menggunakan
+komputer/PC dapat terlihat oleh
+pimpinan, apakah dia bekerja atau
+bermain game, bermain facebook,
+menonton youtube dan lain sebagainya.
+Mengingat sudah banyaknya
+orang yang menggunakan smartphone
+yang berbasis android, hal itu tentu saja
+lebih memudahkan pimpinan untuk
+memonitoring pegawainya dari mana
+saja, misalnya di rumah sehingga
+pegawai yang tidak bekerja secara
+serius dapat diketahui dan ditindak atau
+diberikan peringatan.
+III. PENUTUP
+A. KESIMPULAN
+Berdasarkan uraian dari
+pembahasan, maka penulis dapat
+menyimpulkan sebagai berikut :
+1. Cara mengendalikan kontrol PC
+jarak jauh via android dengan media
+internet dapat dilakukan dengan
+menggunakan software Remote
+Access. Dengan Remote Access, PC
+yang digunakan pegawai untuk
+bekerja akan dapat dikendalikan
+dengan android atau PC yang
+dimiliki pimpinan, sehingga apa
+yang dikerjakan pegawai tersebut
+dapat terlihat oleh pimpinan.
+2. Salah satu aplikasi Remote Access
+untuk mengendalikan kontrol PC
+jarak jauh via android dengan media
+internet adalah TeamViewer.
+3. Kelebihan mengendalikan kontrol
+PC jarak jauh via android dengan
+media internet yaitu tidak
+memerlukan biaya yang terlalu
+besar karena kita menggunakan
+jaringan internet, seperti Wi-Fi
+maupun paket data yang terdapat di
+Smartphone android. Aplikasi
+TeamViewer juga dapat di download
+secara gratis di internet maupun di
+Play Store Smartphone android.
+Cara melakukan pengendalian juga
+relatif mudah karena dapat
+dilakukan dimana saja dengan syarat
+Smartphone terhubung dengan
+internet.
+B. SARAN
+Dalam kesempatan ini penulis
+menawarkan pemanfaatan media
+internet dan Smartphone android untuk
+melakukan pengawasan/monitoring
+kerja pegawai khususnya pegawai yang
+menggunakan komputer/PC. Ide kreatif
+ini sangat sederhana dalam
+pelaksanaannya dan sangat mungkin
+untuk diterapkan. Biaya murah karena
+aplikasi dapat di download secara
+gratis melalui internet dan Play Store di
+android. Pengawasan/monitoring juga
+dapat dilakukan dimana saja dengan
+syarat terhubung dengan internet.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+111
+DAFTAR PUSTAKA
+Kurniawan, Wiharsono, Jaringan
+Komputer. 2007. Yogyakarta : Penerbit
+Andi.
+Nurjaman, Yoga. Pengembangan
+Sistem Remote Access Jaringan
+Berbasis Client Server. 2012.
+Jurnal Algoritma, Sekolah Tinggi
+Teknologi Garut, ISSN : 2302-
+7339 Vol. 09 No. 07.
+Tittel, Ed. 2004. Computer Networking.
+Jakarta : Erlangga.
+http//www.google.com

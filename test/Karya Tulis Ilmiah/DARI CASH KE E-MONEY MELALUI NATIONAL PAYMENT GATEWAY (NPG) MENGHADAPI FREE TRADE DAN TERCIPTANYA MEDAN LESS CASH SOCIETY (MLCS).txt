@@ -1,0 +1,1378 @@
+DARI CASH KE E-MONEY MELALUI NATIONAL PAYMENT GATEWAY (NPG) MENGHADAPI FREE TRADE DAN TERCIPTANYA MEDAN LESS CASH SOCIETY (MLCS)
+Oleh : Julia R.S. Banurea
+Guru Profesi Pendidikan Guru UNIMED ditugaskan di SMAN 5 Medan
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Transaksi yang terdapat dalam
+kehidupan masyarakat tidak lepas dari
+adanya sistem pembayaran yang
+berlaku. Pola ini sangat urgent,
+mengingat alat transaksi pembayaran
+adalah instrumen yang vital untuk
+dikelola dengan praktis dan aman.
+Transaksi dalam pembayaran segala
+jenis aktivitas ekonomi menyangkut
+bagaimana sistem pembayaran terjadi.
+Sistem pembayaran adalah sistem yang
+mencakup seperangkat aturan,
+lembaga, dan mekanisme yang dipakai
+untuk melaksanakan pemindahan dana
+guna memenuhi suatu kewajiban yang
+timbul dari suatu kegiatan ekonomi.
+Pembayaran atas segala jenis
+transaksi di Kota Medan masih
+didominasi oleh penggunaan alat
+pembayaran tunai (cash). Sedangkan
+untuk tranksaksi nontunai masih
+sedikit. Terdapat sejumlah kelemahan
+yang terjadi dalam pembayaran
+transaksi tunai (cash). Sehingga
+problema akan penggunaaan alat
+pembayaran tunai merupakan salah
+satu hal yang krusial untuk dikaji
+kembali. Ketidakefisienan pengunaan
+alat pembayaran tunai ini meliputi halhal
+berikut dibawah ini:
+1. Pengadaan dan pengelolaan
+(handling cash) mahal.
+Gambar 1. Percetakan Uang yang Mahal di Bank
+Indonesia
+2. Inefisiensi dalam waktu
+pembayaran. Contoh: ketika
+melakukan pembayaran di SPBU
+dan loket pembayaran yang relatif
+lama karena antrian yang panjang.
+Gambar 2. Antrian Panjang di SPBU (Jalan Putri
+Hijau, Medan)
+Gambar 3. Antri Membeli Tiket (Loket Kereta Api
+Medan)
+3. Melakukan transaksi dalam jumlah
+yang besar mengundang resiko:
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+42
+pencurian, perampokan dan
+pemalsuan uang.
+Gambar 4. Pencurian Uang Rp.174.000.000,00
+Gambar 5. Polresta Medan Sita Ratusan Lembar Uang
+Palsu (Jalan Medan-Binjai, Kecamatan Sunggal, Kota
+Medan)
+4. Uang kartal (Kertas dan Uang
+Logam Mengandung Bakteri)
+Gambar 6. Uang Kartal Mengandung Bakteri dari Satu
+Tangan ke Tangan Lain (Menyebabkan Penyakit)
+5. Kesiapan Menghadapi Persaingan
+Free Trade
+Gambar 7. Persaingan Menghadapi Free Trade di AEC
+Akhir Desember 2015 dalam Lintas Pembayaran yang
+Praktis
+Permasalahan diatas merupakan
+contoh konkret yang terjadi di Kota
+Medan. Berdasarkan fenomena tersebut
+dapat disimpulkan bahwa penggunaan
+alat transaksi tunai berupa uang kas
+memiliki kelemahan yang cukup
+banyak. Bahkan Bank Indonesia
+sebagai Bank Sentral yang memiliki
+hak oktroi dalam mencetak uang,
+memiliki data bahwa mencetak uang
+kartal berupa uang kertas dan logam
+memiki ketidakefisienan.
+Pertama dalam percetakan yang
+membutuhkan banyak biaya (cost) dan
+kedua adalah biaya pengelolaan
+(handling cash) yang mahal.
+Masyarakat juga merasa bahwa
+penggunanaa uang kartal (yakni uang
+kertas dan logam) dalam jumlah yang
+banyak mengundang aksi pencurian
+dan perampokan. Ketidakefektivan dan
+ketidakefisienan tersebut perlu dikelola
+secara terpadu, agar permasalahan yang
+dihadapi masyarakat dalam
+menjalankan aktivitas transaksi seharihari
+dapat berjalan praktis dan aman.
+Penulis merangkum sebuah
+gagasan yang diajukan kepada Pemko
+Medan agar mau menerapkan ide
+berupa penggunaan alat transaksi
+nontunai yang dapat bekerja lebih
+cepat, aman, serta terhindar dari resiko
+kejahatan. Penggunaan alat
+pembayaran tunai (cash) masih banyak
+digunakan. Sementara bila digunakan
+alat transaksi pembayaran nontunai
+maka akan diperoleh keuntungan dari
+segi efisiensi kepraktisan dan
+keamanan dalam bertransksi
+dimanapun dan kapanpun. Pembayaran
+yang selama ini menggunakan uang
+kartal (kertas dan logam) sebaiknya di
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+43
+alihkan ke e-money atau uang
+elektronik.
+Penggunaan uang elektronik
+sudah ada di Indonesia, akan tetapi
+penggunaannya masih minim. Dilihat
+dari kepraktisan dan keamanan
+penggunaan alat transaksi nontunai
+seperti e-money akan lebih bermanfaat,
+sebab perubahan arus globalisasi
+semakin cepat. Perubahan secara
+makro maupun mikro dalam aktivitas
+transaksi di masyarakat sangat
+signifikan. Dibutuhkan metode yang
+cepat, tepat dan aman agar
+permasalahan yang muncul dalam
+transaksi pembayaran dapat diatasi.
+Kota Medan adalah salah satu
+kota metropolitan di Indonesia. Kota
+Medan merupakan salah satu pintu
+gerbang arus perdagangan bebas. Kota
+Medan juga merupakan pusat segala
+sektor yang dinamis.
+Tidak dapat dipungkiri bahwa
+Kota Medan ikut terimbas oleh
+kemajuan teknologi dan akselerasi di
+segala bidang. Free trade yang akan
+dimulai Desember 2015 ini berupa
+ASEAN Economic Community (AEC)
+atau Masyarakat Ekonomi ASEAN
+(MEA) juga merupakan salah satu
+tantangan yang akan di dihadapi oleh
+masyarakat Kota Medan. Masyarakat
+harus siap bersaing dengan negara
+ASEAN lainnya baik dalam
+penguasaan ilmu pengetahuan dan
+penggunaan teknologi seperti
+penggunaan alat transaksi pembayaran
+nontunai seperti e-money. Sehingga
+transaksi dapat berjalan lancar, aman
+dan praktis dalam kehidupan seharihari
+di masyarakat dan dalam
+menghadapi free trade di Kota Medan.
+1.2 Rumusan Masalah
+1. Bagaimanakah pengalihan alat
+transaksi pembayaran tunai (cash)
+ke nontunai (e-money) dapat
+mempermudah masyarakat Kota
+Medan dalam melakukan tranksasi
+pembayaran di segala jenis aktivitas
+2 Bagaimanakah efektivitas dan
+efisiensi penggunaan e-money dapat
+menghandel problema masyarakat di
+bidang alat transaksi pembayaran
+modern berbasis teknologi.
+3 Bagaimanakah Pemko Medan dapat
+menciptakan Medan less cash
+society dan membantu berkurangnya
+peredaran uang tunai (cash) di Kota
+Medan.
+4 Bagaimanakah Pemko Medan
+melayani masyarakat menggunakan
+transaksi nontunai e-money sehingga
+mengetahui perkembangan ilmu dan
+teknologi yang mempermudah
+pembayaran dalam transaksi ragam
+jenis.
+5 Bagaimanakah e-money dapat
+melayani masyarakat Kota Medan
+menghadapi transaksi permbayaran
+dan perdagangan dalam free trade
+1.3 Maksud dan Tujuan
+1. Untuk mempermudah masyarakat
+Kota Medan dalam melakukan
+transaksi di berbagai jenis aktivitas
+kehidupan sehari-hari (contoh: saat
+berbelanja, membayar tagihan listrik
+dan telepon, pembayaran di SPBU,
+pembayaran uang berobat di rumah
+sakit dan lainnya)
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+44
+2. Untuk menciptakan efektivitas dan
+efisienssi pembayaran secara
+praktis, mudah dan bebas dari
+tindakan kejahatan.
+3. Menciptakan Kota Medan yang less
+cash society dan membantu
+pemerintah mengurangi jumlah uang
+tunai (cash) beredar.
+4. Mempermudah masyarakat dalam
+penguasaan ilmu dan teknologi
+dalam bertransaksi secara praktis
+dengan alat pembayaran modern.
+5. Membantu masyarakat Kota Medan
+dalam menghadapi free trade dan
+dapat bersaing dengan negara
+ASEAN lainnya dalam
+memperlancar transaksi pembayaran
+dan perdagangan.
+1.4 Kerangka Teori
+1.4.1 Sistem Pembayaran
+Sistem pembayaran merupakan
+tata-cara atau prosedur yang saling
+berkaitan dalam pemindahan sejumlah
+nilai uang (alat pembayaran) dari satu
+pihak (pembayar) ke pihak lain
+(penerima dana) yang terjadi karena
+adanya transaksi ekonomi. Secara
+sederhana diilustrasikan dalam gambar
+berikut.
+Bagan 1. Alur Sistem Pembayaran secara Sederhana
+Dari ilustrasi diatas tampak
+bahwasanya pada saat pembeli
+membelajakan uangnya untuk membeli
+barang ataupun jasa kepada penjual
+terjadi perpindahan nilai uang dari
+pembeli kepada penjual karena adanya
+transaksi jual beli.
+Menurut UU No.23/1999 tentang
+Bank Indonesia pasal 1 ayat 6,
+menyatakan bahwa sistem pembayaran
+adalah “Sistem yang mencakup
+seperangkat aturan, lembaga dan
+mekanisme yang digunakan untuk
+melaksanakan pemindahan dana guna
+memenuhi suatu kewajiban yang
+timbul dari suatu kegiatan ekonomi ”.
+Berdasarkan pengertian di atas
+dapat disimpulkan bahwa sistem
+pembayaran adalah tata-cara atau
+prosedur yang mencakup seperangkat
+aturan, lembaga dan mekanisme saling
+berkaitan dalam pemindahan sejumlah
+nilai uang (alat pembayaran) dari satu
+pihak ke pihak lain yang terjadi karena
+adanya transaksi ekonomi. Media yang
+digunakan untuk pemindahan nilai
+uang tersebut sangat beragam, mulai
+dari penggunaan alat pembayaran yang
+sederhana sampai pada penggunaan
+Pembeli Penjual
+Aliran nilai pembayaran
+Aliran barang dan jasa
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+45
+sistem yang kompleks. Kewenangan
+mengatur dan menjaga kelancaran
+sistem pembayaran di Indonesia
+dilaksanakan oleh Bank Indonesia yang
+dituangkan dalam Undang Undang
+Bank Indonesia.
+Gambar 8. Bank Indonesia sebagai Pengatur dan
+Penjaga Kelancaran Sistem Pembayaran di Indonesia
+Dalam menjalankan mandat
+tersebut, Bank Indonesia mengacu pada
+empat prinsip kebijakan sistem
+pembayaran, yakni keamanan,
+efisiensi, kesetaraan akses dan
+perlindungan konsumen.
+Bagan 2. Prinsip Kebijakan Sistem Pembayaran
+? Aman berarti segala risiko dalam
+sistem pembayaran seperti risiko
+likuiditas, risiko kredit, risiko fraud
+harus dapat dikelola dan dimitigasi
+dengan baik oleh setiap
+penyelenggaraan sistem
+pembayaran.
+? Prinsip efisiensi menekankan bahwa
+penyelanggaran sistem pembayaran
+harus dapat digunakan secara luas
+sehingga biaya yang ditanggung
+masyarakat akan lebih murah karena
+meningkatnya skala ekonomi.
+Kewajiban Efisiensi
+Aman
+4 Prinsip
+Kebijakan
+Sistem
+Kesetaraan
+Akses
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+46
+? Kemudian prinsip kesetaraan akses
+yang mengandung arti bahwa Bank
+Indonesia tidak menginginkan
+adanya praktek monopoli pada
+penyelenggaraan suatu sistem yang
+dapat menghambat pemain lain
+untuk masuk.
+? Terakhir adalah kewajiban seluruh
+penyelenggara sistem pembayaran
+untuk memperhatikan aspek-aspek
+perlindungan konsumen.
+Sementara itu dalam kaitannya
+sebagai lembaga yang melakukan
+pengedaran uang, kelancaran sistem
+pembayaran diejawantahkan dengan
+terjaganya jumlah uang tunai yang
+beredar di masyarakat dan dalam
+kondisi yang layak edar atau biasa
+disebut clean money policy.
+Berikut ini di jelaskan tentang
+komponen dalam sistem pembayaran
+Bagan 3. Komponen Sistem Pembayaran
+? Regulator berwenang mengatur
+aturan main, ketentuan, dan
+kebijakan yang mengikat seluruh
+komponen sistem pembayaran.
+? Penyelenggara adalah lembaga yang
+memastikan penyelesaian akhir dari
+seluruh transaksi yang terjadi di
+penggunanya.
+? Infrastruktur adalah sarana fisik
+yang mendukung operasional sistem
+pembayaran.
+? Instrumen adalah alat pembayaran
+baik tunai maupun non-tunai yang
+disepakati oleh para pengguna
+dalam melakukan transaksi.
+? Pengguna adalah konsumen yang
+memanfaatkan sistem pembayaran.
+1.4.2 Sistem Pembayaran Tunai
+Pembayaran tunai atau yang
+biasa disebut dengan pembayaran cash,
+merupakan pembayaran atas harga
+barang atau jasa secara tunai, dimana
+pihak pembeli menyerahkan uang
+sebagai bukti pembayaran sebesar
+harga barang yang dibeli bersamaan
+dengan surat pesanan.
+Pembayaran tunai ini biasanya
+dilakukan dengan menggunakan uang
+tunai (cash). Instrumen pembayaran
+tunai adalah uang kartal yang terdiri
+dari uang kertas dan uang logam. Uang
+kartal masih memainkan peran penting
+khususnya untuk transaksi bernilai
+kecil.
+Gambar 9. Uang Kertas
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+47
+Gambar 10. Uang Logam
+Namun patut diketahui bahwa
+pemakaian uang kartal memiliki
+kendala dalam hal efisiensi. Hal itu
+bisa terjadi karena biaya pengadaan
+dan pengelolaan (cash handling)
+terbilang mahal. Hal itu belum lagi
+memperhitungkan inefisiensi dalam
+waktu pembayaran. Misalnya, ketika
+kita menunggu melakukan pembayaran
+di loket pembayaran yang relatif
+memakan waktu cukup lama karena
+antrian yang panjang .Melakukan
+transaksi dalam jumlah besar juga
+mengundang risiko seperti pencurian,
+perampokan dan pemalsuan uang.
+1.4.3 Sistem Pembayaran Nontunai
+Instrumen yang digunakan
+berupa alat pembayaran menggunakan
+kartu (APMK), Cek, Bilyet Giro, Nota
+Debet, maupun uang elektronik (emoney).
+Pembayaran non tunai adalah
+pembayaran yang dilakukan dengan
+cara:
+1. Bayar dimuka yaitu pembayaran
+harga sebelum barang diterima atau
+sebelum barang ada.
+2. Bayar dibelakang, yaitu
+pembayaran yang dilakukan dalam
+jangka waktu tertentu setelah barang
+diterima.
+3. COD (cash on delivery), dimana
+pembayaran dilakukan pada waktu
+barang diserahkan pada pembeli,
+dan ada pula yang pembayaran
+dilakukan pada waktu dokumen tiba.
+Instrumen pembayaran non tunai
+dapat dibagi atas alat pembayaran non
+tunai dengan media kertas, seperti cek,
+bilyet giro, wesel, serta alat
+pembayaran non tunai dengan media
+kartu (plastic money) seperti: kartu
+kredit, kartu debit, kartu ATM, emoney
+(uang elektronik) dan lainnya.
+Transaksi pembayaran nontunai
+dengan nilai besar diselenggarakan
+Bank Indonesia melalui sistem BIRTGS
+(Real Time Gross Settlement)
+dan Sistem Kliring. Sebagai informasi,
+sistem BI-RTGS adalah muara seluruh
+penyelesaian transaksi keuangan di
+Indonesia. Hampir 95 persen transaksi
+keuangan nasional bernilai besar dan
+bersifat urgent seperti transaksi di
+Pasar Uang AntarBank (PUAB),
+transaksi di bursa saham, transaksi
+pemerintah, transaksi valuta asing
+(valas) serta settlement hasil kliring
+dilakukan melalui sistem BI-RTGS.
+Gambar 11. Kartu Kredit
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+48
+Gambar 12. Kartu ATM
+Gambar 13. Cek
+Gambar 14. Bilyet Giro
+Gambar 15. Uang Elektronik (E-Money)
+Keterlibatan fungsi uang
+hampir menguasai semua segi
+kehidupan manusia. Pemenuhan
+kebutuhan serta keinginan manusia
+tidak bisa lepas dari peranan uang
+sebagai alat tukar yang kemudian
+membuat nilai uang itu sendiri lebih
+besar dibanding nilai nominal
+yang tertera diatasnya.
+Alasan inilah yang mungkin
+menjadi latar belakang maraknya
+tindak pencurian uang baik itu yang
+sifatnya konvensional (pencopetan,
+perampokan nasabah, pembobolan
+mesin ATM) maupun digital
+(scamming, carding, freud, telephising).
+Untuk itu pemerintah maupun
+lembaga-lembaga keuangan lain
+melakukan berbagai usaha untuk
+menghindari terjadinya tindak kriminal
+tersebut salah satunya adalah
+dengan menawarkan kemudahan
+transaksi melalui internet atau biasa
+kita kenal dengan istilah e-banking. Ebanking
+adalah:Electronic money is a
+digital equivalent of cash, stored on an
+electronic device or remotely at a
+server. One common type of e-money is
+the „electronic purse?, where
+users store relatively small amounts of
+money on their payment card or other
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+49
+smart card, to use for making small
+payments.
+(sumber: http://ec.europa.eu/finance/pa
+yments/emoney/index_en.htm)
+1.4.4 National Payment Gateway
+(NPG)
+National payment gateway
+(NPG) atau gerbang pembayaran
+nasional adalah sistem di bawah
+pengelolaan Bank Indonesia yang
+menyatukan dan mendukung pelayanan
+nasabah bank-bank nasional, termasuk
+pelayanan e-commerce.
+Implementasi dari national
+payment gateway (NPG) adalah
+pembayaran baik antar nasabah di
+dalam negeri maupun dengan nasabah
+luar negeri melalui ATM, mobile
+phone, maupun internet di semua bank
+yang menjadi anggota NPG dapat
+dilakukan secara real time. Regulasi
+dalam penggunaan sistem ini diatur
+oleh Asosiasi Sistem Pembayaran
+Indonesia (ASPI).
+Gambar 16. Bank
+NPG merupakan salah satu
+strategi Bank Indonesia sebagai bank
+sentral dalam menghadapi krisis global
+yang berasal dari negara-negara Uni
+Eropa. Salah satu strategi yang
+dimaksud yaitu Bank Indonesia akan
+meningkatkan efisiensi, intermediasi,
+dan menyiapkan ketahanan perbankan
+nasional dalam menghadapi persaingan
+bebas sehingga bisa meningkatkan
+daya saing.
+Upaya meningkatkan daya saing
+juga dilakukan dengan meningkatkan
+efisiensi pembayaran. Pemerintah
+melalui NPG akan menggabungkan
+pembayaran baik yang nasional
+maupun luar negeri dimana semua
+pembayaran baik ATM, mobile phone,
+maupun internet akan menjadi satu.
+NPG juga direalisasikan dalam upaya
+menghadapi Masyarakat Ekonomi
+Asean (MEA) pada tahun 2015, dimana
+kegiatan pembayaran antar negara Asia
+lebih terjangkau.
+Bank Indonesia akan menunjuk
+Asosiasi Sistem Pembayaran Indonesia
+(ASPI) sebagai Self Regulatory
+Organization (SRO) industri
+pembayaran untuk melakukan kajian.
+Aturan NPG di Indonesia akan
+mengikuti aturan secara global dengan
+melihat bentuk NPG di negara-negara
+lain seperti Malaysia, Singapura dan
+Thailand. Pembentukan NPG
+diharapkan agar transaksi menjadi lebih
+mudah, aman, dan biaya yang lebih
+murah.
+Menurut pejabat ASPI, NPG di
+Indonesia akan meniru konsep China
+UnionPay. NPG bisa dijalankan oleh
+semua perusahaan switching ATM di
+Indonesia. Ada 3 (tiga) fungsi yang
+harus dimiliki perusahaan switching,
+yaitu Pertama, sebagai principal yang
+bertugas menentukan aturan main
+seperti standar layanan, model bisnis
+dan sistem. Kedua, menjalankan fungsi
+kliring atau pertukaran informasi.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+50
+Ketiga, fungsi settlement atau bisa
+menangani penyelesaian pembayaran.
+Principal baru akan dibentuk
+untuk menjalankan NPG ini,
+kemungkinan di bawah BI atau ASPI.
+Ada 2 (dua) cara pembentukan
+principal, pertama melebur semua
+perusahaan switching menjadi 1 (satu)
+perusahaan saja seperti Malaysian
+Electronic Payment System Sdn Bhd.
+Kedua, membentuk principal baru
+tanpa melebur semua perusahaan
+switching seperti China UnionPay.
+Cara terakhir inilah yang dipilih.
+Seperti layaknya Badan Regulasi
+Telekomunikasi Indonesia (BRTI),
+principal ini akan menyatukan semua
+standar yang saat ini dimiliki masingmasing
+oleh perusahaan switching di
+Indonesia.
+Bagan 4. Payment Gateway Flow
+Payment gateway yang sukses
+harus ada kerjasama antara pihak
+telekomunikasi dan perbankan. Uang
+nasabah yang ditempatkan di bank pun
+harus atas nama pribadi nasabah
+tersebut, tidak bisa atas nama
+perusahaan telekomunikasi. Di
+Indonesia, hal itu bisa dilihat dari
+adanya Giro Wajib Minimum (GWM)
+dan Lembaga Penjaminan Simpanan
+(LPS).
+1.4.5 E-Money
+E-Money atau Uang elektronik
+(atau uang digital) adalah uang yang
+digunakan dalam transaksi Internet
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+51
+dengan cara elektronik. Atau alat
+pembayaran dalam bentuk elektronik
+dimana nilai uangnya disimpan dalam
+media elektronik tertentu. Biasanya,
+transaksi ini melibatkan penggunaan
+jaringan komputer (seperti internet dan
+sistem penyimpanan harga digital).
+Electronic funds transfer (EFT) adalah
+sebuah contoh uang elektronik.
+Menurut Bank Indonesia e-money
+adalah segala bentuk jenis uang yang
+dapat diakses secara online dan
+tersimpan di sebuah server atau kartu
+chip (microchip di dalam kartu ATM,
+kartu kredit dan lain sebagainya).
+Benda yang masuk dalam kategori
+"uang modern" ini dapat dipergunakan
+untuk segala macam kebutuhan
+transaksi termasuk pembayaran,
+tagihan kartu kredit, pembayaran
+asuransi hingga penarikan uang secara
+tunai.
+Uang elektronik memiliki nilai
+tersimpan (stored-value) atau prabayar
+(prepaid) dimana sejumlah nilai uang
+disimpan dalam suatu media elektronis
+yang dimiliki seseorang. Nilai uang
+dalam e-money akan berkurang pada
+saat konsumen menggunakannya untuk
+pembayaran. E-money dapat digunakan
+untuk berbagai macam jenis
+pembayaran (multi purpose) dan
+berbeda dengan instrumen single
+purpose seperti kartu telepon.
+Uang elektronik merupakan
+bidang yang menarik dalam kriptografi
+(lihat, hasil kerja David Chaum),
+penggunaan uang digital sampai
+sekarang masih dalam skala-kecil. Satu
+kesuksesan yang jarang adalah kartu
+Octopus Hong Kong, yang dimulai
+sebagai sistem pembayaran transit dan
+telah tumbuh menjadi sistem uang kas
+yang banyak digunakan umum. Sukses
+lainnya adalah jaringan Interac Kanada,
+yang pada tahun 2000, telah melewati
+pembayaran uang tunai dalam bidang
+retail di Kanada.
+Kriteria E-Money (Uang Elektronik)
+Sebagai instrumen pembayaran, uang
+elektronik memiliki kriteria sebagai
+berikut:
+1. Diterbitkan atas dasar nilai uang
+yang disetor terlebih dahulu oleh
+pemegang kepada penerbit;
+2. Nilai uang disimpan secara
+elektronik dalam suatu media seperti
+server atau chip;
+3. Digunakan sebagai alat pembayaran
+kepada pedagang yang bukan
+merupakan penerbit uang elektronik
+tersebut; dan
+4. Nilai uang elektronik yang disetor
+oleh pemegang dan dikelola oleh
+penerbit bukan merupakan simpanan
+sebagaimana dimaksud dalam
+undang-undang yang mengatur
+mengenai perbankan.
+Secara teknis, e-money (uang
+elektronik) dapat menjadi sebuah mata
+uang yang independen, seperti e-gold
+atau seperti Euro sebelum tender legal
+Eura diperkenalkan pada 2002. Sistem
+moneter Ripple adalah sebuah projek
+terdistribusi uang elektronik yang
+bebas dari mata uang.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+52
+Perbedaan dengan APMK
+Perbedaan mendasar antara emoney
+(uang elektronik) dengan Alat
+Pembayaran Menggunakan Kartu
+(APMK) adalah uang elektronik
+bersifat prabayar (prepaid) sedangkan
+APMK bersifat akses.
+Prabayar / prepaid:
+? Nilai uang telah tercatat dalam
+instrumen e-money atau sering
+disebut stored value
+? Dana yang tercatat dalam e-money
+sepenuhnya berada dalam
+penguasaan konsumen
+? Pada saat transaksi, perpindahan
+dana dalam bentuk electronic value
+dari kartu e-money milik konsumen
+kepada terminal merchant dapat
+dilakukan secara off-line, dalam hal
+verifikasi cukup dilakukan pada
+level merchant (point of sale) tanpa
+harus on-line ke komputer issuer
+Akses (APMK):
+? Tidak ada pencatatan dana pada
+instrumen kartu
+? Dana sepenuhnya berada dalam
+pengelolaan bank sepanjang belum
+ada otorisasi dari nasabah untuk
+melakukan pembayaran
+? Pada saat transaksi, instrumen kartu
+digunakan untuk melakukan akses
+secara on-line ke komputer issuer
+untuk mendapatkan otorisasi
+melakukan pembayaran atas beban
+rekening nasabah, baik berupa
+rekening simpanan (kartu debet)
+maupun rekening pinjaman (kartu
+kredit). Setelah di-otorisasi oleh
+issuer, rekening nasabah kemudian
+akan langsung di debet. Dengan
+demikian pembayaran menggunakan
+kartu kredit dan kartu debet
+mensyaratkan adanya komunikasi
+on-line ke komputer issuer
+Berikut ini adalah contoh dari produk E-Money
+Gambar 17. Ragam Produk E-Money di Indonesia
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+53
+Dengan menggunakan uang elektronik,
+maka baik konsumen maupun merchant
+akan semakin dimudahkan karena
+selain transaksi keuangan dapat
+dilakukan dengan cepat dan efisien,
+juga dapat membantu merchant untuk
+mengatur uang tunai yang tersedia di
+outletnya. Dengan penggunaan uang
+elektronik, maka resiko terjadinya
+tindak kejahatan juga akan semakin
+kecil karena jumlah uang tunai yang
+terbatas.
+Pelaku bisnis keuangan banyak
+yang telah meluncurkan berbagai
+macam aplikasi berbasis mobile emoney
+guna memberikan kemudahan
+bagi masyarakat saat melakukan
+transaksi dengan hanya menggunakan
+perangkat selulernya.
+Beberapa provider yang telah
+mengeluarkan aplikasi ini diantaranya
+adalah Doku Wallet, Paypal, Tmoney,
+TapCash dari BNI, Mega Cash dari
+Bank Mega, BRIZZI dari BRI, BBM
+Money dari Bank Permata, Rekening
+Ponsel dari CIMB Niaga, Nobu e-
+Money dari Bank Nobu, Dompetku
+dari Indosat, XL Tunai dari XL Axiata,
+Flexy Cash dari Telkom, Skye Card
+dari Sky Mobile Money, FinChannel
+dari Finnet Indonesia, MYNT dari
+Artajasa, Flazz dari BCA dan banyak
+lagi lainnya.
+Bank Indonesia memang pada
+saat ini masih terus mensosialisasikan
+penggunaan uang elektronik nontunai
+di masyarakat. Selain memudahkan
+dalam melakukan setiap transaksi
+perbankan, penggunaan uang
+elektronik untuk transaksi juga dinilai
+jauh lebih aman daripada dengan
+menggunakan uang tunai.
+Manfaat dari e-money di era
+digital ini sangat kompleks, dimana
+hampir semua kegiatan bisnis maupun
+transaksi dapat dilakukan secara online.
+Dengan menggunakan uang elektronik
+tentu apa pun jenis transaksi yang
+dilakukan akan jauh lebih mudah dan
+cepat. Seperti kartu ATM yang sering
+kita pergunakan untuk menarik dana
+tunai atau pun kartu kredit untuk
+berbelanja, kartu-kartu tersebut
+merupakan bagian dari produk emoney
+atau produk uang elektronik
+yang secara legalitas diakui oleh BI
+untuk dipergunakan di masyarakat luas.
+1.4.6 Free Trade
+Perdagangan bebas adalah
+kebijakan di mana pemerintah tidak
+melakukan diskriminasi terhadap impor
+atau ekspor. AFTA yang merupakan
+akronim dari ASEAN Free Trade Area
+sejatinya merupakan kesepakatan dari
+negara – negara di ASEAN untuk
+membentuk sebuah kawasan bebas
+perdagangan. Tujuannya agar bisa
+meningkatkan daya saing ekonomi
+kawasan ASEAN di dunia.
+Harapannya, jika AFTA ini sukses,
+ASEAN bisa menjadi kawasan basis
+produksi di dunia seperti yang sudah
+ada sekarang ini yaitu China. Perjanjian
+perdagangan bebas AFTA dicetuskan
+ketika terjadi pertemuan tingkat Kepala
+Negara ASEAN atau SEAN summit
+ke-4, yang dilakukan pada tahun 1992.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+54
+Pada pertemuan itu kemudian
+para kepala negara mengumumkan
+akan membentuk sebuah kawasan
+perdagangan bebas di ASEAN dalam
+jangka waktu 15 Tahun. Jika dihitung
+seharusnya akan efektif berjalan secara
+penuh pada tahun 2007. Namun
+kenyataanya, AFTA ini akan aktif pada
+tahun 2015, 22 tahun kemudian.
+Gambar 18. MEA Sudah di Depan Kita
+ASEAN Free Trade Agreement
+(AFTA), yang telah dirajut oleh
+sepuluh negara ASEAN untuk
+meningkatkan daya saing ekonomi
+kawasan dan menjadikan ASEAN
+sebagai basis produksi dunia melalui
+ASEAN Economic Community (AEC).
+Gambarannya adalah AEC akan lebih
+bicara tentang orang-orangnya,
+termasuk sumber daya manusia dan
+layanannya, sedangkan AFTA lebih
+pada produk-produk dalam kawasan.
+Mewujudkan AFTA disepakatilah
+skema Common Effective Preferential
+Tarif Scheme – CEPT) yakni melalui
+penurunan tarif hingga menjadi 0-5
+persen, penghapusan pembatasan
+kuantitatif dan hambatan non tarif
+lainnya.
+Gambar 19. Masyarakat Ekonomi Asean
+ASEAN Economic Community
+(AEC) akan dimulai pada tanggal 31
+Desember 2015 nanti, yang berarti kita
+akan segera memasuki pasar tunggal
+dan basis produksi regional. Penerapan
+AFTA guna meningkatkan
+perdagangan antar anggota memiliki
+persyaratan produk yang harus
+dipenuhi yaitu:
+a) Produk yang bersangkutan harus
+sudah masuk dalam Inclusion List
+(IL) dari negara eksportir maupun
+importir.
+b) Produk tersebut harus mempunyai
+program penurunan tarif yang
+disetujui oleh Dewan AFTA (AFTA
+Council);
+c) Produk tersebut harus memenuhi
+persyaratan kandungan lokal 40%.
+Suatu produk dianggap berasal
+dari negara anggota ASEAN apabila
+paling sedikit 40% dari kandungan
+bahan didalamnya berasal dari negara
+anggota ASEAN. AFTA diberlakukan
+secara penuh untuk negara ASEAN-6
+sejak 1 Januari 2002 dengan
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+55
+fleksibilitas (terhadap produk-produk
+tertentu tarifnya masih diperkenankan
+lebih dari 0-5%). Target tersebut
+diterapkan untuk negara ASEAN-6
+sedangkan untuk negara baru : Vietnam
+(2006); Laos dan Myanmar (2008); dan
+Kamboja (2010). Empat pilar dari
+ASEAN Economic Community yang
+akan dihadapi oleh masyarakat ASEAN
+termasuk Indonesia, yaitu:
+Bagan 5. 4 Pilar Asean Economic Community (AEC)
+Visi dari Masyarakat Ekonomi
+ASEAN adalah realisasi tujuan akhir
+dari integrasi ekonomi yang dianut
+dalam ASEAN Vision 2020 yaitu untuk
+mengubah ASEAN menjadi daerah
+dengan perdagangan bebas barang,
+jasa, investasi, tenaga kerja terampil
+dan aliran modal yang lebih bebas.
+Karateristik utama Masyarakat
+Ekonomi ASEAN (MEA) adalah pasar
+dan basis produksi tunggal, kawasan
+ekonomi yang kompetitif, wilayah
+pembangunan ekonomi yang merata,
+daerah terintegrasi penuh dalam
+ekonomi global.
+1. 5 Metode Penulisan
+Metode yang digunakan dalam
+menyusun karya ilmiah ini adalah
+observasi langsung (penelitian secara
+langsung) di lapangan (Kota Medan)
+dan telaah pustaka dari berbagai
+sumber. Sumber tersebut meliputi
+media cetak dan elektronik seperti
+buku, koran, internet, televisi.
+Pengumpulan data dilakukan
+secara terpadu dan sistematis serta
+berisikan penjelasan faktual berupa
+data-data permasalahan yang terdapat
+lansung di lapangan. Penulisan
+dilakukan secara rinci beserta dengan
+gambar aktual yang berada di
+masyarakat. Penelitian juga dilakukan
+berdasarkan pengamatan sehari-hari
+oleh penulis kepada sejumlah sampel.
+Penjelasan tentang latar
+belakang masalah yang yakni mahalnya
+cost dalam mencetak uang dibutuhkan
+oleh Bank Indonesia (BI), inefisiensi
+dalam waktu pembayaran transaksi
+tertentu. Contoh: ketika melakukan
+pembayaran di SPBU dan loket
+pembayaran yang relatif lama karena
+antrian yang panjang, Melakukan
+transaksi dalam jumlah yang besar
+mengundang resiko: pencurian,
+perampokan dan pemalsuan uang, uang
+kertas dan logam (kartal) yang
+mengandung bakteri dan menimbulkan
+penyakit, kesiapan Kota Medan
+menghadapi persaingan dalam free
+trade. Pengelolaan data yang sudah ada
+tersebut diklasifikasikan ke dalam data
+matang yang merupakan data yang
+bersumber dari penelitian dan observasi
+langsung di lapangan.
+Berdasarkan data-data yang telah
+dikumpulkan, dianalisis secara tepat
+sesuai dengan urutan sistematis dan
+diuraikan mulai dari pemaparan latar
+belakang masalah, rumusan masalah,
+maksud dan tujuan, kerangka teori,
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+56
+metode penulisan, identifikasi
+masalah, analisis masalah, data
+penunjang, kesimpulan dan
+rekomendasi. Pengumpulan data dan
+informasi juga diperoleh dari berbagai
+sumber yang bisa dipercaya dan teruji
+kebenarannya secara faktual
+berdasarkan data dilapangan.
+Permasalahan juga merupakan
+permasalah yang dialami oleh penulis.
+Sehingga dapat mengambarkan situasi
+yang benar-benar rill di lapangan. Serta
+menganalisis dan menarik kesimpulan
+dan memberi solusi atau alternatif
+dalam menghadapinya.
+ISI DAN PEMBAHASAN
+2.1 Identifikasi Masalah
+Berdasarkan latar belakang
+masalah yang dipaparkan diatas, maka
+penulis mengidentifikasi beberapa
+masalah yang dihadapi antara lain
+sebagai berikut:
+1. Ditemukannya kelemahan
+melakukan transaksi pembayaran
+tunai yang jumlahnya besar tidak
+praktis, mudah dan
+aman/mengundang kejahatan (tidak
+efisien dan efektif).
+2. Belum maksimalnya penciptaan less
+cash society untuk mengurangi
+peredaran uang tunai (cash) di Kota
+Medan.
+3. Masyarakat belum maksimal
+menggunakan alat pembayaran
+nontunai seperti e-money dalam
+perkembangan ilmu dan teknologi
+yang mempermudah pembayaran
+dalam transaksi segala jenis.
+4. Timbulnya penyakit dari uang kertas
+dan logam akibat perputaran uang
+dari tangan ke tangan lain.
+5. Kesulitan dalam pengembalian uang
+yang nominalnya kecil/pecahan.
+6. Kelemahan dalam menghadapi
+transaksi permbayaran dan
+perdagangan dalam free trade
+seperti ASEAN Economic
+Community akhir desember 2015
+dibanding dengan negara ASEAN
+lainya.
+2.2 Analisis Masalah
+Berdasarkan data-data dan
+observasi/penelitian yang dilakukan,
+maka ditemukan kelemahan-kelemahan
+yang merupakan sumber permasalahan
+yakni:
+1. Problema yang muncul adalah
+ditemukannya ketidakefisienan dan
+ketidakefektivan dalam melakukan
+transaksi tunai yang jumlahnya
+besar sehingga setelah dianalisis,
+pengalihan dari alat transaksi tunai
+(cash) ke alat transaksi nontunai (emoney)
+dapat dijadikan solusi yang
+praktis, mudah dan aman.
+2. Fenomena belum masksimalnya
+penciptaan less cash society untuk
+mengurangi peredaran uang tunai
+(cash) di Kota Medan dapat diatasi
+dengan membuat kebijakan
+penciptaan uang nontunai (e-money)
+dan memberikan sosialisasi
+penggunaan uang tersebut kepada
+masyarakat.
+3. Masalah penarikan uang kas yang
+beredar, Pemko Medan dapat
+bekerja sama dengan Bank
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+57
+Indonesia, bank komersial agar
+dapat tercipta Medan less cash
+society serta adanya kontrol dari
+seluruh komponen
+4. Adanya kerjasama dari seluruh
+komponen dan instansi terkait
+dengan pengeluaran e-money, maka
+permerintah dapat mempermudah
+akses untuk masyarakat untuk
+mengetahui dan mengembangkan
+ilmu pengetahuan dan teknologi
+dalam transaksi pembayaran.
+5. Pemerintah melakukan negosiasi
+dengan pemeritah pusat, BI dan
+National Payment Gateway (NPG)
+sebagai sistem di bawah
+pengelolaan Bank Indonesia yang
+menyatukan dan mendukung
+pelayanan nasabah bank-bank
+nasional, termasuk pelayanan ecommerce
+serta pembayaran baik
+antar nasabah di dalam negeri
+maupun dengan luar negeri.
+6. Adanya penciptaan alat transaksi
+nontunai (e-money) yang praktis,
+masyarakat Kota Medan akan
+mampu bersaing dengan anggota
+negara ASEAN lainnya dalam
+melakukan transaksi pembayaran
+dan perdagangan menghadapi
+ASEAN Economic Community.
+7. Konversi cash ke e-money akan
+mengurangi penyebaran bakteri
+pada uang dan proses pengembalian
+uang pecahan akan sesuai
+nominalnya.
+8. Pengalihan cash ke e-money dapat
+dijadikan dasar dalam menciptakan
+keamanan dan kepraktisan dalam
+bertransaksi di manapun dan
+kapanpun sehingga dapat
+mengurangi tindak kejahatan dan
+dapat mengefisienkan waktu bagi
+pengguna.
+Berdasarkan penelitian yang
+dilakukan ditemukan permasalahan
+yang rill di lapangan sehingga
+penggagas menawarkan alternatif
+pemecahan berupa pengalihan/konversi
+dari cash ke e–money sebagai solusi
+cerdas dalam menciptakan Kota Medan
+yang mengetahui ilmu dan teknologi
+dalam bertransaksi dan siap
+menyongsong perdagangan bebas serta
+demi terciptanya Medan Less Cash
+Society.
+Bagan 6. Tahapan Program Pengalihan Cash Ke EMoney
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+58
+2.3 Data Penunjang
+Data penunjang dalam
+implementasi dari gagasan tersebut
+diatas, yakni pengkonversian dari cash
+ke e-money sebagai alat pembayaran
+yang paktis dan aman bagi masyarakat
+Kota Medan adalah meliputi
+keuntungan yang didapat dari hal-hal
+berikut ini:
+? Seiring dengan perkembangan
+zaman, uang tunai mulai semakin
+berkurang penggunaannya.
+Pengenalan internet, bank online,
+kartu debit, dan pembayaran
+online, dan bisnis internet, uang
+kertas menjadi sebuah barang
+masa lalu.
+? Bank-bank sekarang menawarkan
+jasa di mana customer dapat
+mentransfer dana, saham yang
+dibeli, menyumbang ke rencana
+pensiun mereka (seperti RRSP
+Kanada) dan menawarkan
+berbagai variasi jasa lainnya tanpa
+harus menggunakan uang tunai
+atau cek. Pelanggan tidak harus
+menunggu barisan, dan ini
+menciptakan linkungan yang
+bebas-repot.
+? Kartu debit dan pembayaran
+online membuat transfer dana
+secara langsung dari seorang
+individu ke account bisnis, tanpa
+uang kertas. Ini memberikan
+kepraktisan yang besar bagi
+banyak orang dan juga bisnis.
+Penggunaan uang elektronik
+sebagai alat pembayaran dapat
+memberikan manfaat sebagai berikut:
+1. Memberikan kemudahan dan
+kecepatan dalam melakukan
+transaksi transaksi pembayaran
+tanpa perlu membawa uang tunai.
+2. Tidak lagi menerima uang
+kembalian dalam bentuk barang
+(seperti permen) akibat padagang
+tidak mempunyai uang kembalian
+bernilai kecil (receh).
+3. Sangat applicable untuk transaksi
+massal yang nilainya kecil namun
+frekuensinya tinggi, seperti:
+transportasi, parkir, tol, fast food,
+dan lainnya.
+Uang tunai yang selama ini kita
+pakai sebagai alat pembayaran
+sebenarnya memiliki beberapa
+kelemahan, diantaranya adalah :
+1. Biaya yang besar
+Pengelolaan uang rupiah meliputi
+perencanaan, pencetakan, pengeluaran,
+peredaran, pencabutan dan penarikan,
+serta pemusnahan oleh BI. Semua itu
+membutuhkan biaya yang sangat besar.
+2. Kerepotan dalam bertransaksi
+? Harus menyediakan uang untuk
+kembalian
+? Harus antri karena waktu transaksi
+lama dan tidak bisa sama
+3. Tidak tercatat
+? Memberi peluang kepada
+penggunaan untuk tindakan kriminal
+(pencurian, perampokan, dan
+pencucian uang)
+? Perencanaan ekonomi kurang akurat
+karena ada banyak transaksi yang
+tidak tercatat (shadow economy).
+Sebagai alat tukar baru, uang
+jenis ini memiliki beberapa kelebihan
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+59
+dibandingkan dengan uang kertas
+konvensional. Pemerintah mempunyai
+tujuan mengapa kita disarankan untuk
+menggunakan e-money (uang
+elektronik) adalah :
+1. Efisiensi transaksi dan cash
+handling cost
+Efesiensi yang di maksud adalah
+berupa kemudahan dalam bertransaksi.
+Soalnya, jual-beli dengan uang tunai
+sering ribet apalagi jika berhubungan
+dengan uang kembali.
+2. Meminimalisasi fraud uang palsu
+E-Money dapat meminimalisasi
+peredaran uang palsu, juga bisa
+menekan angka kriminalitas karena kita
+tidak perlu kemana-mana membawa
+uang tunai.
+3. Aspek kesehatan
+Dengan kata lain bahwa uang
+elektronik lebih “sehat”. Ini satu hal
+yang sering disepelekan dan juga tidak
+pernah kita sadari kalau banyak bakteri
+yang tertinggal di uang tunai. Terutama
+uang yang berbentuk kertas. Sedangkan
+kalau kita menggunakan uang
+elektronik, biasanya jarang berpindahpindah
+tangan.
+Sejak diresmikan pada 14
+Agustus 2014 lalu, Pemerintah lewat
+Bank Indonesia sedang gencar
+mensosialisasikan Gerakan Nasional
+Non Tunai (GNNT). Definisi dari
+GNNT adalah gerakan nasional
+mendorong masyarakat menggunakan
+sistem pembayaran dan instrumen
+pembayaran nontunai dalam
+melakukan transaksi pembayaran.
+Adapun salah satu upayanya
+adalah mendorong masyarakat untuk
+menggunakan alat transaksi nontunai
+seperti kartu kredit/debit dan uang
+elektronik pada saat berbelanja ataupun
+melakukan transaksi lewat mesin
+ATM. Program ini diluncurkan karena
+melihat bahwa transaksi notunai masih
+rendah di Indonesia. Padahal transaksi
+non tunai lebih praktis, efisien, mudah,
+bahkan mendukung perekonomian
+melalui peningkatan kecepatan
+peredaran uang (velocity of money).
+Selain juga lebih aman dan
+meminimalisir angka kriminalitas
+karena masyarakat tidak lagi
+bertransaksi dengan uang tunai dalam
+beraktivitas sehari-hari.
+Gambar 20. Gerakan Nasional Nontunai
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+60
+Gambar 21, 22, 23:Perampokan akibat banyaknya uang tunai, Pengembalian uang yang membuat rugi dan Antrian
+panjang yang menghabiskan waktu
+Gambar 24, 25, 26: Uang yang mengandung bakteri, Konversi cash ke e-money dalam bertransaksi yang aman dan
+praktis, Contoh e-money dalam bentuk kartu
+Gambar 27,28: Pembayaran e-toll yang praktis, Konsumen menggunakan e-money dalam berbelanja secara aman.
+Bagan 7. Contoh Implementasi di Kota Medan
+Pemko Medan bekerja sama dengan
+Bank Indonesia dan bank komersial
+dan melalui National Payment
+Gateway untuk menerbitkan
+penggunaan e-money (melakukan
+transaksi pembayaran di Kota Medan,
+nasional dan luar negeri)
+Konversi dari
+Cash ke
+E-Money
+Masyarakat Memperoleh
+sosialisasi langsung dari
+Pemko Medan maupun dari
+media cetak ataupun
+elektronik tentang masalah
+dan kelemahan pengunaan
+cash. Keuntungan serta
+manfaat dari penggunaan
+dari e-money
+CONTOH PENGAPLIKASIAN DI KOTA MEDAN
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+61
+PENUTUP
+3.1 Kesimpulan
+Berdasarkan penemuan fenomena
+dan kelemahan serta hasil analisis,
+maka dapat disimpulkan bahwa
+konversi (pengalihan) dari uang tunai
+(cash) ke alat transaksi nontunai (emoney)
+adalah program yang tepat
+sasaran dan mendatangkan banyak
+manfaat untuk diimplementasikan
+secara rill di Pemko Medan.
+Kelemahan-kelemahan dalam
+bertransaksi tunai (cash) dapat diatasi
+seefektif dan seefisien mungkin dengan
+gagasan ini, sehingga seluruh
+permasalahan dapat diatasi secara
+terintegrasi.
+3.2 Rekomendasi
+1. Agar Pemko Medan
+mempertimbangkan gagasan ini
+sehingga pengalihan dalam dari alat
+transaksi tunai (cash) ke e-money
+berjalan aman, efektif dan efisien.
+Mengkonversi segala jenis aktivitas
+transaksi yang berhubungan dengan
+transaksi keuangan menjadi ke
+pembayaran nontunai e-money,
+seperti membayar listik dan telepon,
+membayar bbm di SPBU, membayar
+biaya rumah sakit, berbelanja,
+membayar uang kuliah, dan lainya.
+2. Agar seluruh kalangan ikut
+berpartisipasi menggalakkan Medan
+less cash society (transaksi
+nontunai) sehingga dapat membantu
+pemerintah mengendalikan
+peredaran uang tunai (kertas dan
+logam).
+3. Memvariasikan e- money menjadi ewallet.
+Perusahaan di Indonesia
+yang menawarkan jasa e-wallet
+sudah cukup banyak
+bermunculan, salah satunya adalah
+FasaPay yang menawarkan
+kemudahan dan keamanan serta fee
+transaksi yang rendah dibanding
+perusahaan sejenis.
+4. Konversi pembayaran transaksi di
+SPBU dapat di ganti dengan nama
+e-bbm (nama lain dari e-money
+untuk bbm, contoh lain adalah e-toll
+untuk transaksi pembayaran di toll)
+dan disesuaikan dengan keperluan
+tanpa mengurangi makna yang
+sebenarnya dari e-money.
+DAFTAR PUSTAKA
+Arsyad, Azhar. 2013. Media
+Pembelajaran (Edisi Revisi). Jakarta:
+Raja Grafindo
+Persada.
+Munadi, Yudhi. 2008. Media
+Pembelajaran. Jakarta: Gaung Persada
+Press.
+Rahardja Prathama dan Mandala
+Manurung. 2008. Pengantar Ilmu
+Ekonomi. (Edisi Tiga). Jakarta:
+Fakultas Ekonomi Universitas
+Indonesia.
+Sukirno, Sadono dkk. 2004. Pengantar
+Bisnis. (Edisi Pertama). Jakarta:
+Prenada Media.
+----------------------------. 2010. Makro
+Ekonomi. Teori Pengantar. (Edisi
+Ketiga). Jakarta: Raja Grafindo
+Persada.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+62
+http://mamatumorang.blogspot.com/20
+14/03/alat-pembayarannontunai_
+19.html
+http://www.berjibaku.com/2014/12/uan
+g-elektronik-bank-indonesia-emoneysistem-
+pembayaran-nontunai-eradigital.
+html
+https://id.wikipedia.org/wiki/Sistem_pe
+mbayaran
+http://blog.cctvgaruda.com/berbekalrekaman-
+cctv-pencuri-rp-174jutatertangkap/

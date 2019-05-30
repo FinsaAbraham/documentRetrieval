@@ -1,0 +1,506 @@
+PENERAPAN MEDAN CITY HISTORY (MECIH) BERBASIS ANDROID MENUJU KOTA CERDAS (SMART CITY)
+Oleh : Andiva Liesty Amelia
+(Siswi SMA Harapan I Medan)
+I. PENDAHULUAN
+A. Latar Belakang Masalah
+Medan didirikan oleh Guru
+Patimpus Sembiring Pelawi pada tahun
+1590. John Anderson, orang Eropa
+pertama yang mengunjungi Deli pada
+tahun 1833 menemukan sebuah
+kampung yang bernama Medan.
+Kampung ini berpenduduk 200 orang
+dan seorang pemimpin bernama
+Tuanku Pulau Berayan sudah sejak
+beberapa tahun bermukim disana untuk
+menarik pajak dari sampan-sampan
+pengangkut lada yang menuruni
+sungai. Pada tahun 1886, Medan secara
+resmi memperoleh status sebagai kota,
+dan tahun berikutnya menjadi ibukota
+Karesidenan Sumatera Timur sekaligus
+ibukota Kesultanan Deli. Tahun 1909,
+Medan menjadi kota yang penting di
+luar Jawa, terutama setelah pemerintah
+kolonial membuka perusahaan
+perkebunan secara besar-besaran.
+Dewan kota yang pertama terdiri dari
+12 anggota orang Eropa, dua orang
+bumiputra, dan seorang Tionghoa
+(https://id.wikipedia.org/wiki/Kota_Me
+dan).
+Pada akhir abad ke-19 dan awal
+abad ke-20 terdapat dua gelombang
+migrasi besar ke Medan. Gelombang
+pertama berupa kedatangan orang
+Tionghoa dan Jawa sebagai kuli
+kontrak perkebunan. Tetapi setelah
+tahun 1880 perusahaan perkebunan
+berhenti mendatangkan orang
+Tionghoa, karena sebagian besar dari
+mereka lari meninggalkan kebun dan
+sering melakukan kerusuhan.
+Perusahaan kemudian sepenuhnya
+mendatangkan orang Jawa sebagai kuli
+perkebunan. Orang-orang Tionghoa
+bekas buruh perkebunan kemudian
+didorong untuk mengembangkan sektor
+perdagangan. Gelombang kedua ialah
+kedatangan orang Minangkabau,
+Mandailing dan Aceh. Mereka datang
+ke Medan bukan untuk bekerja sebagai
+buruh perkebunan, tetapi untuk
+berdagang, menjadi guru dan ulama.
+Sejak tahun 1950, Medan telah
+beberapa kali melakukan perluasan
+areal, dari 1.853 ha menjadi 26.510 ha
+pada tahun 1974. Dengan demikian
+dalam tempo 25 tahun setelah
+penyerahan kedaulatan, kota Medan
+telah bertambah luas hampir delapan
+belas kali lipat.
+(https://id.wikipedia.org/wiki/Kota_Me
+dan).
+Sejarah di atas merupakan bagian
+yang sangat penting terutama bagi Kota
+Medan. Namun saat ini banyak tempat
+bersejarah di Kota Medan yang
+dilupakan. Padahal, tempat bersejarah
+ini bisa menjadi bahan pembelajaran
+untuk anak-anak muda asli ataupun
+pendatang karena keberadaanya mulai
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+131
+berkurang. Apalagi bagi pendatang
+atau wisatawan akan kesulitan mencari
+jejak-jejaknya karena kesulitan
+informasi tentang peninggalan sejarah
+terutama pada bangunan-bangunannya.
+Begitu pula, fasilitas di internet juga
+kurang memberikan referensi tempat
+bersejarah yang dapat kita kunjungi
+jika datang ke Kota Medan secara
+mudah. Hal ini menunjukan bahwa
+tingkat kecerdasan suatu kota masih
+rendah.
+Untuk itu, penulis akan mengkaji
+bagaimana menerapkan suatu aplikasi
+di yang terhubung di internet yang
+berisi khusus sejarah kota medan
+sehingga menjadi daya tarik sendiri
+bagi masyarakat Kota Medan dan bagi
+pendatang. Aplikasi yang diinternet
+yang disebut dengan Medan City
+History (Mecih) bersitem Android
+menuju kota cerdas (smart city) sesuai
+konsep yang ada.
+B. Rumusan Masalah
+Berdasarkan latar belakang
+masalah di atas, maka rumusan
+masalah dalam karya tulis ini yaitu
+bagaimana penerapan Medan City
+History (Mecih) Berbasis Android
+menuju kota cerdas (smart city).
+C. Tujuan Penulisan
+Tujuan penulisan karya tulis ini
+yaitu:
+1. Untuk mengetahui sejarah kota
+medan yang terhubung dengan
+internet menuju kota cerdas
+2. Untuk mengetahui bagaimana
+penerapan Medan City History
+(Mecih) Berbasis Android menuju
+kota cerdas
+D. Manfaat Penulisan
+Sedangkan manfaat yang akan
+diperoleh dari penulisan karya tulis ini
+adalah:
+1. Untuk menambah pengetahuan
+tentang sejarah kota medan yang
+terhubung dengan internet menuju
+kota cerdas
+2. Untuk meningkatkan pengetahuan
+tentang penerapan Mecih Berbasis
+Android menuju kota cerdas
+3. Sebagai bahan kebijakan bagi
+pemerintah dan pihak terkait
+sebagai upaya untuk mencapai kota
+cerdas (smart city)
+E. Kerangka Teori
+1. Aplikasi Medan City History
+(Mecih) Berbasis Android
+Aplikasi software memiliki sifat
+yang mudah dan cepat untuk
+dipergunakan pada gawai, smartphone
+atau laptop. Peran yang sangat penting
+bagi suatu kemajuan ilmu pengetahuan
+dan teknologi, masyarakat bisa
+mendapatkannya melalui google
+playstore dengan cara mengunduhnya.
+Dengan demikian aplikasi ini bisa
+bermanfaat bagi masyarakat yang ingin
+mencari refrensi tertentu. Peran
+aplikasi ini juga bisa membantu agar
+lebih mudah masyarakat, pelajar,
+mahasiswa atau wisatawan. Sistem
+kerja aplikasi ini berupa mengupload,
+memperbaharui, dan informasi tentang
+kesejarahan suatu kota. Keunggulan
+aplikasi yaitu masyarakat dapat
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+132
+mengakses dimana, kapan dan
+siapapun dapat melakukannya.
+Sehingga memudahkan untuk mencari
+informasi yang dibutuhkan.
+2. Kota Cerdas (Smart City)
+Kota Cerdas (Smart city)
+merupakan sebuah konsep kota cerdas
+yang dapat membantu masyarakat
+mengelola sumber daya yang ada
+dengan effisien dan memberikan
+informasi yang tepat kepada
+masyarakat atau lembaga dalam
+melakukan kegiatannya atau pun
+mengantisipasi kejadian yang tek
+terduga sebelumnya.
+Sedangkan konsep smart city
+yaitu:
+a. Kota berkinerja baik dengan
+berpandangan ke dalam ekonomi,
+penduduk, pemerintahan, mobilitas,
+lingkungan hidup;
+b. Sebuah kota yang mengontrol dan
+mengintegrasi semua infrastruktur
+termasuk jalan, jembatan,
+terowongan, rel, kereta bawah tanah,
+bandara,
+pelabuhan, komunikasi, air, listrik,
+dan pengelolaan gedung;
+c. Dapat menghubungkan infrastuktur
+fisik, IT,social, dan bisnis infras
+truktur untuk meningkatkan
+kecerdasan kota;
+d. Membuat kota lebih efisien dan
+layak huni;
+e. Penggunaan smart computing untuk
+membuat smart city dan
+fasilitasnya meliputi pendidikan, k
+esehatan, keselamatan umum, tran
+sporti yang lebih cerdas, saling
+berhubungan dan efisien.
+Sedangkan ada 6 dimensi smart
+city, yaitu Smart Economy (cerdas
+ekonimi), Smart Mobility (cerdas
+transportasi dan pembangunan),
+Smart Environment (lingkungan),
+Smart People (kreativitas dan modal),
+Smart Living (kualitas hidup), Smart
+Governance (pemberdayaan dan
+partisipasi).
+Berdasarkan uraian di atas, maka
+kerangka teorinya seperti bagan
+dibawah ini:
+Gambar 1. Bagan Penerapan Mecih menuju Kota Cerdas
+KOTA MEDAN
+SEJARAH
+MEDAN CITY HISTORY
+(MECIH) BERBASIS ANDOID
+KOTA CERDAS
+(SMART CITY)
+MASYARAKAT MASYARAKAT KOTA MEDAN PENDATANG
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+133
+Kota Medan sebagai Ibu Kota
+Propinsi Sumatera Utara memiliki letak
+yang strategis dan sebagai kota terbesar
+ke 3 di Indonesia. Begitu pula dengan
+sejarah perkembangan masa lalu
+sampai saat ini sebagai bagian tak
+terpisahkan dari kemajuan Kota Medan
+saat ini. Untuk melihat secara lengkap
+maka masyarakat Kota Medan ataupun
+pendatang dapat memanfaatkan
+aplikasi di internet yang bebasis
+android untuk melihat sejarah Kota
+Medan yang dikenal dengan Mecih
+(Medan City History). Dengan adanya
+Mecih Berbasis Android maka
+masyarakat diajak untuk menjadi
+cerdas dimanapun dengan
+memanfaatkan perkembangan ilmu
+pengetahun dan teknologi.
+F. Metode Penulisan
+Metode penulisan ini berdasarkan
+literatur kepustakaan dari buku, jurnal,
+internet. Sedangkan untuk menguraikan
+penulisan ini dengan analisis deskripsi
+untuk menjelaskan masalah dan
+pemecahannya. Penyusunan karya tulis
+ini pada bulan Agustus 2015.
+II. PEMBAHASAN
+A. Medan City History (Mecih)
+Berbasis Android
+Tempat-tempat dan bangunan
+bersejarah yang memiliki cerita yang
+berbeda setiap tempatnya. Namun kita
+tidak mengetahuinya dan tidak tau dari
+sumber mana kita mendapatkan
+informasinya. Internet dapa
+memberikan informasi lengkap
+mengenai tempat bersejarah namun
+terkadang informasi yang dibutuhkan
+sulit untuk memperolehnya. Sulit
+apabila kita tidak dapat menemukannya
+di internet karena kita sangat
+bergantung pada informasi melalui
+internet.
+Contoh dari tempat bersejarah
+yang belum banyak mengetahuinya
+adalah Kota Cina di Kecamatan Medan
+Marelan yang memiliki sejarah awal
+perkembangan Kota Medan.
+Keberadaan Kota Cina tersebut kurang
+mendapat perhatian dari masyarakat
+termasuk Pemerintah Kota sebagai
+bagian penting dari perkembangan
+Kota Medan. Selain itu jauh dari
+informasi, maka masyarakat banyak
+yang tidak mengetahui secara persis
+dimana lokasi dan sejarah perjalanan
+dan perkembangan Kota Cina Medan
+Marelan tersebut.
+Apalagi saat ini banyak
+masyarakat sudah banyak
+menggunakan smartphone atau gawai
+yang dapat dibawah kemana saja oleh
+masyarakat Kota Medan atau
+pendatang yang mengunjungi kota ini.
+Oleh karena itu dibutuhkan suatu
+media dan alat bantu bagi masyarakat
+untuk mempermudah mendapatkan
+informasi secara cepat dan akurat.
+Apalagi ketersediaan fasilitas internet
+akan dapat membantu mendapatkan
+informasi yang dibutuhkan.
+Untuk meningkatkan kecerdasan
+masyarakat yang cepat dan akurat
+tentang tempat bersejarah sehingga
+mendapatkan informasi maka
+diwujudkan melalui Medan City
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+134
+History (Mecih) Berbasis Android. Ide
+untuk membuat aplikasi yang
+memberikan informasi lengkap
+mengenai tempat dan bangunan
+bersejarah yang ada di Kota Medan.
+Dengan basis yang sederhana dan
+mudah digunakan seperti aplikasiaplikasi
+lainnya. Aplikasi ini memiliki
+fitur daftar atau sign in. Namun,
+pembaca yang tidak mendaftar pun
+dapat membaca. Hanya saja para tamu
+atau guest tidak mendapat keuntungan
+yang dimiliki para pengguna yang
+mendaftar seperti memberi komentar
+pada suatu artikel, menambah artikel
+dan mendownload suatu artikel pada
+aplikasi tersebut.
+Untuk membuat aplikasi ini, kita
+dapat menggunakan pembuat aplikasi
+untuk pemula seperti Android Apps
+Maker. Karena sudah disediakan
+template untuk e-book app, kita dapat
+dengan mudah membuat aplikasi ini.
+Mesjid Raya Medan
+Kantor Pos Medan
+Sumber www.initempatwisata.com
+Gambar 2. Ilustrasi Mecih Berbasis Android
+Basis simple, mudah digunakan
+dan dimengerti, sistem menambah atau
+mengupload artikel seperti Blog, setiap
+artikel dilengkapi dengan gambar serta
+informasi mengenai tempat bersejarah
+dan aplikasi yang mudah diunduh.
+Mecih menjadi teman penuh ilmu yang
+dapat dibaca kapan saja dan dimana
+saja. Apalagi bagi yang belum pernah
+datang ke Kota Medan.
+Aplikasi Miceh Berbasis Android
+ini dapat membantu pelajar,
+mahasiswa, masyarakat untuk
+mengenal daerah Kota Medan dari segi
+sejarahnya. Dengan adanya aplikasi ini
+memungkinkan kota Medan untuk
+dikenal lebih luas dan menjadi kota
+cerdas karena informasinya dapat
+diakses melalui aplikasi berbasis
+internet/android yang murah, mudah
+dan cepat.
+B. Penerapan Mecih Berbasis
+Android Menuju Kota Cerdas
+Aplikasi Mecih Berbasis Android
+ini dapat terwujud dan menjadi bagian
+SELAMAT
+DATANG
+DI MECIH
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+135
+perting dari pertumbuhan dan
+perkembangan Kota Medan sebagai
+Kota Cerdas ialah dengan
+meningkatkan partisipasi masyarakat
+dan kualitas hidup masyarakatnya.
+Seperti pada 6 konsep kota cerdas
+bahwa masyarakat juga harus
+memanfaatkan teknologi dan informasi
+untuk membantu kehidupan sehariharinya.
+Maka Mecih sebagai media ini
+akan memberikan sumbangsi untuk
+ikut serta dalam mencerdaskan
+masyarakat di Kota Medan.
+Aplikasi Mecih Berbasis Android
+menuju Kota Cerdas ini memiliki
+keunggulan jika diterapkan antara lain:
+1. Aplikasi ini lebih mudah untuk
+diakses melalui smartphone atau
+gawai dibandingkan pelayanan
+pada website yang selama ini ada
+karena dapat diakses jika dapat
+terhubung di internet ataupun tidak
+terhubung
+2. Mecih dapat diakses dimanapun
+dan kapanpun untuk membantu
+menyelesaikan tugas-tugas yang
+diberikan guru/dosen kepada
+siswa/mahasiswa
+3. Mecih dapat diperbaharui secara
+sistem dan isinya sehingga menjadi
+daya tarik sendiri
+4. Mecih menjadi bagian penting
+dalam memberikan pendidikan
+kepada masyarakat untuk menjadi
+masyarakat yang cerdas dalam
+mendapatkan informasi yang cepat
+dan akurat
+Sedangkan kelemahannya dari
+aplikasi ini yaitu:
+1. Hanya dapat digunakan di
+smartphone/gawai saja yang
+memiliki sistem android
+2. Membutuhkan pihak yang
+mengelola aplikasi secara
+profesional untuk memperbaharui
+sistem dan isinya secara kontiniu
+Sebagai media teknologi dan
+informasi, maka keberadaan mecih
+berbasis android akan menjadikan
+bagian penting dan tidak terpisahkan
+untuk menunjang kehidupan
+masyarakatnya untuk berkehidupan
+cerdas terhadap perkembangan
+informasi yang dibutuhkan secara cepat
+dan akurat. Selain itu akan
+memperkenalkan pentingnya
+mengenalkan sejarah dan
+perkembangan kotanya sendiri sebagai
+tempat tinggal dan juga bagian dari
+promosi untuk kepentingan bersama
+seperti meningkatkan perkenomian,
+kesejahteraan dan hidup sesuai dengan
+lingkungan yang nyaman dan bersih.
+III. PENUTUP
+A. Kesimpulan
+Berdasarkan uraian pada Bab I
+dan II di atas, maka disimpulankan
+antara lain:
+1. Sejarah perkembangan dan
+pertumbuhan Kota Medan dari
+masa lalu sampai saat ini harus
+diketahui oleh masyarakat secara
+luas karena sejarah menjadi dasar
+untuk berubah menjadi lebih baik
+2. Penerapan Medan City History
+(Mecih) Berbasis Android memiliki
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+136
+beberapa keunggulan namun juga
+tidak terlepas dari kekuranganya
+3. Mecih Berbasis Android dapat
+mendukung Kota Medan sebagai
+Kota Cerdas (smart city) sesuai
+beberapa konsep smart city yang
+ada
+B. Saran
+Berdasarkan uraian di atas, maka
+saran dari penulisan karya ini yaitu:
+1. Pemerintah Kota Medan atau Pihak
+Swasta dapat mewujudkan Aplikasi
+Mecih Berbasis Android untuk
+kepentingan dan kemajuan bersama
+2. Adanya pihak yang mengelola
+bangunan bersejarah dan dokumen
+kesejarahan Kota Medan secara
+prosfesional untuk mendukung
+terciptanya Kota Cerdas yang
+diharapkan masyarakat secara luas
+DAFTAR PUSTAKA
+Ambary, H. Muarif, 1984. Further
+Notes On Classification Of
+Ceramics From The Excavation
+Of Kota Cina, dalam Studies
+On Ceramics, Jakarta: Pusat
+Penelitian Arkeologi Nasional,
+hal. 63–72
+Bungin, Burhan. 2008. Metode
+Penelitian Kuantitatif.
+Jakarta: Kencana.
+Kartodirijo, Sartono. 1975. Sejarah
+Nasional. Jakarta: Depdikbud
+Milner, A. C., dkk., 1978. A Note On
+Aru And Kota Cina. Indonesia,
+October, 26
+Peraturan Daerah Kota Medan Nomor
+13 tahun 2011 Tentang
+Rencana Tata Ruang
+Wilayah Kota Medan
+Tahun 2011-2031
+Soekmono, R. 1985. Sejarah
+Kebudayaan Indonesia. Yogyakarta:
+Kanisius
+www.balitbang.pemkomedan.go.id
+www.pemkomedan.go.id
+Blog Komunitas Anak Negeri
+Pemerhati Sejarah dan
+Sosial,
+https://ipie3.wordpress.com/2010/01/24
+/bangunan-tua-miliki-nilaiekonomis-
+bisa-jadi-wisatabudaya-
+kembali-ke-badanwarisan-
+sumatra/
+http://id.wikipedia.org/istana-maimun

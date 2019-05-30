@@ -1,0 +1,1142 @@
+“ATATIS (Air Kita Otomatis), PROTOTYPE GERAKAN HEMAT LISTRIK DALAM MEWUJUDKAN MEDAN SMART CITY ”
+Oleh : Muhammad Fachri Zahari
+(Mahasiswa Institut Teknologi Medan)
+I. PENDAHULUAN
+a. Latar Belakang Masalah
+Merujuk pada berbagai macam
+masalah lingkungan di era globalisasi
+ini, masyarakat dituntut untuk berfikir
+cepat untuk meredam perkembangan
+masalah-masalah lingkungan tersebut.
+Hal-hal sederhana dalam mengatasi
+masalah tersebut dapat dimulai dari
+elemen terkecil dimasyarakat yaitu
+rumah tangga, masyarakat tidak
+dituntut untuk melakukan sesuatu yang
+bersifat global namun cukup dengan
+sebuah terobosan yang mampu
+berkontribusi untuk meredam berbagai
+masalah Lingkungan dimana hal
+tersebut sudah sangat membantu.
+Melakukan penghematan energi,
+mendaur ulang barang bekas,
+menggunakan peralatan rumah tangga
+yang Ecosave dan lainnya adalah salah
+satu langkah konkrit yang dapat
+dilakukan berbagai elemen masyarakat
+untuk mengurai berbagai masalah
+lingkungan.
+Dalam menciptakan sebuah Kota
+Pintar, Pemerintah haruslah
+menghadirkan berbagai kebijakan yang
+dapat mengurai berbagai permasalahan
+lingkungan dengan konsep pintar dan
+cepat. Penggunaan bermacam
+Teknologi juga harus dikombinasikan
+agar tercipta sebuah teknologi yang
+bermanfaat dan berdaya guna demi
+terwujudnya Kota Pintar yang
+sesungguhnya. Namun selain
+teknologi, kota Pintar juga dapat
+diwujudkan dengan berbagai wujud
+Inovasi Inovasi cemerlang yang
+kemudian dapat disandingkan dengan
+Teknologi yang ramah Lingkungan.
+Krisis Listrik dan sulitnya
+sumber daya air menjadi beberapa
+permasalahan yang harus dihapuskan
+dalam mewujudkan sebuah Kota
+Pintar. Kedua Hal diatas adalah
+kebutuhan pokok yang paling
+dibutuhkan oleh masyarakat perkotaan,
+namun dalam realisasinya terjadi
+banyak permasalahan. Seperti beban
+Listrik yang terlalu besar sehingga
+pihak pengelola kelistrikan harus
+melakukan pemadaman Bergilir untuk
+menstabilkan penggunaan listrik di
+masyarakat, beberapa daerah yang sulit
+mendapatkan akses air bersih yang
+memadai dikarenakan pasokan Air dari
+PDAM yang sering mati dan lainnya.
+Sejalan dengan akan
+diwujudkannya Kota Medan menjadi
+Kota Pintar dengan berbagai program
+yang akan terus dicanangkan untuk
+mengrealisasikan perwujudan itu maka
+permasalahan permasalahan seperti
+diatas haruslah terlebih dahulu
+dituntaskan, karena konsep kota pintar
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+77
+bukan hanya sekedar pemakaian
+teknologi disegala lini kehidupan
+namun melakukan Inovasi dalam
+penghematan Listrik dan
+memaksimalkan ketersediaan sumber
+air bersih juga dapat dikategorikan
+sebagai langkah perwujudan kota
+Pintar.
+Merujuk kepada beberapa Kota
+Pintar yang telah tersohor di Dunia
+seperti Tokyo di Jepang, Seattle di
+USA dan lainnya, kota – kota ini
+mampu melakukan penghematan listrik
+dengan memaksimalkan inovasi yang
+selaras dengan tujuan kota pintar.
+Memaksimalkan pemakaian Solar
+Panel, membangun Sky garden,dan
+beberapa bentuk inovasi lain adalah
+sebuah perwujudan nyata dari Kota
+tersebut untuk mengrealisasikan kota
+Pintar Sesungguhnya.
+Oleh sebab itu kota Medan saat
+ini harus memanfaatkan Inovasi –
+Inovasi yang mampu memberdayakan
+penghematan listrik dan juga berguna
+mengatasi permasalahan ketersediaan
+air bersih untuk masyarakat dalam
+menunjang akan terciptanya Kota
+Pintar di wilayah tersebut. Melihat
+kecendrungan masyarakat Kota yang
+saat ini selalu menggunakan Pompa Air
+untuk mengambil air baik dari dalam
+sumur maupun pipa PDAM untuk
+memenuhi kebutuhan air nya setiap
+hari dimana tindakan ini sangatlah
+merugikan mereka terutama pelanggan
+PDAM karena harus mengeluarkan
+biaya dua kali lipat yaitu biaya Air dan
+Listrik untuk daya pompanya.
+Pemakaian pompa yang terus menerus
+setiap harinya sangat boros memakan
+daya Listrik, hal ini dikarenakan ratarata
+pompa air untuk Rumah Tangga
+berdaya ± 300 W.
+Jikalau kita mampu mengurangi
+pemakaian pompa air maka kita telah
+berkontribusi dalam penghematan
+listrik dan juga telah ikut berswadaya
+dalam mewujudkan Medan Kota
+Pintar. Penghematan Listrik adalah
+salah satu bentuk terwujudnya kota
+Pintar, oleh sebab itu kita
+membutuhkan Inovasi yang mampu
+mengurangi pemakaian Pompa Air
+sehingga permasalahan Ketersediaan
+air akan teratasi sejalan dengan
+penghematan listrik yang dilaksanakan.
+Menggunakan prinsip – prinsip
+yang bekerja pada pompa air seperti
+gaya Sentrivulgar, maka yang kita
+butuhkan pada saat ini adalah sebuah
+Inovasi berbasis prinsip Gaya
+sentrivulgar namun tidak menggunakan
+listrik agar menghemat pemakaian daya
+listrik.
+Oleh karena itu penulis telah
+menemukan sebuah prototype yang
+akan digunakan sebagai pengganti
+mesin pompa air dimana mesin ini
+diberi nama mesin ATATIS (Air Kita
+Otomatis), prinsip sederhana yang
+digunakan oleh mesin ini adalah
+dengan memanfaatkan tenaga tekanan
+air yang didapatkan dari arus air yang
+diletakkan lebih tinggi. Dimana air
+tersebut akan mengalir ke pipa yang
+lebih rendah dan memberikan tenaga
+putaran pada baling baling yang
+kemudian menghasilkan gaya
+sentrivulgar, dimana gaya ini dapat
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+78
+menyedot air dibawah tanah (baik
+sumur maupun air PDAM ) yang
+kemudian diteruskan melalui pipa dan
+dialirkan ke wadah air pertama dan air
+pada wadah ini akan terus mengalir
+pada pipa yang akan memberikan
+tenaga tekanan air untuk memutar
+baling baling secara rotari.
+Mesin prototype ini dirancang
+untuk kebutuhan rumah tangga yang
+tidak memiliki mobilitas tinggi, namun
+pada pengembangannya diharapkan
+mesin ini mampu diberdaya gunakan
+untuk mobilitas pabrik yang
+mengunakan banyak Air dalam proses
+produksinya. Karena tidak
+menggunakan listrik sama sekali dalam
+proses kerjanya, maka mesin ini
+mampu mengurangi beban listrik
+rumah tangga yang kemudian menjadi
+mengurangi beban listrik Kota dan
+Wilayah. Dimana hal tersebut
+merupakan salah satu bentuk
+mewujudkan Medan sebagai Kota
+Pintar.
+Berdasarkan uraian di atas dan
+mengingat pada kesesuaian Tema pada
+Lomba Karya Tulis Ilmiah se – Kota
+Medan dalam rangka Hari Teknologi
+Nasional yang diselenggarakan Oleh
+Badan Penelitian dan Pengembangan
+Kota Medan yaitu “Inovasi Ilmu
+Pengetahuan dan Teknologi Dalam
+Mewujudkan Medan Sebagai Kota
+Cerdas (Smart City)” maka penulis
+tertarik untuk membahas permasalahan
+Inovasi hemat Listrik untuk
+mewujudkan Kota Pintar dalam bentuk
+Karya Tulis Ilmiah dengan judul
+“ATATIS (Air Kita Otomatis)
+Prototype Gerakan Hemat Listrik
+Dalam Mewujudkan Medan Smart
+City”.
+b. Rumusan Masalah
+Untuk dapat mengarahkan dan
+memudahkan pembahasan yang lebih
+sistematis, maka penulis mencoba
+untuk merumuskan masalah yang akan
+dibahas pada karya tulis ilmiah ini.
+Adapun rumusan masalahnya yaitu :
+1. Permasalahan apa sajakah yang
+dapat menghambat terciptanya
+Medan Kota Pintar ?
+2. Bagaimana caranya untuk
+mengatasi permasalahan yang
+dapat menghambat terciptanya
+Medan Kota Pintar ?
+3. Inovasi apakah yang diperlukan
+dalam mengatasi permasalahan
+dalam mewujudkan Medan Kota
+Pintar ?
+4. Bagaimanakah konsep kerja
+Inovasi yang harus diciptakan agar
+mampu mendorong percepatan
+Medan menuju Kota Pintar?
+5. Apakah dengan ATATIS
+masyarakat dan pemerintah Kota
+Medan mampu mempercepat
+terwujudnya Medan Kota Pintar ?
+c. Maksud dan Tujuan Penelitian
+Terdapat berbagai macam hal yang
+melatar belakangi dilakukannya
+penelitian ini, namun secara ringkas
+maksud dan tujuan dari dilakukannya
+penelitian ini adalah :
+1. Untuk mengetahui permasalahan
+apa sajakah yang dapat
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+79
+menghambat terciptanya Medan
+Kota Pintar.
+2. Untuk mengetahui cara – cara
+untuk mengatasi permasalahan
+yang dapat menghambat
+terciptanya Medan Kota Pintar.
+3. Untuk mengetahui inovasi apakah
+yang diperlukan dalam mengatasi
+permasalahan dalam mewujudkan
+Medan Kota Pintar.
+4. Untuk mengetahui konsep kerja
+Inovasi yang harus diciptakan agar
+mampu mendorong percepatan
+Medan menuju Kota Pintar.
+5. Untuk mengetahui apakah dengan
+ATATIS masyarakat dan
+pemerintah Kota Medan mampu
+mempercepat terwujudnya Medan
+Kota Pintar.
+d. Kerangka Teori
+1. Teknologi
+Teknologi menurut kamus besar
+bahasa indonesia adalah kemampuan
+teknik berlandaskan pengetahuan ilmu
+eksakta yang berdasarkan proses
+teknis. Sesuai dengan perkembangan
+zaman dewasa ini masyarakat awam
+lebih mengenal teknologi dengan arti
+sebuah penemuan yang diciptakan
+demi membantu kehidupan manusia.
+Namun pengertian teknologi
+menurut Prayitno (2001:95)
+adalah“ilmu terapan dari rekayasa
+yang diwujudkan dalam bentuk
+karya cipta manusia yang
+didasarkan pada prinsip ilmu
+pengetahuan dengan seluruh
+perangkat ide, metode, teknik
+benda-benda material yang
+digunakan dalam waktu dan tempat
+tertentu maupun untuk memenuhi
+kebutuhan manusia.”
+Berdasarkan pengertian diatas,
+maka masyarakat harus lebih berani
+menjabarkan teknologi dalam arti yang
+lebih luas agar penggunaan teknologi
+dapat lebih bermanfaat baik bagi
+masyarakat itu sendiri maupun
+lingkungan sekitarnya.
+2. Inovasi
+Jikalau kita mendengar kata
+Inovasi pasti akan selalu terlintas
+pemikiran bahwasanya ada sesuatu
+yang baru, memiliki ciri khas
+tersendiri, dan lainnya. Pada dasaranya
+inovasi ada karena tuntutan manusia
+yang haus akan sesuatu hal baru, oleh
+karena itu kita dituntut untuk selalu
+menginovasikan apapun agar terlihat
+lebih menarik dan memiliki ciri khas
+tersendiri.
+Menurut Stephen Robins arti dari
+Inovasi adalah :
+“Suatu gagasan baru yang
+diterapkan untuk memprakarsai atau
+memperbaiki suatu produk atau
+prose dan jasa.”
+Pengertian lain dari inovasi juga
+muncul dalam UU No.18 tahun
+2002 adalah :
+“Kegiatan penelitian,
+pengembangan, dan/atau
+perekayasaan yang bertujuan
+mengembangkan penerapan praktis
+nilai dan konteks ilmu pengetahuan
+yang baru, atau cara baru untuk
+menerapkan ilmu pengetahuan dan
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+80
+teknologi yang telah ada ke dalam
+produk atau proses produksi.”
+Dalam proses lahirnya sebuah
+Inovasi haruslah melewati bermacam
+tahapan yang dimulai dari penelitian,
+dilanjutkan ke pengembangan dan
+akhirnya pada penerapan.
+Penggabungan teknologi, inovasi, dan
+pola hidup masyarakat yang teratur
+dapat mewujudkan sebuah cita-cita
+dalam mencapai Medan kota Pintar.
+3. Kota Pintar
+Menarik garis besar dari arti Kota
+Pintar dengan memenggal kata per kata
+seperti Kota dan Pintar, maka akan
+terlintas di masyarakat bahwa defenisi
+dari Kota Pintar itu sendiri adalah
+sebuah permukiman yang cepat
+berkembang. Namun pada dasarnya
+dalam perkembangannya kota pintar
+sendiri memiliki beberapa aspek antara
+lain Sumber Daya Manusia,
+Lingkungan Sosial Budaya, dan model
+Pembangunan. Beberapa Ahli memiliki
+pemahaman tersendiri terhadap definisi
+Kota Pintar, antara lain seperti berikut :
+Kota Pintar Menurut Kourtit dan
+Nijkamp (2012) adalah :
+“ Kota Pintar merupakan hasil dari
+pengembangan pengetahuan yang
+intensif dari strategi kreatif dalam
+peningkatan kualitas sosisalekonomi,
+ekologi, dyaa kompetitif
+kota.”
+Sedangkan Ahmad Nurman dalam
+Buku Manajemen Perkotaan karyanya
+menuturkan bahwa Smart City adalah :
+“Kota Cerdas pada umumnya
+adalah Kota yang dikembangkan
+dengan didasarkan pada 3 hal,
+pertama faktor manusia, kota
+dengan manusia-manusia yang
+kreatif dalam pekerjaan, jejaring
+pengetahuan, lingkungan yang
+bebas kriminal. Kedua Faktor
+Teknologi komunikasi dan
+informasi. Terakhir faktor
+Kelembagaan, masyarakat Kota
+(pemerintah, Kalangan Bisnis dan
+penduduk) yang memahami
+teknologi Informasi serta membuat
+keputusan berdasarkan pada
+teknologi.”
+Menghadirkan sebuah kota Pintar
+bukan hanya sekedar meletakan seluruh
+teknologi masuk kedalam sendi sendi
+pembangunan, namun pemerintah dan
+masyarakat juga dituntut untuk
+merubah pola berpikir dan cara kerja
+yang mampu mendukung realisasi kota
+Pintar itu sendiri.
+e. Metode Penelitian
+1. Jenis Penelitian
+Penelitian ini dilaksanakan
+dengan metode Research and
+Development. Metode ini digunakan
+sebagai kegiatan menguji teknologi
+yang sudah ada dan
+mengembangkannya dengan konsep
+kehidupan saat ini.
+Dalam hal ini penelitian
+dilakukan dengan meneliti data-data
+yang diperoleh dari literatur kemudian
+mengembangkannya dalam wujud
+inovasi baru yang ditujukan dapat
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+81
+mempermudah objek pengguna
+penelitian.
+2. Objek Penelitian
+Objek penelitian pada karya tulis
+ilmiah ini adalah masyarakat Kota
+Medan yang merupakan bagian atau
+elemen utama dalam merujuk dan
+mewujudkan Medan Smart City.
+3. Teknik Pengumpulan Data
+Teknik pengumpulan data yang
+digunakan adalah :
+- Teknik Observasi, yaitu dengan
+mengadakan penelitian langsung
+terhadap perilaku dan pola Hidup
+masyarakat kota Medan yang
+selama ini membutuhkan mobilitas
+tinggi akan kebutuhan Listrik dan
+Sumber Air Bersih.
+- Teknik Kualitatit, yaitu dengan
+mengumpulkan data-data mengenai
+permasalahan apa sajakah yang
+muncul terhadap proses
+mewujudkan Medan sebagai kota
+Pintar.
+4. Teknik Analisa Data Penelitian
+Analisis data yang dilakukan
+adalah dengan menggunakan metode
+deskriptif yaitu metode yang
+mengumpulkan, menyusun,
+mengelompokkan, menginterpretasikan
+dan menganalisa data untuk memberi
+gambaran dan jawaban yang jelas dan
+akurat dari perumusan masalah.
+II. PEMBAHASAN
+a. Identifikasi Masalah
+Identifikasi masalah yang penulis
+dapatkan sesuai dengan uraian latar
+belakang masalah yang dapat di
+identifikasikan antara lain adalah :
+1. Permasalahan yang menghambat
+terciptanya Medan Kota Pintar.
+2. Cara mengatasi permasalahan yang
+dapat menghambat terciptanya
+Medan Kota Pintar.
+3. Inovasi yang diperlukan dalam
+mengatasi permasalahan dalam
+mewujudkan Medan Kota Pintar
+adalah Inovasi yang mampu
+mengakomodir permasalahan yang
+dapat menghambat realisasi Medan
+Kota Pintar seperti krisis Listrik dan
+Ketersediaan Sumber Daya Air
+Bersih yang memadai.
+4. Konsep kerja Inovasi yang harus
+diciptakan agar mampu mendorong
+percepatan Medan menuju Kota
+Pintar adalah sebuah Konsep kerja
+sederhana yang mampu mengurangi
+beban listrik Kota Medan sekaligus
+mampu menyediakan ketersediaan
+air bersih bagi masyarakat.
+5. Dengan ATATIS masyarakat dan
+pemerintah Kota Medan mampu
+mempercepat terwujudnya Medan
+Kota Pintar karena Konsep Kerja
+yang dimiliki oleh ATATIS adalah
+sebuah mesin Pompa Air yang tidak
+menggunakan energi listrik,
+sehingga beban listrik rumah tangga
+yang selama ini terbeban oleh
+penggunaan pompa listrik akan
+berkurang namun kebutuhan akan
+ketersediaan air tetap terpenuhi.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+82
+b. Analisis Masalah
+Analisis yang penulis dapatkan
+dalam permasalahan – permasalahan
+pada karya tulis ilmiah ini yang sesuai
+dengan identifikasi masalah yang ada
+antara lain adalah :
+1. Permasalahan yang menghambat
+terciptanya Medan Kota Pintar
+antara lain adalah :
+- Melihat masih banyaknya
+masyarakat dengan latar
+pendidikan rendah di daerah
+pinggiran kota Medan sehingga
+membuat banyak program
+program Pemerintah yang
+membutuhkan sinergi masyarakat
+tidak berjalan dengan baik. Hal
+ini terjadi karena kurang
+pahamnya masyarakat marginal
+dengan konsep pembangunan
+yang diinginkan oleh pemerintah,
+oleh sebab itu pemerintah harus
+melakukan penyuluhan maupun
+edukasi terhadap masyarakat
+mengenai berbagai program kerja
+yang akan dijalankan untuk
+mewujudkan Medan Kota Pintar.
+- Belum terbentuknya pola
+Lingkungan yang tepat di daerah
+kota Medan merupakan salah
+satu permasalahan yang cukup
+crowded saat ini, seperti penataan
+daerah Pusat Pasar yang sangat
+jauh dari Harapan, masih
+banyaknya permukiman Kumuh
+di daerah perkotaan, dan daerah
+daerah pinggiran seperti
+kampung nelayan belawan yang
+sangat jauh dari kesan kata
+daerah Kota. Oleh sebab itu
+pemerintah harus melakukan
+Penataan Wilayah dan
+perencanaan Ulang dengan
+metode zoning fungsi lingkungan
+tersebut, sebagai contoh
+melakukan pengelompokkan
+wilayah bisnis, wilayah
+pendidikan, wilayah tempat
+tinggal dan sebagainya. Hal ini
+dibutuhkan untuk membantu
+pemerintah dalam
+mengrealisasikan berbagai
+program kerja dalam
+menciptakan Medan Kota Pintar.
+- Faktor kehidupan masyarakat
+daerah pinggir kota maupun
+daerah kumuh di perkotaan yang
+belum menjalani atau
+menerapkan pola kehidupan yang
+baik dan benar seperti pemakaian
+sanitasi yang baik, masyarakat
+yang sadar kebersihan, dan
+lainnya. Memadukan konsep
+hidup modern yang baik dengan
+nilai – nilai kearifan lokal dalam
+menjunjung masyarakat Kota
+yang dapat berbaur sangat
+dibutuhkan, hal ini menjadi salah
+satu keseragaman masyarakat
+dalam memajukan kota. Bila
+masyarakat sudah dapat
+memahami konsep hidup yang
+baik, maka pemerintah dapat
+bersinergi dengan cepat dalam
+menampung permasalahan
+masyarakat serta mencari jalan
+keluarnya dalam program kerja
+pemerintah yang dapat
+dilaksanakan juga oleh
+masyarakat tersebut. Dan pada
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+83
+akhirnya Medan Kota Pintar
+dapat terwujud dengan dukungan
+dan sinergi bersama antara
+masyarakat dan pemerintah.
+- Dewasa ini masyarakat kota
+Medan masih banyak yang belum
+memaksimalkan mobilitas
+aktifitasnya sehari-hari, hal ini
+juga dikarenakan faktor-faktor
+sarana fasilitas umum yang
+belum banyak disediakan oleh
+pemerintah. Hal ini dapat dilihat
+dari banyaknya masyarakat yang
+menghabiskan waktu di jalan saat
+hendak pergi dan pulang dari
+tempat kerja, beberapa faktor
+seperti kemacetan dan jarak
+antara kantor dan rumah yang
+jauh menjadi alasan
+permasalahan ini. Untuk
+menciptakan konsep mobilitas
+pintar yang sehat, maka
+pemerintah haruslah
+menyediakan angkutan umum
+kota yang nyaman sehingga
+masyarakat mau beralih
+menggunakan angkutan umum
+sehingga mengurangi jumlah
+kendaraan di jalan saat jam
+macet. Selain itu mendirikan
+hunian vertikal seperti rumah
+susun yang dekat dengan pusat
+perkantoran maupun
+perdagangan dapat menciptakan
+mobilitas yang baik karena
+masyarakat dapat tinggal dekat
+dengan tempat kerja sehingga
+tidak perlu banyak menghabiskan
+waktu di jalan.
+- Medan sebagai kota yang dikenal
+mengandalkan perdagangannya
+dalam sirkulasi ekonomi masih
+memiliki beberapa kendala
+seperti persaingan yang kurang
+sehat, faktor pendukung
+pergerakan ekonomi yang juga
+belum tersedia, serta beberapa
+permasalahan lainnya. Dalam
+menciptakan kota Pintar, maka
+kota Medan harus menglahirkan
+sirkulasi ekonomi yang baik bagi
+pemerintah, masyarakat ekonomi
+lemah dan pengusaha sendiri
+selaku pelaku ekonomi terbesar.
+Lingkaran daur ulang ekonomi
+harus dapat berjalan sehingga
+tidak ada perilaku diskriminan
+dalam sirkulasi ekonomi di Kota
+Medan, dengan melakukan halhal
+tersebut diharapkan
+perekonomian kota Medan dapat
+tumbuh maksimal sehingga
+membantu realisasi Medan Kota
+Pintar.
+- Setelah berbagai permasalahan
+dalam elemen masyarakat telah
+diselesaikan, maka permasalahan
+pada intern pemerintahan juga
+harus diselesaikan. Berbagai
+masalah seperti kinerja yang
+masih belum maksimal, tindakan
+atau respon terhadap suatu
+permasalahan di masyarakat yang
+tidak cepat diselesaikan dan
+berbagai pokok masalah lainnya.
+Dalam kasus menciptakan Medan
+Smart City pemerintah menjadi
+tiang pertama dalam
+mensukseskannya disusul oleh
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+84
+pelaku bisnis, organisasi dan
+terakhir masyarakat. Maka
+pemerintah harus menciptakan
+Good Governance terlebih
+dahulu sebelum mengeluarkan
+kebijakan yang berimplementasi
+terhadap kota Pintar, dimana
+kebijakan ini nantinya akan
+berlaku bagi masyarakat serta
+dampaknya akan mendukung
+Medan menjadi Smart City.
+Permasalahan – permasalahan diatas
+merupakan sebuah intisari dari
+berbagai permasalahan lainnya, dengan
+menelaah hal-hal diatas diharapkan
+masyarakat dan pemerintah mampu
+bersinergi bersama demi mewujudkan
+Medan Smart City.
+2. Cara mengatasi permasalahan yang
+dapat menghambat terciptanya
+Medan Kota Pintar adalah dengan
+menciptakan berbagai Inovasi dan
+pemikiran yang mampu
+mengakomodir permasalahan
+masyarakat dan pemerintah seperti,
+peningkatan mutu sumber daya
+manusia, perbaikan kualitas
+lingkungan tempat tinggal dan
+penghijauan, meningkatkan kualitas
+hidup masyarakat dengan
+mengurangi kesenjangan sosial
+antara kaum kota dengan kaum
+marginal pinggiran, merencanakan
+sebuah sistem mobilitas yang
+mampu mengurangi permasahalan
+masyarakat dalam aktifitas sehariharinya,
+menrestruktur sistem
+perekonomian yang lebih baik
+dalam sirkulasinya sehingga
+berpihak kepada semua pihak, serta
+menciptakan pemerintahan yang
+baik (good governance) karena
+jikalau pemerintah sudah berbenah
+maka masyarakat akan cepat
+memahami dan melaksanakan
+berbagai kebijakan pemerintah
+sebagai bentuk sinergi yang
+berkelanjutan.
+3. Inovasi yang diperlukan dalam
+mengatasi permasalahan dalam
+mewujudkan Medan Kota Pintar
+adalah Inovasi yang mampu
+mengakomodir berbagai
+permasalahan diatas, namun dalam
+ruang lingkup penelitian ini maka
+akan dirangkum beberapa masalah
+kedalam suatu pokok utama masalah
+antara lain seperti pemanfaatan
+teknologi sebagai inovasi
+peningkatan mutu Sumber daya
+manusia, perbaikan lingkungan,
+peningkatan kualitas hidup,
+mempermudah mobilitas serta
+penghematan dalam segi
+perekonomian. Dalam konteks
+tersebut beban biaya listrik dan
+ketersediaan air dapat menjadi
+rangkuman kecil atas segala
+permasalahan tersebut, jikalau
+pemakaian listrik berlebihan maka
+akan menimbulkan kerusakan
+lingkungan, biaya listrik yang naik
+akan berpengaruh terhadap
+perekonomian, dan berujung pada
+kualitas hidup yang susah untuk
+berkembang. Begitu juga dengan
+ketersediaan air, dapat dibayangkan
+jikalau masyarakat perkotaan yang
+memiliki mobilitas tinggi harus
+terganggu dengan masalah air yang
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+85
+susah didapat. Oleh karena itu
+inovasi yang akan diciptakan adalah
+sebuah inovasi hemat energi yang
+mampu menyediakan atau
+memfasilitasi ketersediaan air
+masyarakat perkotaan.
+4. Konsep kerja Inovasi yang harus
+diciptakan agar mampu mendorong
+percepatan Medan menuju Kota
+Pintar adalah dengan menghadirkan
+sebuah konsep kerja yang mampu
+mengakomodir berbagai
+permasalahan yang telah terjabar
+diatas. Sebuah konsep sederhana
+yang mampu membantu masyarakat
+perkotaan dalam mengatasi
+permasalahan beban listrik yang
+memuncak sehingga berdampak
+terhadap terpuruknya keuangan dan
+lainnya. Serta mengenai
+ketersediaan air yang menjadi
+perhatian utam, karena dengan
+mobilitas tinggi masyarakat
+perkotaan membutuhkan sebuah
+konsep kerja yang mampu
+menyediakan air 24 jam. Oleh sebab
+itu secara ringkas konsep kerja yang
+dibutuhkan adalah konsep kerja
+yang dapat menghemat listrik dan
+menyediakan ketersediaan air bagi
+masyarkaat kota Medan.
+5. Dengan ATATIS masyarakat dan
+pemerintah Kota Medan mampu
+mempercepat terwujudnya Medan
+Kota Pintar karena Konsep Kerja
+yang dimiliki oleh ATATIS sesuai
+dengan konsep kerja yang mampu
+atau yang dibutuhkan untuk
+percepatan realisasi Medan sebagai
+Kota Pintar. ATATIS adalah sebuah
+mesin sederhana yang
+memanfaatkan daya tekanan air
+untuk memutar kumparan pada
+baling-baling sehingga
+menghasilkan daya sentrivulgar
+yang mampu menyedot air dari
+sumber air terdekat untuk
+ditampung dan dialirkan menuju
+keran. Tanpa menggunakan listrik
+maka ATATIS mampu mengurai
+beban listrik rumah tangga yang
+akan berdampak pada beban total
+listrik Kota Medan. Secara ekonomi
+maka keuangan rumah tangga juga
+akan berkurang karena mampu
+mengurangi biaya listrik yang harus
+dikeluarkan. Walaupun konsep pada
+ATATIS sangat sederhana, namun
+dalam proses kerjanya mesin ini
+mampu mengurai permasalahan
+pokok pada pengembangan kota
+Pintar seperti permasalahan
+lingkungan, pola kehidupan,
+mobilitas, dan stabilitas
+perekonomian masyarakat.
+Penggunaan ATATIS yang
+sementara ini hanya diperuntukkan
+untuk konsumen rumah tangga
+sahaja sudah dapat membantu
+kontribusi percepatan Medan
+menjadi kota Pintar. Untuk
+pengembangan selanjutnya
+diharapkan masyarakat dan
+pemerintah mampu menciptakan
+ATATIS dengan skala penggunaan
+yang lebih besar seperti Perkantoran
+maupun Pabrik.
+Oleh karena itu, dalam proses
+realisasi penggunaan ATATIS atau
+dalam tahap produksi ATATIS
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+86
+diperlukan kesepakatan bersama
+antara Pemerintah maupun
+Masyarakat. Apakah masyarakat
+akan membuat atau membeli mesin
+ini secara perseorangan atau akan
+mendapat bantuan dari pemerintah
+dalam kendala pengadaaannya, hal
+ini akan kembali kepada
+kesanggupan pemerintah dan
+masyarakat sebagai bentuk sinergi
+dalam melakukan perwujudan
+terhadap hadirnya Medan Smart
+City.
+c. Data Penunjang
+Data penunjang yang akan
+disajikan dalam karya tulis ilmiah ini
+adalah sebuah skema kerja maupun
+proses penggunaan Mesin ATATIS
+yang masih dalam tahap Prototype atau
+perancanaan yang belum dilakukan
+percobaan sehingga kemungkinan
+diperlukan beberapa perbaikan maupun
+perubahan jikalau terjadi kegagalan
+pada mesin ini. Namun penulis
+memiliki keyakinan mesin ini dapat
+berjalan sesuai dengan konsep dan
+perencanaan karena mesin ini hanya
+menggunakan konsep kerja yang
+sederhana.
+Kendala utama dalam
+melakukan percobaan pada mesin ini
+adalah pembuatan baling baling yang
+akan menjadi turbin penyedot air,
+dikarenakan membutuhkan biaya yang
+cukup besar untuk produksinya. Maka
+penulis hanya akan menyajikan
+ilustrasi sistem kerja secara terperinci
+sehingga memudahkan pembaca dalam
+memahami prinsip kerja pada Mesin
+ATATIS ini.
+Untuk proses penyusunan mesin
+ini hanya membutuhkan rangkaian pipa
+air seperti biasa pada permukiman
+masyarakat umum, yang kemudian
+disambungkan ke tangki penampung.
+Namun pada pipa yang mengalirkan air
+keluar harus dimodifikasi, yaitu dengan
+meletakkan sebuah turbin rancangan
+untuk menyedot air. Maka saat air diisi
+pada tangki penampungan, dan air
+tersebut keluar melalui pipa
+pembuangan menuju keran maka
+tekanan air akan memutar baling-baling
+turbin secara terus menerus yang akan
+menyedot air selama 24 jam tanpa mati
+atau selama air dipakai oleh
+masyarakat.
+Berikut bagian-bagian atau
+komponen yang dibutuhkan dalam
+memproduksi ATATIS, antara lain
+adalah :
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+87
+Tabel 1.1 Nama Komponen ATATIS (Air Kita Otomatis)
+No. Nama Komponen Gambar ( Ilustrasi )
+1 Pipa Paralon ½ Inch
+2 Tangki Penampungan Air
+3
+Valve / katup air (jikalau sumber
+air diambil dari sumur)
+4
+Baling Baling Khusus ( Yang
+Dirancang Sendiri, Mesin inilah
+yang Disebut ATATIS. Mesin
+ini juga berfungsi sebagai
+pengganti Pompa Air)
+5 Elbow Pipa
+6 Keran Air
+7 Tabung Pompa Air
+( Sumber Data : Google.com )
+Komponen – komponen yang
+telah disebutkan diatas ekmudain
+dirakit sesuai dengan perencanaan,
+dimana untuk ukuran dan total
+penggunaan di sesuaikan dengan
+kondisi objek pemakai.
+Untuk sumber air sendiri akan
+terbagi menjadi dua jenis yaitu sumber
+air dari PDAM dan sumber air dari
+sumur (baik sumur galian maupun
+Sumur Bor), beberapa kendala nanti
+akan muncul dalam penggunaan baik
+pada sumber air PDAM maupun
+sumber Air sumur. Namun kendala itu
+bersifat sementara atau hanya terjadi
+pada awal proses mesin beroperasi,
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+88
+untuk selanjutnya mesin akan berjalan
+normal. Adapun rangkaian komponenkomponen
+tersebut akan dibentuk
+seperti gambar Ilustrasi Berikut ini :
+Gambar 1.1 Desain ATATIS (Air Kita Otomatis)
+( Sumber : Dokumen Pribadi )
+Cara mengoperasikan mesin ATATIS :
+1. Kita harus mengisi terlebih dahulu
+Tangki Penampungan dengan air
+sebanyak mungkin hingga seluruh
+raung hampa pada pipa sampai
+dengan ke kran terpenuhi. Proses
+pengisian harus dilakukan secara
+manual.
+2. Kedua buka kran air yang berada
+pada instalasi pipa.
+3. Saat keran air dibuka dan air keluar
+disaat itu juga gaya tekanan air pada
+pipa yang berada dalam ruang turbin
+akan memutar baling baling pertama
+yang kemudian gaya tersebut akan
+diteruskan ke baling baling kedua
+yang akan berputar lebih cepat dan
+menarik air dari sumber air.
+4. Untuk mengetahui apakah air sudah
+disedot oleh mesin atau tidak dapat
+dicek pada tabung kontrol yang
+terletak dekat dengan turbin kedua.
+Jikalau air sudah tersedot maka akan
+keluar air melalui tabung tersebut,
+kemudian tutup tabung tersebut agar
+air dialirkan menuju tangki.
+5. Setelah air yang ditarik menuju
+tangki dan akan terus mengisi tangki
+penampungan maka alat ini sudah
+bekerja dengan seharusnya.
+Konsumen tidak perlu melakukan
+pengisian ulang secara manual ke
+dalam tangki lagi, karena gaya
+tekanan air yang terus memutar
+baling baling akan menarik air
+selama konsumen menggunakan air
+atau membuka kran air.
+Dengan mengoperasikan Mesin
+ATATIS ini maka konsumen yaitu
+masyarakat akan menghemat konsumsi
+listrik yang selama ini digunakan untuk
+mesin pompa air listrik. Setelah daya
+konsumsi listrik berkurang maka
+pengeluaran keuangan pun akan lebih
+hemat, mobilitas sehari-hari pun akan
+berjalan lancar demi menciptakan
+Medan Smart City.
+III. PENUTUP
+a. Kesimpulan
+Setelah apa yang penulis lakukan
+dalam penelitian ini, penulis
+mendapatkan banyak kesimpulan. Dari
+banyak kesimpulan itu, penulis
+mencoba untuk menyimpulkannya lagi.
+Dan hasil dari penyimpulan penulis
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+89
+adalah sebagai mana yang tertera di
+bawah ini :
+1. Permasalahan kesiapan Sumber
+Daya Manusia yang kompetitif,
+Lingkungan yang belum tertata, pola
+kehidupan yang belum baik,
+pergerakan Mobilitas masyarakat
+yang belum maksimal, Ekonomi
+yang tidak stabil dan tidak merata,
+serta Good Governance yang belum
+tercipta seutuhnya adalah masalah
+utama yang dapat menghambat
+realisasi Medan menjadi Kota Pintar
+dan mampu bersaing dengan Kota-
+Kota Besar lainnya di Indonesia.
+2. Menghadirkan Inovasi yang mampu
+mengakomodir berbagai
+permasalahan masyarakat dan
+pemerintah sehingga terwujud
+bentuk sinergi utuh dalam
+menciptakan Medan Kota Pintar
+adalah salah satu cara mengatasi
+permasalahan yang dapat
+menghambat realisasi terciptanya
+Medan Smart City.
+3. Suatu Inovasi berdaya guna serta
+mampu menjawab berbagai
+permasalahan seperti krisis listrik
+dikarenakan beban daya listrik Kota
+Medan yang sering berlebih dan
+kemudian Inovasi tersebut dapat
+sejalan dalam menyediakan
+ketersediaan air bersih sebagai suatu
+komoditi wajib bagi masyarakat.
+Inovasi tersebut harus berdampak
+juga terhadap pengaruh ekonomi
+masyarakat serta kondisi
+lingkungan, terlebih dalam
+menciptakan kehidupan masyarakat
+yang lebih harmoni. Inovasi seperti
+tersebut diataslah yang dibutuhkan
+dalam menjawab berbagai
+permasalahan yang dapat
+menghambat terciptanya Medan
+Kota Pintar.
+4. Konsep kerja sederhana seperti
+mampu mengurangi beban listrik
+rumah tangga di masyarakat
+kemudian berdampak terhadap
+beban listrik total Kota Medan serta
+mampu menjamin ketersediaan air
+bagi masyarakat merupakan konsep
+kerja yang harus terdapat dalam
+inovasi yang akan digunakan dalam
+mengrealisasikan Medan kota
+Pintar.
+5. ATATIS adalah suatu Inovasi yang
+mampu mengakomodir berbagai
+masalah yang dapat menghambat
+percepatan Medan menjadi Kota
+Pintar karena ATATIS adalah mesin
+pompa air tanpa listrik yang dapat
+digunakan oleh masyarakat
+perkotaan sehingga mampu
+menolong masyarakat dari segi
+pengematan listrik dan ketersediaan
+air dan berdampak juga pada
+lancarnya mobilitas masyarakat
+serta keuangan dikarenakan biaya
+listrik masyarakat berkurang. Halhal
+merupakan suatu perubahan
+kecil yang akan berdampak besar
+pada kota Medan sendiri, dan pokok
+pemikiran pada penyelesaian
+masalah tersebut akan berlanjut
+dalam proses percepatan Medan
+menjadi Smart City.
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+90
+b. Pengembangan Inovasi
+Melihat dan menelaah akan
+penelitian yang ada pada karya tulis
+ilmiah ini, maka penulis telah
+menyatakan dari awal bahwa desain
+ATATIS hanyala sebuah Prototype
+yang harus dikembangkan lagi sebelum
+digunakan. Dikarenakan keterbatasan
+dana dalam melakukan percobaan dan
+memproduksi mesin ini, maka penulis
+hanya menyajikan ilustrasi sederhana
+yang dilengkapi dengan berbagai
+proses sistem kerjanya.
+Dalam mewujudkan Kota Pintar,
+pemerintah dan masyarakat harus
+serius dan turun langsung untuk
+mempercepat proses realisasinya. Maka
+dengan itu penggunaan ATATIS ini
+sangatlah dapat membantu, mengingat
+Impact nya yang tidak hanya
+berpengaruh terhadap satu sektor
+namun pada beberapa sektor yang
+keseluruhannya mendukung percepatan
+Medan menjadi Kota Pintar.
+Oleh Karena itu, besar harapan
+penulis untuk mengrealisasikan
+ATATIS dalam bentuk nyata bukan
+hanya sebagai Prototype. Dukungan
+besar dari masyarakat dan publikasi
+dibutuhkan untuk mewujudkan
+ATATIS sebagai Inovasi yang
+mendukung Medan Smart City,begitu
+juga mengenai pendanaan untuk
+percobaan mesin ini.
+Dengan segala kekurangan yang
+penulis miliki, maka penulis berharap
+dapat berbagi Ilmu dengan peneliti
+lainnya dalam proses mewujudkan dan
+mengembangkan Inovasi ATATIS ini.
+Untuk Masyarakat yang ramah
+lingkungan, hemat listrik, dan
+bermobilitas tinggi, mari kita Hadirkan
+ATATIS sebagai wujud nyata dan
+penataan awal Medan sebagai Smart
+City.
+DAFTAR PUSTAKA
+Dani K. ,Drs., 2002. Kamus Lengkap
+Bahasa Indonesia Dilengkapi
+Dengan EYD, Putra Harsa,
+Surabaya.
+Prayitno. 2001. Ilmu Teknologi Dasar
+Dan Penerapannya, Andi, Yogyakarta.
+S.J. Mc Naughton dan Larry L. Wolf
+(1996). Lingkungan Hidup Elemen
+Teratas Manusia. Alih Bahasa Moh.
+Kurdi. Jakarta.

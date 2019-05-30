@@ -1,0 +1,100 @@
+JALANKU.GO.ID, APLIKASI PERBAIKAN JALAN MENUJU MEDAN SMART CITY
+Oleh : Nur’afifah Hasbi Nasution
+(Dosen UIN dan Universitas Potensi Utama)
+BAB I. PENDAHULUAN
+A. Latar Belakang
+Jalan merupakan kebutuhan utama masyarakat dimana infrastruktur tersebut berperan penting menunjang aktivitas masyarakat. Tidak hanya menjadi akses bagi warga kota, namun juga berpengaruh terhadap distribusi logistik yang keluar masuk kota. Jalan yang baik akan melancarkan distribusi hingga dapat menekan harga komoditi. Selain itu, infrastruktur jalan yang baik juga dapat memuluskan jalan para investor menanamkan modalnya. Lebih lanjut, hal tersebut berdampak pada perkembangan kota yang semakin baik, dimana akan banyak lowongan pekerjaan yang tercipta dan meningkatkan perekonomian warga. Secara khusus dapat pula dibayangkan urgensi jalan yang baik untuk memudahkan jalannya ambulans demi menyelamatkan nyawa orang.
+Keadaan jalan yang tidak baik dapat diuraikan menjadi beberapa masalah yang ditemui di jalan-jalan Kota Medan. Mulai dari kemacetan, rambu lalu lintas yang tidak tertata, lampu lalu lintas yang tidak berfungsi, jalan berlubang, jalan sempit, jalan berdebu dan panas, perbaikan jalan, pembangunan drainase, pedagang kaki lima, parkir liar di badan jalan, hingga angkutan kota yang menaik-turunkan penumpang seenaknya. Masalah-masalah tersebut tentu saja menimbulkan ketidaknyamanan bagi pengguna jalan. Namun warga hanya bisa menggerutu menyikapinya karena tak tahu harus lapor kemana.
+Penggunaan internet yang semakin luas telah menghadirkan beragam aplikasi sosial media yang menghubungkan masyarakat untuk berinteraksi secara aktif meski tidak saling bertatap muka. Banyak perbincangan yang mengudara, banyak diskusi yang ramai di dunia maya untuk menyelesaikan masalah atau justru menimbulkan masalah. Eksistensi aplikasi sosial media yang semakin menjamur dan melibatkan semakin banyak orang merupakan peluang besar yang dapat dimanfaatkan untuk pembangunan kota. Interaksi dan komunikasi di dunia maya yang dioptimalkan pemanfaatannya merupakan alternatif strategi pembangunan di era modern.
+Bila dikaitkan dengan perwujudan Medan sebagai kota cerdas (smart city), maka keadaan warga dan pemerintah yang dapat selalu terhubung menjadi hal penting yang perlu dicarikan solusinya. Untuk itu, dibutuhkan aplikasi berbasis internet yang selain berfungsi menghubungkan antar warga kota dan pemerintah, juga
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+2
+memudahkan pemerintah mengidentifikasi dan menyelesaikan masalah warganya dengan bantuan teknologi. Tulisan ini menawarkan penerapan aplikasi jalan.ku.go.id sebagai solusi alternatif bagi perbaikan jalan di Kota Medan sekaligus sebagai langkah mewujudkan Medan Smart City.
+B. Rumusan Masalah
+Adapun masalah yang menjadi pembahasan dalam tulisan ini adalah sebagai berikut:
+1. Bagaimana kondisi dan permasalahan yang ditemukan di jalan-jalan di Kota Medan?
+2. Bagaimana pemanfaatan aplikasi jalanku.go.id terhadap perbaikan jalan menuju Medan Smart City?
+C. Maksud dan Tujuan
+Berdasarkan rumusan masalah yang telah dikemukakan, tulisan ini bertujuan
+1. mengurai masalah-masalah yang ditemukan di jalan-jalan di Kota Medan, dan
+2. menggambarkan manfaat aplikasi jalanku.go.id sebagai solusi terhadap perbaikan jalan menuju Medan Smart City.
+D. Kerangka Teori
+Kota cerdas (smart city) adalah kota yang menggunakan teknologi digital atau teknologi informasi komunikasi untuk meningkatkan kualitas pelayanan publik, mengurangi biaya dan konsumsi, dan menghubungkan antar masyarakat dan pemerintah secara efektif dan aktif (https://en.wikipedia.org/wiki/Smart_city). Senada dengan penjelasan tersebut, Harout Chitilian mendefenisikan smart city sebagai pelayanan yang lebih baik bagi warga kota, standar hidup yang lebih tinggi, pemanfaatan aset yang dimiliki sebagai kota metropolitan untuk menjamin pembangunan kota yang sejalan dengan kebutuhan warga (http://www.slideshare.net/MTLVille/presentation-2014-2017-montral-stategy-smart-and-digital-city-an?related=2).
+Smart city yang juga biasa disebut digital city erat kaitannya dengan kota berbasis internet. Internet atau interconnected network adalah sebuah sistem komunikasi global yang menghubungkan komputer-komputer dan jaringan-jaringan komputer di seluruh dunia. Dengan memanfaatkan teknologi internet, pembangunan kota akan bisa dipercepat dan ditingkatkan dengan menghubungkan seluruh masyarakat dan pemerintah untuk sama-sama ambil bagian dalam pembangunan kota. Sinergi antara masyarakat dan pemerintah kota dengan bantuan teknologi merupakan inti dari konsep kota cerdas.
+Gencarnya penggunaan internet belakangan ini telah menghadirkan banyak aplikasi yang semakin memudahkan penggunanya. Mulai dari urusan pribadi hingga urusan publik yang menghubungkan orang-orang seluruh dunia telah banyak tersedia. Aplikasi dengan tujuan-tujuan serupa
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+3
+pun bermunculan, memberi alternatif pilihan bagi para pengunjung dunia maya. Tentu ada saja hal negatif yang bisa menimpa penggunanya, namun dengan penggunaan yang bijak, banyak hal baik yang bisa didapatkan dari jaringan penghubung dunia itu.
+Sebagai media massa, sistem komunikasi yang dihadirkan internet telah mengubah gaya hidup penggunanya. Media tidak sekedar mekanisme yang sederhana untuk menyebarluaskan informasi, tetapi merupakan organisasi yang kompleks dan menjadi suatu institusi sosial yang penting (Hasrullah, 2013:44-45). William L. Rivers, dkk (2003:38) menyebut sistem komunikasi sebagai sebuah institusi yang memiliki kekuatan besar yang mampu membuat institusi lain menjadi lebih kuat. Paul Lazarsfeld dan Robert K. Merton melihat media dapat menghaluskan paksaan sehingga tampak sebagai bujukan. Itulah mengapa kelompok-kelompok kuat kian mengandalkan teknik manipulasi melalui media agar bisa mengontrol secara lebih halus (Rivers, 2003:39).
+Selain itu, sebagai ruang publik, aplikasi sosial media memiliki peran sosial yang lebih besar dari sekedar menciptakan sebuah interaksi. Di ruang publik lah masalah warga kota dapat diutarakan, dimana semua orang berkedudukan sama dan tidak ada perbedaan sosial. Ruang publik juga bersifat demoktratis karena terbuka bagi semua orang dan tidak ada seorangpun boleh menutup akses ke ruang publik. Oleh karena itu, ruang publik memiliki aturan-aturan yang dibuat oleh para pejabat publik untuk melayani kepentingan publik (Halim, 2008:64-65).
+Bicara soal pelayanan publik, perbaikan jalan yang dimaksud dalam tulisan ini tidak terbatas pada jalan-jalan kota yang merupakan lintas provinsi atau yang padanya terdapat gedung-gedung mewah. Melainkan semua jalan yang ada di Kota Medan hingga menyentuh gang-gang kecil tempat hidup warga kota. Hal tersebut karena perbaikan jalan bukan semata dimaksudkan untuk sekedar memperindah wajah tengah kota. Namun yang lebih penting adalah memberi kenyamanan hidup bagi segenap warga kota. Karena hak atas kota atau hak masyarakat untuk mendapatkan peningkatan kualitas hidup di kotanya berlaku horizontal sesama warga dan berhubungan vertikal dengan pemerintah kota (Verdiansyah, 2006:100).
+E. Metode Penulisan
+Tulisan ini terdiri dari 3 bab yang dimulai dengan bab 1 yaitu pendahuluan yang berisi latar belakang dan rumusan masalah terkait jalan-jalan di Kota Medan dan teori-teori seputar smart city dan aplikasi media sosial. Kemudian bab 2 adalah identifikasi dan analisis masalah yang mengulas tentang penerapan aplikasi jalanku.go.id sebagai solusi alternatif bagi perbaikan jalan menuju Medan Smart City. Selanjutnya bab 3 berisi
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+4
+penutup yang akan memaparkan kesimpulan tulisan dan kemungkinan penerapan aplikasi jalanku.go.id oleh Pemko Medan.
+BAB II. PEMBAHASAN
+A. Identifikasi Masalah
+Permasalahan jalan yang ditemui di Kota Medan antara lain adalah kemacetan, rambu lalu lintas yang tidak tertata, lampu lalu lintas yang tidak berfungsi, jalan berlubang, jalan sempit, jalan berdebu dan panas, perbaikan jalan, pembangunan drainase, pedagang kaki lima, parkir liar di badan jalan, hingga angkutan kota yang menaik-turunkan penumpang seenaknya. Kondisi jalan yang tidak baik tersebut menimbulkan masalah-masalah baru di masyarakat. Mulai dari terganggunya aktivitas warga hingga tingginya harga barang akibat biaya distribusi yang meningkat. Hal lain yang juga menjadi masalah adalah terkait upaya menarik investor untuk berinvestasi di Kota Medan.
+Tidak adanya media yang mewadahi masyarakat untuk menyampaikan keluhan seputar permasalahan jalan membuat masalah-masalah tersebut tak kunjung selesai. Pada beberapa titik jalan, pemerintah memperbaiki jalan dengan menambal jalan, melebarkan jalan, menanam pohon atau merapikan pedagang kaki lima. Namun selalu ada jalan-jalan yang terlewat dari pandangan pemerintah sehingga tidak tersentuh perbaikan. Di sinilah urgensi media berbasis internet yang mampu menghubungkan pemerintah dengan warganya secara real time. Lebih lanjut hal tersebut juga akan menjadi modal untuk mewujudkan Medan sebagai kota cerdas.
+Perwujudan kota cerdas erat kaitannya dengan pemanfaatan internet sebagai media komunikasi antar warga dan pemerintah. Warga dan pemerintah dapat saling memantau dimana keterbukaan tersebut memotivasi semua pihak menjadi lebih baik. Winarso (2005:171) menyebutkan bahwa dengan semakin majunya perkembangan teknologi komunikasi massa dan media massa dengan pesat, media bukan sekedar mengubah atau memperkuat opini, sikap dan perilaku, melainkan telah menjadi salah satu agen sosialisasi dalam menciptakan dan membentuk sikap, nilai, perilaku, dan persepsi kita mengenai realitas sosial. Hal itu mengantarkan penulis pada ide penerapan aplikasi jalanku.go.id untuk memenuhi kebutuhan warga Kota Medan akan jalan yang baik menuju Medan Smart City.
+B. Analisis Masalah
+Sebelum istilah smart city, istilah e-government (electronic government) telah lebih dulu menjadi perbincangan dunia. Kota-kota di Indonesia juga berlomba-lomba melabeli diri sebagai kota yang memiliki pemerintahan berbasis internet. Namun walaupun namanya e-government, sistem pemerintahan yang dijalankan tidak sepenuhnya berbasis internet. E-
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+5
+government di Indonesia masih diartikan secara sempit sebagai sebuah sistem di internet (web, alamat email, atau milis) yang hanya sebagai etalase yang memajang data statistik, potensi wisata, dan kekayaan alam suatu daerah, serta „undangan? kepada para investor untuk menanamkan modal di daerah bersangkutan (Iskandar, 2009:12).
+Dalam pemanfaatan internet, Pemerintah Kota Medan telah memiliki website resmi bertajuk www.pemkomedan.go.id yang menyajikan beragam informasi seputar Kota Medan. Website induk milik pemerintah Kota Medan itu juga mewadahi kepentingan instansi di lingkungannya dengan website tersendiri, seperti website yang dimiliki Badan Penelitian dan Pengembangan Kota Medan, yakni balitbang.pemkomedan.go.id. Keberadaan website Pemko Medan ini menjadi peluang bagi hadirnya website-website „kecil? atau aplikasi-aplikasi pendukung pembangunan kota menuju Medan Smart City. Oleh karena itu, aplikasi jalanku.go.id direncanakan menjadi bagian dari website pemkomedan.go.id dengan tajuk jalanku.pemkomedan.go.id.
+Sehubungan dengan kemajuan teknologi informasi komunikasi yang menyentuh seluruh lapisan masyarakat, penerapan teknologi merupakan hal penting yang dapat dijadikan solusi. Banyaknya pengguna smartphone di Kota Medan menjadi peluang bagi suksesnya penerapan aplikasi ini. Aplikasi ini akan menarik perhatian warga Kota Medan untuk terlibat dalam pembangunan kota. Penggunaannya akan membantu warga mengetahui kondisi jalan sekaligus memberi masukan tentang permasalahan yang mereka temui di jalan untuk kemudian pemerintah menindaklanjutinya dengan perbaikan.
+C. Penerapan Aplikasi jalanku.go.id
+Aplikasi jalanku.go.id berfungsi menghimpun data tentang jalan untuk memandu pemerintah dalam mengambil kebijakan. Tugas pemerintah adalah menindaklanjuti info yang ada untuk memastikan kebenarannya dan memperbaiki jalan yang dimaksud. Sementara itu, dengan memasang aplikasi tersebut di smartphone, warga Kota Medan bisa memperoleh dan menyampaikan info tentang jalan. Berdasarkan info yang ada, warga bisa memilih jalan yang paling baik untuk dilaluinya. Progress dari perbaikan jalan pun bisa terus diinfokan dan dipantau hingga benar-benar dibenahi dengan baik.
+Pada tampilan awal (home) aplikasi ini akan terlihat tulisan “kecamatan” dan “nama jalan”. Pengguna bisa langsung mengetikkan nama jalan yang dimaksud dan mengklik tulisan “cari”. Kemudian akan tampil beberapa foto jalan yang dicari berikut deskripsi yang telah dibuat admin. Untuk memasukkan info jalan berupa foto dan deskripsi singkat, pengguna bisa mengklik tulisan “tambahkan info”. Selanjutnya admin
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+6
+akan meletakkan info tersebut pada foto jalan yang bersangkutan dan melengkapi deskripsinya. Pada tahap selanjutnya, aplikasi ini juga akan menampilkan “sketsa jalan” yang bisa diakses untuk mengetahui ikon jalan.
+Tujuan dari penerapan aplikasi jalanku.go.id adalah menghubungkan antar warga kota dan pemerintah dalam rangka pembenahan jalan-jalan di Kota Medan. Tidak hanya memberi dan menerima informasi tentang kondisi jalan, pada tahap selanjutnya pengguna aplikasi dapat pula mengetahui ikon tiap jalan di Kota Medan. Sebagai proyek berkelanjutan yang berorientasi jangka panjang, aplikasi ini juga bertujuan mempromosikan kekayaan atau aset kota, seperti bangunan-bangunan bersejarah dan wisata kuliner.
+Pemerintah kecamatan dan kelurahan bertugas menindaklanjuti laporan warga tentang jalan-jalan di lingkungannya sekaligus membuat sketsa jalan berisi ikon jalan. Secara tidak langsung, aplikasi ini berfungsi mempromosikan pariwisata di Kota Medan. Hal ini akan menjadi semacam „tour guide? bagi warga kota dan pengunjung dari luar kota. Selain itu, aplikasi ini akan meningkatkan kinerja pemerintah karena secara tidak langsung publik dapat memantau kinerja pemerintah kota hingga kecamatan. Berikut adalah beberapa manfaat penerapan aplikasi jalanku.go.id:
+A. Bagi Warga Kota Medan
+1. Mendapatkan info tentang jalan sehingga bisa memilih jalan yang paling baik
+2. Menyampaikan keluhan tentang jalan yang perlu diperbaiki
+3. Mengetahui ikon jalan (terutama warga luar Kota Medan)
+B. Bagi Pemerintah Kota Medan
+1. Mendapatkan info tentang jalan yang perlu diperbaiki
+2. Memotivasi untuk bekerja lebih baik
+3. Membantu mempromosikan pariwisata di Kota Medan
+BAB III. PENUTUP
+Perbaikan jalan merupakan tujuan utama dari tulisan ini dalam rangka mewujudkan Medan Smart City. Permasalahan seputar jalan-jalan di Kota Medan meliputi kemacetan, rambu lalu lintas yang tidak tertata, lampu lalu lintas yang tidak berfungsi, jalan berlubang, jalan sempit, jalan berdebu dan panas, perbaikan jalan, pedagang kaki lima, parkir liar di badan jalan, dan angkutan kota yang menaik-turunkan penumpang seenaknya. Untuk mengatasinya, penulis menawarkan solusi alternatif berupa penerapan aplikasi jalanku.go.id yang akan menjadi langkah besar menuju Medan Smart City. Tidak hanya perbaikan jalan, pengembangan aplikasi ini pun akan menjadi ajang promosi Kota Medan
+Kumpulan Karya Tulis Ilmiah
+Pada Lomba Karya Tulis Ilmiah Tahun 2015
+Tema “Inovasi Ilmu Pengetahuan dan Teknologi
+Dalam Mewujudkan Medan sebagai Kota Cerdas
+(Smart City)”
+7
+untuk memajukan perekonomian warga dan pariwisata kota.
+Sebagai bagian dari website Pemerintah Kota Medan, ide kreatif ini sangat mengandalkan komitmen pemerintah dalam penerapannya. Dengan memanfaatkan website pemkomedan.go.id yang telah ada, ide pembuatan aplikasi ini akan sangat mudah direalisasikan. Hal tersebut cukup dengan meningkatkan peran praktisi teknologi informasi komunikasi yang dimiliki Pemko Medan atau bila dibutuhkan dapat pula melibatkan pihak swasta. Komitmen penuh pemerintah dalam mengelola aplikasi ini dan keterlibatan aktif masyarakat akan merubah wajah Kota Medan menjadi kota cerdas, dimana warga dan pemerintahnya bersinergi memajukan kota.
+DAFTAR PUSTAKA
+Halim, Deddy Kurniawan, 2008, Psikologi Lingkungan Perkotaan, PT. Bumi Aksara, Jakarta.
+Hasrullah, Dr., M.A., Beragam Perspektif Ilmu Komunikasi, 2013, Kencana Prenada Media Group, Jakarta.
+Iskandar, 2009, Panduan Lengkap Internet, Penerbit Andi, Yogyakarta.
+Rivers, William L., Jay W. Jensen and Theodore Peterson, penterj. Haris Munandar dan Dudy Priatna, 2003, Media Massa & Masyarakat Modern, edisi kedua, Prenada Media, Jakarta.
+Verdiansyah, Chris (ed), 2006, Politik Kota dan Hak Warga Kota; Masalah Keseharian Kota Kita, Penerbit Buku Kompas, Jakarta.
+Winarso, Heru Puji, 2005, Sosiologi Komunikasi Massa, Prestasi Pustaka, Jakarta. https://en.wikipedia.org/wiki/ Smart_city, diakses 13 Agustus 2015.
