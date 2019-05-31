@@ -168,8 +168,7 @@ public class Document implements Comparable<Document> {
 
     /**
      *
-     * Method untuk membaca sebuah file *.txt dan * hasil baca dimasukkan ke
-     * atribut content
+     * Method untuk membaca sebuah file *.txt dan * hasil baca dimasukkan ke atribut content
      *
      */
     public void readFile(int idDoc, File file) {
@@ -288,15 +287,11 @@ public class Document implements Comparable<Document> {
         Version matchVersion = Version.LUCENE_7_7_0; // Substitute desired Lucene version for XY
         Analyzer analyzer = new IndonesianAnalyzer();
         analyzer.setVersion(matchVersion);
-        // ambil stopwords
         CharArraySet stopWords = IndonesianAnalyzer.getDefaultStopSet();
-        // buat token
         TokenStream tokenStream = analyzer.tokenStream(
                 "myField",
                 new StringReader(realContent.trim()));
-        // buang stop word
         tokenStream = new StopFilter(tokenStream, stopWords);
-        // buat string baru tanpa stopword
         StringBuilder sb = new StringBuilder();
         CharTermAttribute charTermAttribute = tokenStream.addAttribute(CharTermAttribute.class);
         try {

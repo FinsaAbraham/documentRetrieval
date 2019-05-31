@@ -326,9 +326,7 @@ public class InvertedIndex {
     }
 
     /**
-     * Method perkalian inner product dari PostingList Atribut yang dikalikan
-     * adalah atribut weight TFIDF dari posting Ini dikenal dengan istilah
-     * penghitungan jarak Euclidean
+     * Method perkalian inner product dari PostingList Atribut yang dikalikan adalah atribut weight TFIDF dari posting Ini dikenal dengan istilah penghitungan jarak Euclidean
      *
      * @param p1
      * @param p2
@@ -375,7 +373,7 @@ public class InvertedIndex {
 
     /**
      * Method untuk menghitung panjang dari sebuah posting 
-     * Asumsi posting memiliki komponen bobot/weight
+     * 
      *
      * @param posting
      * @return
